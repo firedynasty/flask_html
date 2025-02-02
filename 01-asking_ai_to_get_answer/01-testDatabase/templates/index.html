@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bible Interpretation Data</title>
+    <style>
+        .interpretation-card {
+            border: 1px solid #ddd;
+            margin: 10px;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        .error {
+            color: red;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bible Interpretation Data</h1>
+    <div id="bible-data"></div>
+
+    <script>
+        fetch('/api/bible-data')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                const container = document.getElementById('bible-data');
+                if (data.error) {
+                    container.innerHTML = `<div class="error">Error: ${data.error}</div>`;
+                    return;
+                }
+                data.forEach(item => {
+                    container.innerHTML += `
+                        <div class="interpretation-card">
+                            <h3>ID: ${item.id}</h3>
+                            <p><strong>Set Key:</strong> ${item.set_key}</p>
+                            <p><strong>Slides Data:</strong> ${item.slides_data}</p>
+                        </div>
+                    `;
+                });
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('bible-data').innerHTML = 
+                    `<div class="error">Error loading data: ${error.message}</div>`;
+            });
+    </script>
+</body>
+</html>

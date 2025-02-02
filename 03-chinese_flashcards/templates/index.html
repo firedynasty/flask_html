@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Viewer</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            margin: 0;
+            padding: 1rem;
+        }
+        .display-box {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 0.25rem;
+            background-color: #f8f9fa;
+        }
+        .display-text-main {
+            font-size: 1.25rem;
+            margin-bottom: 0.5rem;
+        }
+        .display-text-sub {
+            font-size: 1rem;
+            color: #666;
+            transition: opacity 0.2s;
+        }
+        .button-group {
+            margin-bottom: 1rem;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+        button {
+            padding: 0.5rem 1rem;
+            color: white;
+            border: none;
+            border-radius: 0.25rem;
+            cursor: pointer;
+        }
+        .nav-button {
+            background-color: #4B5563;
+        }
+        .action-button {
+            background-color: #6B7280;
+        }
+        .import-button {
+            background-color: #3B82F6;
+        }
+        select {
+            padding: 0.5rem;
+            border: 1px solid #ccc;
+            border-radius: 0.25rem;
+        }
+        textarea {
+            width: 100%;
+            padding: 0.5rem;
+            border: 1px solid #ccc;
+            border-radius: 0.25rem;
+            margin-bottom: 1rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            border: 1px solid #ccc;
+            padding: 0.5rem;
+            cursor: pointer;
+        }
+        .selected-row {
+            background-color: #fef08a;
+        }
+        .hidden {
+            display: none;
+        }
+         .set-select {
+            padding: 0.5rem;
+            border: 1px solid #ccc;
+            border-radius: 0.25rem;
+            margin-right: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="display-box">
+        <div class="display-text-main" id="displayTextMain"></div>
+        <div class="display-text-sub" id="displayTextSub"></div>
+    </div>
+
+    <div class="button-group">
+        <button class="nav-button" id="leftButton">← Left</button>
+        <button class="nav-button" id="rightButton">Right →</button>
+
+        <div style="display: flex; align-items: center; gap: 1rem;">
+            <label>
+                <input type="radio" name="showBottom" value="show" checked>
+                Show Bottom
+            </label>
+            <label>
+                <input type="radio" name="showBottom" value="hide">
+                Hide Bottom (click will keep show it in place)
+            </label>
+        </div>
+
+        <button class="action-button" id="reverseButton">Reverse Columns</button>
+    </div>
+
+    <div class="button-group">
+       <div class="button-group">
+    <select id="setNameSelect" class="set-select">
+        <option value="">Select a Set</option>
+        {% for set_name in set_names %}
+        <option value="{{ set_name }}">{{ set_name }}</option>
+        {% endfor %}
+    </select>
+    <button class="import-button" id="loadSetButton">Load Selected Set</button>
+    <button class="import-button" id="updateSetButton">Update Set in DB</button>
+    <!-- rest of the buttons -->
+</div>
+        <button class="import-button" id="textButton">From Text (, or \t)</button>
+        <button class="import-button" id="jsonButton">Import JSON</button>
+        <input type="file" id="csvFileInput" accept=".csv" class="hidden">
+        <button class="import-button" id="importButton">Import CSV</button>
+        <button class="import-button" id="exportButton">Export CSV</button>
+
+
+        <select id="languageSelect">
+            <option value="en-US">English</option>
+            <option value="es-ES">Spanish</option>
+            <option value="zh-HK">Cantonese</option>
+            <option value="zh-CN">Mandarin</option>
+            <option value="ko-KR">Korean</option>
+        </select>
+
+        <select id="rateSelect">
+            <option value="1">1x</option>
+            <option value="1.5">1.5x</option>
+            <option value="0.7">0.7x</option>
+        </select>
+    </div>
+
+    <textarea id="csvTextArea" rows="6" placeholder="Enter CSV data or JSON data here..."></textarea>
+    <table id="csvTable">
+        <tbody></tbody>
+    </table>
+
+    <script>
+class CSVViewer {
+    constructor() {
+        this.tableData = [];
+        this.currentIndex = 0;
+        this.displayTextMain = document.getElementById('displayTextMain');
+        this.displayTextSub = document.getElementById('displayTextSub');
+        this.csvTable = document.getElementById('csvTable').getElementsByTagName('tbody')[0];
+        this.showBottom = true;
+        this.isHovering = false;
+        this.isBottomVisible = true;
+        
+        this.initializeEventListeners();
+        this.initializeSetNameHandling();
+    }
+
+    initializeEventListeners() {
+        // Navigation buttons
+        document.getElementById('leftButton').addEventListener('click', () => this.handleNavigation('left'));
+        document.getElementById('rightButton').addEventListener('click', () => this.handleNavigation('right'));
+
+        // Display options
+        document.querySelectorAll('input[name="showBottom"]').forEach(radio => {
+            radio.addEventListener('change', (e) => {
+                this.showBottom = e.target.value === 'show';
+                this.updateDisplayBox();
+            });
+        });
+
+        // Column operations
+        document.getElementById('reverseButton').addEventListener('click', () => this.handleReverseColumns());
+
+        // File operations
+        document.getElementById('textButton').addEventListener('click', () => this.handleTextSubmit());
+        document.getElementById('jsonButton').addEventListener('click', () => this.handleJsonImport());
+        document.getElementById('importButton').addEventListener('click', () => document.getElementById('csvFileInput').click());
+        document.getElementById('exportButton').addEventListener('click', () => this.handleExport());
+        document.getElementById('csvFileInput').addEventListener('change', (e) => this.handleFileImport(e));
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') this.handleNavigation('left');
+            if (e.key === 'ArrowRight') this.handleNavigation('right');
+        });
+
+        // Initialize speech synthesis
+        speechSynthesis.addEventListener('voiceschanged', () => {
+            speechSynthesis.getVoices();
+        });
+    }
+
+    initializeSetNameHandling() {
+        document.getElementById('loadSetButton').addEventListener('click', () => this.handleSetLoad());
+        document.getElementById('setNameSelect').addEventListener('change', () => {
+            const setName = document.getElementById('setNameSelect').value;
+            if (setName) {
+                this.handleSetLoad();
+            }
+        });
+        document.getElementById('updateSetButton').addEventListener('click', () => this.handleSetUpdate());
+    }
+
+    async handleSetUpdate() {
+        const setName = document.getElementById('setNameSelect').value;
+        if (!setName) {
+            alert('Please select a set first');
+            return;
+        }
+
+        try {
+            // Convert table data to JSON format
+            const jsonData = this.tableData.map(row => ({
+                level: parseInt(row[0]) || 1,
+                chinese: row[1] || '',
+                description: row[2] || ''
+            }));
+
+            const response = await fetch(`/api/update-set/${encodeURIComponent(setName)}`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ json_value: JSON.stringify(jsonData) })
+            });
+
+            if (!response.ok) {
+                throw new Error('Failed to update set data');
+            }
+
+            const result = await response.json();
+            alert('Set updated successfully!');
+        } catch (error) {
+            alert('Error updating set: ' + error.message);
+            console.error('Set update error:', error);
+        }
+    }
+
+    async handleSetLoad() {
+        const setName = document.getElementById('setNameSelect').value;
+        if (!setName) {
+            alert('Please select a set first');
+            return;
+        }
+
+        try {
+            const response = await fetch(`/api/set-data/${encodeURIComponent(setName)}`);
+            if (!response.ok) throw new Error('Failed to fetch set data');
+            
+            const data = await response.json();
+            const textArea = document.getElementById('csvTextArea');
+            textArea.value = data.slides_data;
+            this.handleJsonImport();
+        } catch (error) {
+            alert('Error loading set: ' + error.message);
+            console.error('Set load error:', error);
+        }
+    }
+
+    handleJsonImport() {
+        try {
+            const textArea = document.getElementById('csvTextArea');
+            let text = textArea.value;
+            
+            // Convert JavaScript object notation to valid JSON
+            text = text.replace(/([{,]\s*)(\w+):/g, '$1"$2":');
+            
+            const jsonData = JSON.parse(text);
+            
+            // Convert JSON to table format
+            const convertedData = jsonData.map(item => [
+                item.level.toString(),
+                item.chinese,
+                item.description
+            ]);
+            
+            this.tableData = convertedData;
+            this.currentIndex = 0;
+            this.updateDisplayText(
+                this.tableData[0][1] || '',
+                this.tableData[0][2] || ''
+            );
+            this.renderTable();
+        } catch (error) {
+            alert('Invalid JSON format. Please check your input.');
+            console.error('JSON import error:', error);
+        }
+    }
+
+    convertCSVToTable(text, addOnes = true) {
+        const delimiter = text.includes('\t') ? '\t' : ',';
+        
+        const rows = text.split('\n')
+            .filter(row => row.trim() !== '')
+            .map(row => {
+                const cells = row.split(delimiter).map(cell => cell.trim());
+                if (addOnes) {
+                    cells.unshift('1');
+                }
+                return cells;
+            });
+        
+        this.tableData = rows;
+        this.currentIndex = 0;
+        if (rows.length > 0) {
+            this.updateDisplayText(rows[0][1] || '', rows[0][2] || '');
+        }
+        this.renderTable();
+    }
+
+    handleNavigation(direction) {
+        if (this.tableData.length === 0) return;
+
+        let newIndex = this.currentIndex;
+        const maxAttempts = this.tableData.length;
+        let attempts = 0;
+
+        do {
+            if (direction === 'right') {
+                newIndex = (newIndex + 1) % this.tableData.length;
+            } else {
+                newIndex = newIndex > 0 ? newIndex - 1 : this.tableData.length - 1;
+            }
+            attempts++;
+            
+            if (this.tableData[newIndex][0] === '1' || attempts >= maxAttempts) {
+                break;
+            }
+        } while (newIndex !== this.currentIndex);
+
+        if (this.tableData[newIndex][0] === '1') {
+            this.currentIndex = newIndex;
+            this.updateDisplayText(
+                this.tableData[newIndex][1] || '',
+                this.tableData[newIndex][2] || ''
+            );
+            this.renderTable();
+        }
+    }
+
+    handleReverseColumns() {
+        this.tableData = this.tableData.map(row => {
+            const newRow = [...row];
+            [newRow[1], newRow[2]] = [newRow[2], newRow[1]];
+            return newRow;
+        });
+        
+        this.updateDisplayText(
+            this.tableData[this.currentIndex][1] || '',
+            this.tableData[this.currentIndex][2] || ''
+        );
+        this.renderTable();
+    }
+
+    handleTextSubmit() {
+        const text = document.getElementById('csvTextArea').value;
+        const addOnes = confirm('Add 1s to the first column?');
+        this.convertCSVToTable(text, addOnes);
+    }
+
+    handleFileImport(event) {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                const text = e.target.result;
+                const addOnes = confirm('Add 1s to the first column?');
+                this.convertCSVToTable(text, addOnes);
+            };
+            reader.readAsText(file);
+        }
+    }
+
+    handleExport() {
+        if (this.tableData.length === 0) {
+            alert('No data to export!');
+            return;
+        }
+        
+        const csvContent = this.tableData.map(row => row.join(',')).join('\n');
+        const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+        const link = document.createElement('a');
+        
+        if (navigator.msSaveBlob) {
+            navigator.msSaveBlob(blob, 'table_export.csv');
+        } else {
+            link.href = URL.createObjectURL(blob);
+            link.download = 'table_export.csv';
+            link.style.display = 'none';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    }
+
+    handleCellClick(rowIndex, cellIndex, cell) {
+        this.currentIndex = rowIndex;
+        this.updateDisplayText(
+            this.tableData[rowIndex][1] || '',
+            this.tableData[rowIndex][2] || ''
+        );
+        
+        if (cellIndex === 0) {
+            if (cell === '1' || cell === '2') {
+                this.tableData[rowIndex][cellIndex] = cell === '1' ? '2' : '1';
+                this.renderTable();
+            }
+        } else if (cellIndex === 1 || cellIndex === 2) {
+            this.speakText(cell, cellIndex);
+        }
+    }
+
+    speakText(text, cellIndex) {
+        if (!text) return;
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = cellIndex === 1 ? 
+            document.getElementById('languageSelect').value : 'en-US';
+        utterance.rate = parseFloat(document.getElementById('rateSelect').value);
+        
+        const voices = speechSynthesis.getVoices();
+        if (utterance.lang === 'ko-KR' && cellIndex === 1) {
+            const koreanVoice = voices.find(voice => voice.name === 'Google 한국의');
+            if (koreanVoice) {
+                utterance.voice = koreanVoice;
+            }
+        }
+        
+        speechSynthesis.speak(utterance);
+    }
+
+    updateDisplayText(main, sub) {
+        this.displayTextMain.textContent = main;
+        this.displayTextSub.textContent = sub;
+        this.updateDisplayBox();
+    }
+
+    updateDisplayBox() {
+        const subText = document.getElementById('displayTextSub');
+        subText.style.display = this.showBottom ? 'block' : 'none';
+    }
+
+    renderTable() {
+        this.csvTable.innerHTML = '';
+        this.tableData.forEach((row, rowIndex) => {
+            const tr = document.createElement('tr');
+            if (rowIndex === this.currentIndex) {
+                tr.classList.add('selected-row');
+            }
+            
+            row.forEach((cell, cellIndex) => {
+                const td = document.createElement('td');
+                td.textContent = cell;
+                td.addEventListener('click', () => this.handleCellClick(rowIndex, cellIndex, cell));
+                tr.appendChild(td);
+            });
+            
+            this.csvTable.appendChild(tr);
+        });
+    }
+}
+
+// Initialize the application
+document.addEventListener('DOMContentLoaded', () => {
+    window.csvViewer = new CSVViewer();
+});
+    </script>
+</body>
+</html>

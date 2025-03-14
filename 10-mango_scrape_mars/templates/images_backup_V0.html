@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Mars Images</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+<div class="text-center">
+<h1>Images of Mars Hemispheres</h1>
+</div>   
+
+ <div>
+      <ul style="list-style: none;">
+
+          {% for item in list %}
+            {% for element in item %}
+          <li>{{ element['title'] }} </li>
+          <li>{{ element['img_url'] }}</li>
+          
+            {% endfor %}
+          {% endfor %}
+          
+      </ul>
+    </div>
+
+
+<!--  <div>
+      <ul style="list-style: none;">
+
+          {% for item in list %}
+          <li>{{ item }}</li>
+          {% endfor %}
+          
+      </ul>
+    </div> -->
+
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+
+
+
+</div>
+
+</body>
+
+</html>

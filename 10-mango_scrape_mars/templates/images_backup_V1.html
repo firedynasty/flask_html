@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Mars Images</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+<div class="text-center">
+<h1>Images of Mars Hemispheres</h1>
+</div>   
+
+
+<div class="container">
+    <table class="table">
+    {% for image_file in image_files1 %}
+    <tr>
+      <td>
+      <figure class="figure">
+    <img class="img-thumbnail" src="{{ image_file.img_url }}" alt="...">
+    <figcaption class="figure-caption"><b>{{ image_file.title }}</b></figure>
+      </figure>
+    </td>
+  </tr>
+      {% endfor %}
+
+
+is there a way to print two things at the same time?
+because in a sense I am stuck at the same problem again
+
+
+    </table>
+
+
+<table class="table">
+    <tr>
+    {% for image_file in image_files2 %}
+      <td>
+      <figure class="figure">
+    <img class="img-thumbnail" src="{{ image_file.img_url }}" alt="...">
+    <figcaption class="figure-caption"><b>{{ image_file.title }}</b></figure>
+    </td>
+    {% endfor %}
+  </tr>
+
+    </table>
+
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+
+
+</div>
+
+</body>
+
+</html>

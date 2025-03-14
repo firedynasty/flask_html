@@ -1,0 +1,22 @@
+That's exactly right. In MongoDB, the hierarchy is:
+
+1. **Database** - The top-level container (similar to a database in SQL systems)
+2. **Collection** - A group of documents (similar to a table in SQL)
+3. **Document** - An individual record stored as BSON/JSON (similar to a row in SQL)
+
+So in your example:
+- You're working with a database (whatever database `mongo.db` points to)
+- Inside that database is a collection called `mars_data`
+- Inside that collection are documents containing your scraped data
+
+Each document can contain various fields and even nested structures (arrays, embedded documents), which gives MongoDB its flexibility compared to traditional relational databases.
+
+This hierarchy is important to understand when querying and managing your MongoDB data, as you always navigate through this path: database → collection → document.
+
+# create route that triggers scraping and updates the database
+@app.route("/scrape")
+def scrape():
+    news_data = scrape_news.scrape_info()
+    # Update with the correct PyMongo syntax for your version
+    mongo.db.mars_data.update_one({}, {"$set": news_data}, upsert=True)
+    return redirect("/")

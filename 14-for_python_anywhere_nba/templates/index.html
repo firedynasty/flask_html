@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Matchup Prediction Tool</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 1000px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        
+        .team-selector {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+        
+        .team-selection {
+            flex: 1;
+            margin: 0 10px;
+        }
+        
+        select {
+            width: 100%;
+            padding: 10px;
+            font-size: 1.1em;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            background-color: white;
+        }
+        
+        label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: background-color 0.3s;
+            margin: 20px auto;
+            display: block;
+            font-weight: bold;
+        }
+        
+        button:hover {
+            background-color: #2980b9;
+        }
+        
+        #prediction-results {
+            margin-top: 30px;
+        }
+        
+        .results-container {
+            display: none;
+            margin-top: 20px;
+        }
+        
+        .versus {
+            text-align: center;
+            font-size: 1.5em;
+            font-weight: bold;
+            margin: 0 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .loading {
+            text-align: center;
+            color: #777;
+            font-style: italic;
+            margin: 20px 0;
+            display: none;
+        }
+        
+        .stats-cards {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        
+        .team-card {
+            flex: 1;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 0 10px;
+        }
+        
+        .team1-card {
+            background-color: #e8f4f8;
+            border-left: 5px solid royalblue;
+        }
+        
+        .team2-card {
+            background-color: #f8e8e8;
+            border-left: 5px solid crimson;
+        }
+        
+        .team-heading {
+            font-size: 1.5em;
+            margin-top: 0;
+            color: #333;
+        }
+        
+        .prediction-box {
+            background-color: #e9f7ef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        
+        .matchup-factors {
+            background-color: #ebf5fb;
+            padding: 15px;
+            border-radius: 5px;
+        }
+        
+        .error-message {
+            color: red;
+            font-weight: bold;
+            text-align: center;
+            padding: 10px;
+            background-color: #ffebee;
+            border-radius: 5px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NBA Matchup Prediction Tool</h1>
+        <p style="text-align: center;">Select two teams and predict the outcome using machine learning</p>
+        
+        <div class="team-selector">
+            <div class="team-selection">
+                <label for="team1">Team 1:</label>
+                <select id="team1">
+                    {% for team in team_list %}
+                    <option value="{{ team }}">{{ team }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <div class="versus">VS</div>
+            
+            <div class="team-selection">
+                <label for="team2">Team 2:</label>
+                <select id="team2">
+                    {% for team in team_list %}
+                    <option value="{{ team }}" {% if loop.index == 2 %}selected{% endif %}>{{ team }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+        
+        <button id="predict-btn">Predict Matchup</button>
+        
+        <div id="loading" class="loading">
+            Retrieving matchup data... Please wait.
+        </div>
+        
+        <div id="error-message" class="error-message"></div>
+        
+        <div id="results-container" class="results-container">
+            <div class="stats-cards">
+                <div id="team1-card" class="team-card team1-card">
+                    <h3 id="team1-heading" class="team-heading">Team 1</h3>
+                    <p>Recent Record: <span id="team1-record"></span></p>
+                    <p>Win Percentage: <span id="team1-win-pct"></span></p>
+                    <p>Offensive Rating: <span id="team1-ortg"></span></p>
+                    <p>Defensive Rating: <span id="team1-drtg"></span></p>
+                    <p>Effective FG%: <span id="team1-efg"></span></p>
+                </div>
+                
+                <div id="team2-card" class="team-card team2-card">
+                    <h3 id="team2-heading" class="team-heading">Team 2</h3>
+                    <p>Recent Record: <span id="team2-record"></span></p>
+                    <p>Win Percentage: <span id="team2-win-pct"></span></p>
+                    <p>Offensive Rating: <span id="team2-ortg"></span></p>
+                    <p>Defensive Rating: <span id="team2-drtg"></span></p>
+                    <p>Effective FG%: <span id="team2-efg"></span></p>
+                </div>
+            </div>
+            
+            <div class="prediction-box">
+                <h3>Model Prediction</h3>
+                <div id="predictions">
+                    <p><span id="team1-name-home"></span> at home vs <span id="team2-name-away"></span>: <strong id="team1-home-pred"></strong></p>
+                    <p><span id="team2-name-home"></span> at home vs <span id="team1-name-away"></span>: <strong id="team2-home-pred"></strong></p>
+                    
+                    <h4>Prediction Summary:</h4>
+                    <p id="prediction-summary"></p>
+                    <p>Neutral court projection: <span id="neutral-court"></span></p>
+                </div>
+            </div>
+            
+            <div class="matchup-factors">
+                <h3>Key Matchup Factors</h3>
+                <p id="team-advantages"></p>
+                
+                <p><strong>1. Offensive Efficiency:</strong><br>
+                    <span id="team1-name-off"></span> ORTG: <span id="team1-ortg-comp"></span> vs 
+                    <span id="team2-name-off"></span> ORTG: <span id="team2-ortg-comp"></span>
+                    <br><em><span id="off-advantage"></span> has a 
+                    <span id="off-margin"></span> point offensive advantage</em>
+                </p>
+                
+                <p><strong>2. Defensive Efficiency:</strong><br>
+                    <span id="team1-name-def"></span> Defensive RTG: <span id="team1-drtg-comp"></span> vs 
+                    <span id="team2-name-def"></span> Defensive RTG: <span id="team2-drtg-comp"></span>
+                    <br><em><span id="def-advantage"></span> has a 
+                    <span id="def-margin"></span> point defensive advantage</em>
+                </p>
+                
+                <p><strong>3. Four Factors:</strong><br>
+                    <strong>Shooting:</strong> <span id="team1-name-shooting"></span> eFG%: <span id="team1-efg-comp"></span>, 
+                    <span id="team2-name-shooting"></span> eFG%: <span id="team2-efg-comp"></span><br>
+                    <strong>Turnovers:</strong> <span id="team1-name-to"></span>: <span id="team1-tov"></span>%, 
+                    <span id="team2-name-to"></span>: <span id="team2-tov"></span>%<br>
+                    <strong>Rebounding:</strong> <span id="team1-name-reb"></span> ORB%: <span id="team1-orb"></span>%, 
+                    <span id="team2-name-reb"></span> ORB%: <span id="team2-orb"></span>%<br>
+                    <strong>Free Throws:</strong> <span id="team1-name-ft"></span> FT Rate: <span id="team1-ft"></span>, 
+                    <span id="team2-name-ft"></span> FT Rate: <span id="team2-ft"></span>
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Get DOM elements
+            const team1Select = document.getElementById('team1');
+            const team2Select = document.getElementById('team2');
+            const predictBtn = document.getElementById('predict-btn');
+            const loadingDiv = document.getElementById('loading');
+            const errorDiv = document.getElementById('error-message');
+            const resultsContainer = document.getElementById('results-container');
+            
+            // Set default teams if available
+            if (team1Select.options.length > 0) {
+                team1Select.selectedIndex = 0;
+            }
+            if (team2Select.options.length > 1) {
+                team2Select.selectedIndex = 1;
+            }
+            
+            // Add event listener to predict button
+            predictBtn.addEventListener('click', predictMatchup);
+            
+            function predictMatchup() {
+                const team1 = team1Select.value;
+                const team2 = team2Select.value;
+                
+                // Reset containers
+                errorDiv.style.display = 'none';
+                resultsContainer.style.display = 'none';
+                loadingDiv.style.display = 'block';
+                
+                // Validate inputs
+                if (!team1 || !team2) {
+                    showError('Please select both teams');
+                    return;
+                }
+                
+                if (team1 === team2) {
+                    showError('Please select two different teams');
+                    return;
+                }
+                
+                // Make API request
+                fetch('/api/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        team1: team1,
+                        team2: team2
+                    })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    loadingDiv.style.display = 'none';
+                    
+                    if (data.error) {
+                        showError(data.error);
+                        return;
+                    }
+                    
+                    // Update the results UI
+                    updateResultsUI(data, team1, team2);
+                    resultsContainer.style.display = 'block';
+                })
+                .catch(error => {
+                    loadingDiv.style.display = 'none';
+                    showError('Error processing request: ' + error.message);
+                });
+            }
+            
+            function showError(message) {
+                loadingDiv.style.display = 'none';
+                errorDiv.textContent = message;
+                errorDiv.style.display = 'block';
+            }
+            
+            function updateResultsUI(data, team1, team2) {
+                // Team cards
+                document.getElementById('team1-heading').textContent = team1;
+                document.getElementById('team2-heading').textContent = team2;
+                
+                // Team stats
+                document.getElementById('team1-record').textContent = data.team1_stats.record;
+                document.getElementById('team1-win-pct').textContent = (data.team1_stats.win_pct * 100).toFixed(1) + '%';
+                document.getElementById('team1-ortg').textContent = data.team1_stats.ortg.toFixed(1);
+                document.getElementById('team1-drtg').textContent = data.team1_stats.drtg.toFixed(1);
+                document.getElementById('team1-efg').textContent = data.team1_stats.efg.toFixed(3);
+                
+                document.getElementById('team2-record').textContent = data.team2_stats.record;
+                document.getElementById('team2-win-pct').textContent = (data.team2_stats.win_pct * 100).toFixed(1) + '%';
+                document.getElementById('team2-ortg').textContent = data.team2_stats.ortg.toFixed(1);
+                document.getElementById('team2-drtg').textContent = data.team2_stats.drtg.toFixed(1);
+                document.getElementById('team2-efg').textContent = data.team2_stats.efg.toFixed(3);
+                
+                // Predictions
+                document.getElementById('team1-name-home').textContent = team1;
+                document.getElementById('team2-name-away').textContent = team2;
+                document.getElementById('team1-home-pred').textContent = data.predictions.team1_home;
+                
+                document.getElementById('team2-name-home').textContent = team2;
+                document.getElementById('team1-name-away').textContent = team1;
+                document.getElementById('team2-home-pred').textContent = data.predictions.team2_home;
+                
+                document.getElementById('prediction-summary').textContent = data.prediction_summary;
+                document.getElementById('neutral-court').textContent = data.neutral_court;
+                
+                // Team advantages
+                if (data.advantages) {
+                    document.getElementById('team-advantages').textContent = 
+                        `${team1} has advantage in ${data.advantages[team1]} categories, ${team2} has advantage in ${data.advantages[team2]} categories`;
+                }
+                
+                // Matchup factors
+                // Offensive efficiency
+                document.getElementById('team1-name-off').textContent = team1;
+                document.getElementById('team2-name-off').textContent = team2;
+                document.getElementById('team1-ortg-comp').textContent = data.matchup_factors.offensive[team1].toFixed(1);
+                document.getElementById('team2-ortg-comp').textContent = data.matchup_factors.offensive[team2].toFixed(1);
+                document.getElementById('off-advantage').textContent = data.matchup_factors.offensive.advantage;
+                document.getElementById('off-margin').textContent = data.matchup_factors.offensive.margin.toFixed(1);
+                
+                // Defensive efficiency
+                document.getElementById('team1-name-def').textContent = team1;
+                document.getElementById('team2-name-def').textContent = team2;
+                document.getElementById('team1-drtg-comp').textContent = data.matchup_factors.defensive[team1].toFixed(1);
+                document.getElementById('team2-drtg-comp').textContent = data.matchup_factors.defensive[team2].toFixed(1);
+                document.getElementById('def-advantage').textContent = data.matchup_factors.defensive.advantage;
+                document.getElementById('def-margin').textContent = data.matchup_factors.defensive.margin.toFixed(1);
+                
+                // Four factors
+                // Shooting
+                document.getElementById('team1-name-shooting').textContent = team1;
+                document.getElementById('team2-name-shooting').textContent = team2;
+                document.getElementById('team1-efg-comp').textContent = data.matchup_factors.four_factors.shooting[team1].toFixed(3);
+                document.getElementById('team2-efg-comp').textContent = data.matchup_factors.four_factors.shooting[team2].toFixed(3);
+                
+                // Turnovers
+                document.getElementById('team1-name-to').textContent = team1;
+                document.getElementById('team2-name-to').textContent = team2;
+                document.getElementById('team1-tov').textContent = data.matchup_factors.four_factors.turnovers[team1].toFixed(1);
+                document.getElementById('team2-tov').textContent = data.matchup_factors.four_factors.turnovers[team2].toFixed(1);
+                
+                // Rebounding
+                document.getElementById('team1-name-reb').textContent = team1;
+                document.getElementById('team2-name-reb').textContent = team2;
+                document.getElementById('team1-orb').textContent = data.matchup_factors.four_factors.rebounding[team1].toFixed(1);
+                document.getElementById('team2-orb').textContent = data.matchup_factors.four_factors.rebounding[team2].toFixed(1);
+                
+                // Free throws
+                document.getElementById('team1-name-ft').textContent = team1;
+                document.getElementById('team2-name-ft').textContent = team2;
+                document.getElementById('team1-ft').textContent = data.matchup_factors.four_factors.free_throws[team1].toFixed(3);
+                document.getElementById('team2-ft').textContent = data.matchup_factors.four_factors.free_throws[team2].toFixed(3);
+            }
+        });
+    </script>
+</body>
+</html>

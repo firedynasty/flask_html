@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import json
 from flask import Flask, render_template, jsonify, request, send_from_directory
-from datetime import datetime, timedelta
 
 # Get the absolute path of the directory containing application.py
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -15,18 +14,10 @@ app = Flask(__name__,
 matchups_df = pd.read_csv(os.path.join(BASE_DIR, 'all_matchup_predictions.csv'))
 team_list = sorted(list(set(matchups_df['team1'].tolist() + matchups_df['team2'].tolist())))
 
-# Get the latest prediction date from the CSV file
-latest_prediction_date = pd.to_datetime(matchups_df['prediction_date']).max()
-next_date = (latest_prediction_date + timedelta(days=1)).strftime('%B %d, %Y')
-formatted_prediction_date = latest_prediction_date.strftime('%B %d, %Y')
-
 @app.route('/')
 def index():
     try:
-        return render_template('index.html', 
-                              team_list=team_list, 
-                              prediction_date=formatted_prediction_date,
-                              next_date=next_date)
+        return render_template('index.html', team_list=team_list)
     except Exception as e:
         return render_template('error.html', error=str(e))
 

@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Transcripts</title>
+  <style>
+@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300,400");
+
+html, body {
+  -webkit-font-smoothing: antialiased;
+  background-color: #111;
+  color: #C8C7C8;
+  font: 20px/24px "Yanone Kaffeesatz", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 10px 0;
+}
+
+* { box-sizing: border-box; }
+
+.music-navbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  z-index: 9999;
+  padding: 0 20px;
+  border-bottom: 3px solid #667eea;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.5);
+}
+
+body { padding-top: 53px; }
+
+.music-nav-link {
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 14px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.music-nav-link:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  color: white;
+}
+
+.music-navbar .nav-title {
+  color: #CE93D8;
+  font-weight: 600;
+  font-size: 15px;
+  margin-right: auto;
+  white-space: nowrap;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #667eea;
+  font-size: 2rem;
+  margin: 20px 0 5px;
+  font-weight: 400;
+}
+
+.subtitle {
+  text-align: center;
+  color: #888;
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.section {
+  background: linear-gradient(135deg, rgba(38, 50, 56, 0.8), rgba(55, 71, 79, 0.8));
+  border: 1px solid rgba(144, 164, 174, 0.3);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin: 1rem 0;
+}
+
+.btn {
+  background: linear-gradient(45deg, #455A64, #37474F);
+  color: #E0E0E0;
+  border: 1px solid rgba(144,164,174,0.4);
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: inherit;
+  transition: all 0.2s;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: linear-gradient(45deg, #546E7A, #455A64);
+  border-color: #667eea;
+}
+
+.btn.primary {
+  background: linear-gradient(45deg, #667eea, #764ba2);
+  border-color: transparent;
+  color: white;
+}
+
+.btn.primary:hover {
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+.url-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.url-input {
+  flex: 1;
+  min-width: 200px;
+  padding: 10px 14px;
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(144, 164, 174, 0.35);
+  border-radius: 8px;
+  color: #E0E0E0;
+  font-size: 0.9rem;
+  font-family: monospace;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.url-input:focus {
+  border-color: #667eea;
+}
+
+.url-input::placeholder {
+  color: #555;
+}
+
+
+.status {
+  font-family: monospace;
+  font-size: 0.85rem;
+  color: #8BC34A;
+  margin-top: 8px;
+  min-height: 1.2em;
+}
+
+.status.error { color: #f44336; }
+
+/* Transcript viewer */
+.viewer-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.close-btn {
+  background: rgba(244, 67, 54, 0.2);
+  border: 1px solid rgba(244, 67, 54, 0.4);
+  color: #f44336;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.close-btn:hover {
+  background: rgba(244, 67, 54, 0.4);
+}
+
+.viewer-title {
+  color: #667eea;
+  font-size: 1.3rem;
+  font-weight: 400;
+  flex: 1;
+  word-break: break-word;
+}
+
+.viewer-meta {
+  margin-bottom: 16px;
+}
+
+.viewer-meta a {
+  color: #667eea;
+  text-decoration: none;
+}
+
+.viewer-meta a:hover {
+  text-decoration: underline;
+}
+
+.transcript-content {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(144, 164, 174, 0.2);
+  border-radius: 8px;
+  padding: 16px;
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.8;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.transcript-content .timestamp {
+  color: #667eea;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 0.85em;
+  margin-top: 1.2em;
+  margin-bottom: 0.3em;
+  display: block;
+}
+
+.transcript-content .timestamp:first-child {
+  margin-top: 0;
+}
+
+.transcript-content .paragraph {
+  margin: 0 0 0.8em;
+}
+
+/* Page-down button inside transcript */
+.pgdown-btn {
+  position: sticky;
+  top: 50%;
+  right: 6px;
+  z-index: 10;
+  width: 48px;
+  height: 48px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.7);
+  opacity: 0.35;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  margin-bottom: -48px;
+  float: right;
+}
+
+.pgdown-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  opacity: 0.6;
+  transform: scale(1.1);
+}
+
+body.light .pgdown-btn {
+  background: rgba(0, 0, 0, 0.08);
+  border-color: rgb(0, 0, 0);
+  color: rgba(0, 0, 0, 0.7);
+  opacity: 0.15;
+}
+
+body.light .pgdown-btn:hover {
+  background: rgba(0, 0, 0, 0.12);
+  opacity: 0.2;
+  transform: scale(1.1);
+}
+
+/* Toolbar */
+.toolbar {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+
+.copy-btn {
+  background: linear-gradient(45deg, #43A047, #2E7D32);
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  color: white;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+
+.copy-btn:hover {
+  box-shadow: 0 4px 12px rgba(67, 160, 71, 0.4);
+}
+
+.font-btn {
+  background: rgba(255,255,255,0.1);
+  border: 1px solid rgba(144,164,174,0.3);
+  color: #E0E0E0;
+  border-radius: 6px;
+  width: 32px;
+  height: 32px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+
+.font-btn:hover {
+  background: rgba(255,255,255,0.2);
+  border-color: #667eea;
+}
+
+.font-label {
+  font-size: 0.8rem;
+  color: #888;
+  margin-left: 4px;
+}
+
+/* Light mode */
+body.light {
+  background-color: #f5f5f5;
+  color: #222;
+}
+
+body.light .music-navbar {
+  background: rgba(255, 255, 255, 0.95);
+  border-bottom-color: #4a5dc7;
+}
+
+body.light .music-navbar .nav-title {
+  color: #4a5dc7;
+}
+
+body.light .section {
+  background: #fff;
+  border-color: #ddd;
+}
+
+body.light h1 { color: #4a5dc7; }
+body.light .subtitle { color: #666; }
+
+body.light .url-input {
+  background: #f0f0f0;
+  border-color: #ccc;
+  color: #222;
+}
+
+body.light .url-input:focus { border-color: #4a5dc7; }
+body.light .url-input::placeholder { color: #aaa; }
+
+
+body.light .viewer-title { color: #4a5dc7; }
+body.light .viewer-meta a { color: #4a5dc7; }
+
+body.light .transcript-content {
+  background: rgba(0, 0, 0, 0.02);
+  border-color: #ddd;
+  color: #222;
+}
+
+body.light .transcript-content .timestamp { color: #4a5dc7; }
+
+body.light .close-btn {
+  background: rgba(244, 67, 54, 0.1);
+}
+
+body.light .font-btn {
+  background: rgba(0,0,0,0.05);
+  border-color: #ccc;
+  color: #333;
+}
+
+body.light .font-label { color: #666; }
+body.light .status { color: #2E7D32; }
+body.light .status.error { color: #c62828; }
+  </style>
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="music-navbar">
+  <span class="nav-title">YT Transcripts</span>
+  <button class="music-nav-link" style="background:linear-gradient(45deg,#546E7A,#37474F);" id="themeBtn" onclick="toggleTheme()">Light</button>
+</div>
+
+<div class="container">
+  <h1>YouTube Transcripts</h1>
+  <p class="subtitle">Paste a video or channel URL to get the transcript instantly</p>
+
+  <!-- Fetch section -->
+  <div class="section" id="fetch-section">
+    <div class="url-row">
+      <input
+        type="text"
+        id="url-input"
+        class="url-input"
+        placeholder="https://www.youtube.com/watch?v=... or channel URL"
+        onkeydown="if(event.key==='Enter') fetchTranscript()"
+      >
+      <button class="btn primary" id="fetch-btn" onclick="fetchTranscript()">Get Transcript</button>
+    </div>
+    <div id="fetch-status" class="status"></div>
+  </div>
+
+  <!-- Transcript viewer -->
+  <div id="viewer" style="display: none;">
+    <div class="section">
+      <div class="viewer-header">
+        <button class="close-btn" onclick="closeViewer()" title="Back">&times;</button>
+        <span id="viewer-title" class="viewer-title"></span>
+      </div>
+      <div id="viewer-meta" class="viewer-meta"></div>
+      <div class="toolbar">
+        <button class="copy-btn" onclick="copyTranscript()">Copy</button>
+        <span id="copy-status" class="status" style="margin: 0;"></span>
+        <span style="flex:1;"></span>
+        <span class="font-label">Font</span>
+        <button class="font-btn" onclick="changeFontSize(-1)" title="Decrease">&minus;</button>
+        <button class="font-btn" onclick="changeFontSize(1)" title="Increase">+</button>
+      </div>
+      <div id="transcript-content" class="transcript-content"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+let currentFontSize = 18;
+
+// Theme
+function toggleTheme() {
+  document.body.classList.toggle('light');
+  document.getElementById('themeBtn').textContent =
+    document.body.classList.contains('light') ? 'Dark' : 'Light';
+}
+
+// Font size
+function changeFontSize(delta) {
+  currentFontSize = Math.max(10, Math.min(36, currentFontSize + delta * 2));
+  document.getElementById('transcript-content').style.fontSize = currentFontSize + 'px';
+}
+
+// Copy
+function copyTranscript() {
+  const text = document.getElementById('transcript-content').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    const s = document.getElementById('copy-status');
+    s.textContent = 'Copied!';
+    setTimeout(() => s.textContent = '', 2000);
+  });
+}
+
+// Close viewer → show fetch section
+function closeViewer() {
+  document.getElementById('viewer').style.display = 'none';
+  document.getElementById('fetch-section').style.display = 'block';
+}
+
+// Format transcript text into HTML — always uses real [M:00] markers from the server
+function formatTranscript(rawText) {
+  const parts = rawText.split(/(\[\d+:00\])/);
+  let html = '';
+  for (let i = 0; i < parts.length; i++) {
+    const part = parts[i].trim();
+    if (!part) continue;
+    if (/^\[\d+:00\]$/.test(part)) {
+      html += `<span class="timestamp">${part}</span>`;
+    } else {
+      html += `<span class="paragraph">${escapeHtml(part)}</span>`;
+    }
+  }
+  return html;
+}
+
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
+// Main fetch
+async function fetchTranscript() {
+  const url = document.getElementById('url-input').value.trim();
+  const statusEl = document.getElementById('fetch-status');
+  const btn = document.getElementById('fetch-btn');
+
+  if (!url) {
+    statusEl.textContent = 'Please enter a YouTube URL.';
+    statusEl.className = 'status error';
+    return;
+  }
+
+  statusEl.textContent = 'Fetching transcript…';
+  statusEl.className = 'status';
+  btn.disabled = true;
+
+  try {
+    const res = await fetch('/api/transcript', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url }),
+    });
+
+    const data = await res.json();
+
+    if (!res.ok || data.error) {
+      statusEl.textContent = 'Error: ' + (data.error || `HTTP ${res.status}`);
+      statusEl.className = 'status error';
+      return;
+    }
+
+    // Show viewer
+    statusEl.textContent = '';
+    document.getElementById('url-input').value = '';
+    document.getElementById('fetch-section').style.display = 'none';
+    document.getElementById('viewer').style.display = 'block';
+
+    document.getElementById('viewer-title').textContent = data.title;
+    document.getElementById('viewer-meta').innerHTML =
+      `<a href="${escapeHtml(data.url)}" target="_blank">${escapeHtml(data.url)}</a>`;
+
+    const contentEl = document.getElementById('transcript-content');
+    const pgDownBtn = `<button class="pgdown-btn" title="Page down"
+      onclick="var el=document.getElementById('transcript-content'); el.scrollBy({top: el.clientHeight * 0.9, behavior: 'smooth'})">
+      <svg width="48" height="48" viewBox="0 0 64 64"><path d="M8 20 L32 44 L56 20" stroke="currentColor" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+    </button>`;
+    contentEl.innerHTML = pgDownBtn + formatTranscript(data.transcript);
+    contentEl.style.fontSize = currentFontSize + 'px';
+
+  } catch (e) {
+    statusEl.textContent = 'Error: ' + e.message;
+    statusEl.className = 'status error';
+  } finally {
+    btn.disabled = false;
+  }
+}
+</script>
+</body>
+</html>

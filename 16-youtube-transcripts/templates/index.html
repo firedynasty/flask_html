@@ -419,6 +419,7 @@ body.light .status.error { color: #c62828; }
         placeholder="https://www.youtube.com/watch?v=... or channel URL"
         onkeydown="if(event.key==='Enter') fetchTranscript()"
       >
+      <button class="btn" id="clipboard-btn" onclick="pasteFromClipboard()" title="Read URL from clipboard">📋 Paste URL</button>
       <button class="btn primary" id="fetch-btn" onclick="fetchTranscript()">Get Transcript</button>
     </div>
     <div id="fetch-status" class="status"></div>
@@ -499,6 +500,17 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
+function pasteFromClipboard() {
+  navigator.clipboard.readText().then(function(text) {
+    text = text.trim();
+    if (!text) return;
+    document.getElementById('url-input').value = text;
+    fetchTranscript();
+  }).catch(function() {
+    document.getElementById('url-input').focus();
+  });
+}
+
 // Main fetch
 async function fetchTranscript() {
   const url = document.getElementById('url-input').value.trim();
@@ -555,6 +567,18 @@ async function fetchTranscript() {
     btn.disabled = false;
   }
 }
+
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'p' || e.key === 'P') {
+    const active = document.activeElement;
+    if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA')) return;
+    const contentEl = document.getElementById('transcript-content');
+    if (contentEl && contentEl.style.display !== 'none') {
+      contentEl.scrollBy({ top: contentEl.clientHeight * 0.9, behavior: 'smooth' });
+      e.preventDefault();
+    }
+  }
+});
 </script>
 </body>
 </html>

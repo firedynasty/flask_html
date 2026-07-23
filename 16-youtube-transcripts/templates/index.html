@@ -569,15 +569,17 @@ async function fetchTranscript() {
 }
 
 document.addEventListener('keydown', function(e) {
+  if (e.key !== 'p' && e.key !== 'P' && e.key !== 'o' && e.key !== 'O') return;
+  const active = document.activeElement;
+  if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA')) return;
+  const contentEl = document.getElementById('transcript-content');
+  if (!contentEl || contentEl.style.display === 'none') return;
   if (e.key === 'p' || e.key === 'P') {
-    const active = document.activeElement;
-    if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA')) return;
-    const contentEl = document.getElementById('transcript-content');
-    if (contentEl && contentEl.style.display !== 'none') {
-      contentEl.scrollBy({ top: contentEl.clientHeight * 0.9, behavior: 'smooth' });
-      e.preventDefault();
-    }
+    contentEl.scrollBy({ top: contentEl.clientHeight * 0.9, behavior: 'smooth' });
+  } else {
+    contentEl.scrollBy({ top: -currentFontSize * 1.5 * 3, behavior: 'smooth' });
   }
+  e.preventDefault();
 });
 </script>
 </body>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ meta.title if meta else slug }} — source</title>
+<style>
+  body { font-family: Georgia, 'Times New Roman', serif; color:#2b2b2b;
+         margin:0; background:#faf8f3; }
+  nav { padding:12px 28px; border-bottom:1px solid #e3e0d8; display:flex;
+        gap:16px; font-size:14px; position:sticky; top:0; background:#faf8f3; }
+  nav a { color:#7a5c2e; text-decoration:none; }
+  main { max-width:760px; margin:0 auto; padding:24px 28px 80px;
+         line-height:1.65; font-size:16px; }
+  p { margin:0 0 1em; }
+</style>
+</head>
+<body>
+<nav>
+  <a href="{{ url_for('chapter', slug=slug) }}">← outline</a>
+  <a href="{{ url_for('index') }}">index</a>
+</nav>
+<main>
+{% for p in paras %}<p>{{ p }}</p>
+{% endfor %}
+</main>
+</body>
+</html>

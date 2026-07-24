@@ -1,0 +1,102 @@
+# The Invasion
+
+- Very well then, atheism is too simple
+  - And I will tell you another view that is also too simple [restatement]
+    - It is the view I call Christianity-and-water, the view which simply says there is a good God in Heaven and everything is all right—leaving out all the difficult and terrible doctrines about sin and hell and the devil, and the redemption [restatement]
+- Both these are boys’ philosophies.
+- It is no good asking for a simple religion
+  - After all, real things are not simple [evidence]
+    - They look simple, but they are not [restatement]
+      - The table I am sitting at looks simple: but ask a scientist to tell you what it is really made of—all about the atoms and how the light waves rebound from them and hit my eye and what they do to the optic nerve and what it does to my brain—and, of course, you find that what we call ‘seeing a table’ lands you in mysteries and complications which you can hardly get to the end of [restatement]
+  - A child saying a child’s prayer looks simple [restatement]
+    - And if you are content to stop there, well and good [restatement]
+  - But if you are not—and the modern world usually is not—if you want to go on and ask what is really happening—then you must be prepared for something difficult [contrast]
+  - If we ask for something more than simplicity, it is silly then to complain that the something more is not simple. [qualification]
+- Very often, however, this silly procedure is adopted by people who are not silly, but who, consciously or unconsciously, want to destroy Christianity
+  - Such people put up a version of Christianity suitable for a child of six and make that the object of their attack [restatement]
+  - When you try to explain the Christian doctrine as it is really held by an instructed adult, they then complain that you are making their heads turn round and that it is all too complicated and that if there really were a God they are sure He would have made ‘religion’ simple, because simplicity is so beautiful, etc [qualification]
+- You must be on your guard against these people for they will change their ground every minute and only waste your time
+- Notice, too, their idea of God ‘making religion simple’; as if ‘religion’ were something God invented, and not His statement to us of certain quite unalterable facts about His own nature.
+- Besides being complicated, reality, in my experience, is usually odd
+  - It is not neat, not obvious, not what you expect [restatement]
+  - For instance, when you have grasped that the earth and the other planets all go round the sun, you would naturally expect that all the planets were made to match—all at equal distances from each other, say, or distances that regularly increased, or all the same size, or else getting bigger or smaller as you go further from the sun [example]
+  - In fact, you find no rhyme or reason (that we can see) about either the sizes or the distances; and some of them have one moon, one has four, one has two, some have none, and one has a ring. [evidence]
+- Reality, in fact, is usually something you could not have guessed
+  - That is one of the reasons I believe Christianity [restatement]
+    - It is a religion you could not have guessed [restatement]
+  - If it offered us just the kind of universe we had always expected, I should feel we were making it up [qualification]
+  - But, in fact, it is not the sort of thing anyone would have made up [contrast]
+    - It has just that queer twist about it that real things have [restatement]
+  - So let us leave behind all these boys’ philosophies—these over-simple answers [consequence]
+    - The problem is not simple and the answer is not going to be simple either. [restatement]
+- What is the problem
+  - But it has a catch in it. [contrast]
+  - Dualism means the belief that there are two equal and independent powers at the back of everything, one of them good and the other bad, and that this universe is the battlefield in which they fight out an endless war [definition]
+    - I personally think that next to Christianity Dualism is the manliest and most sensible creed on the market [restatement]
+- A universe that contains much that is obviously bad and apparently meaningless, but containing creatures like ourselves who know that it is bad and meaningless
+- There are only two views that face all the facts
+- One is the Christian view that this is a good world that has gone wrong, but still retains the memory of what it ought to have been
+- The other is the view called Dualism
+- The two powers, or spirits, or gods—the good one and the bad one—are supposed to be quite independent
+  - They both existed from all eternity [restatement]
+    - Neither of them made the other, neither of them has any more right than the other to call itself God [restatement]
+      - Each presumably thinks it is good and thinks the other bad [restatement]
+  - One of them likes hatred and cruelty, the other likes love and mercy, and each backs its own view [restatement]
+    - Now what do we mean when we call one of them the Good Power and the other the Bad Power [restatement]
+      - Either we are merely saying that we happen to prefer the one to the other—like preferring beer to cider—or else we are saying that, whatever the two powers think about it, and whichever we humans, at the moment, happen to like, one of them is actually wrong, actually mistaken, it regarding itself as good [restatement]
+  - Now if we mean merely that we happen to prefer the first, then we must give up talking about good and evil at all [qualification]
+  - For good means what you ought to prefer quite regardless of what you happen to like at any given moment [evidence]
+  - If ‘being good’ meant simply joining the side you happened to fancy, for no real reason, then good would not deserve to be called good [qualification]
+  - So we must mean that one of the two powers is actually wrong and the other actually right. [consequence]
+- But the moment you say that, you are putting into the universe a third thing in addition to the two Powers: some law or standard or rule of good which one of the powers conforms to and the other fails to conform to
+  - But since the two powers are judged by this standard, then this standard, or the Being who made this standard, is farther back and higher up than either of them, and He will be the real God [contrast]
+  - In fact, what we meant by calling them good and bad turns out to be that one of them is in a right relation to the real ultimate God and the other in a wrong relation to Him. [evidence]
+- The same point can be made in a different way
+  - If Dualism is true, then the bad Power must be a being who likes badness for its own sake [qualification]
+  - But in reality we have no experience of anyone liking badness just because it is bad [contrast]
+  - But in real life people are cruel for one of two reasons—either because they are sadists, that is, because they have a sexual perversion which makes cruelty a cause of sensual pleasure to them, or else for the sake of something they are going to get out of it—money, or power, or safety [contrast]
+  - But pleasure, money, power, and safety are all, as far as they go, good things [contrast]
+  - In other words badness cannot succeed even in being bad in the same way in which goodness is good [restatement]
+    - Goodness is, so to speak, itself: badness is only spoiled goodness [restatement]
+      - And there must be something good first before it can be spoiled [restatement]
+  - We called sadism a sexual perversion; but you must first have the idea of a normal sexuality before you can talk of its being perverted; and you can see which is the perversion, because you can explain the perverted from the normal, and cannot explain the normal from the perverted [restatement]
+  - It follows that this Bad Power, who is supposed to be on an equal footing with the Good Power, and to love badness in the same way as the Good Power loves goodness, is a mere bogy [consequence]
+    - In order to be bad he must have good things to want and then to pursue in the wrong way: he must have impulses which were originally good in order to be able to pervert them [restatement]
+  - But if he is bad he cannot supply himself either with good things to desire or with good impulses to pervert [contrast]
+    - He must be getting both from the Good Power [restatement]
+      - And if so, then he is not independent [restatement]
+  - He is part of the Good Power’s world: he was made either by the Good Power or by some power above them both. [restatement]
+- The nearest we can get to it is in cruelty
+- The badness consists in pursuing them by the wrong method, or in the wrong way, or too much
+- I do not mean, of course, that the people who do this are not desperately wicked
+- I do mean that wickedness, when you examine it, turns out to be the pursuit of some good in the wrong way
+- You can be good for the mere sake of goodness: you cannot be bad for the mere sake of badness
+- You can do a kind action when you are not feeling kind and when it gives you no pleasure, simply because kindness is right; but no one ever did a cruel action simply because cruelty is wrong— only because cruelty was pleasant or useful to him
+- Put it more simply still
+  - But existence, intelligence and will are in themselves good [contrast]
+  - Therefore he must be getting them from the Good Power: even to be bad he must borrow or steal from his opponent [consequence]
+    - And do you now begin to see why Christianity has always said that the devil is a fallen angel [restatement]
+  - That is not a mere story for the children [restatement]
+    - It is a real recognition of the fact that evil is a parasite, not an original thing [restatement]
+      - The powers which enable evil to carry on are powers given it by goodness [restatement]
+  - All the things which enable a bad man to be effectively bad are in themselves good things—resolution, cleverness, good looks, existence itself [restatement]
+  - That is why Dualism, in a strict sense, will not work. [consequence]
+- To be bad, he must exist and have intelligence and will
+- But I freely admit that real Christianity (as distinct from Christianity-and-water) goes much nearer to Dualism than people think
+  - One of the things that surprised me when I first read the New Testament seriously was that it talked so much about a Dark Power in the universe—a mighty evil spirit who was held to be the Power behind death and disease, and sin [restatement]
+    - The difference is that Christianity thinks this Dark Power was created by God, and was good when he was created, and went wrong [restatement]
+      - Christianity agrees with Dualism that this universe is at war [restatement]
+  - But it does not think this is a war between independent powers [contrast]
+    - It thinks it is a civil war, a rebellion, and that we are living in a part of the universe occupied by the rebel. [restatement]
+- Enemy-occupied territory—that is what this world is
+  - When you go to church you are really listening-in to the secret wireless from our friends: that is why the enemy is so anxious to prevent us from going [qualification]
+    - He does it by playing on our conceit and laziness and intellectual snobbery [restatement]
+  - I know someone will ask me, ‘Do you really mean, at this time of day, to re-introduce our old friend the devil—hoofs and horns and all [concession]
+    - Well, what the time of day has to do with it I do not know [restatement]
+      - And I am not particular about the hoofs and horns [restatement]
+  - But in other respects my answer is ‘Yes, I do [contrast]
+  - If anybody really wants to know him better I would say to that person, ‘Don’t worry [qualification]
+  - If you really want to, you will [qualification]
+- Christianity is the story of how the rightful king has landed, you might say landed in disguise, and is calling us all to take part in a great campaign of sabotage
+- I do not claim to know anything about his personal appearance
+- Whether you’ll like it when you do is another question.’

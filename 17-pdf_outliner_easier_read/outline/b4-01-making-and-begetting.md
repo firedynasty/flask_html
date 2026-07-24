@@ -1,0 +1,125 @@
+# Making and Begetting
+
+- Everyone has warned me not to tell you what I am going to tell you in this last book
+  - They all say ‘the ordinary reader does not want Theology; give him plain practical religion’ [restatement]
+  - Theology means ‘the science of God’, and I think any man who wants to think about God at all would like to have the clearest and most accurate ideas about Him which are available [definition]
+    - You are not children: why should you be treated like children? [restatement]
+- I have rejected their advice
+- I do not think the ordinary reader is such a fool
+- In a way I quite understand why some people are put off by Theology
+  - But, mind you, I’m a religious man too [contrast]
+  - I know there’s a God [concession]
+  - And that’s just why I don’t believe all your neat little dogmas and formulas about Him [restatement]
+- I remember once when I had been giving a talk to the R.A.F., an old, hard-bitten officer got up and said, ‘I’ve no use for all that stuff
+- I’ve felt Him: out alone in the desert at night: the tremendous mystery
+- To anyone who’s met the real thing they all seem so petty and pedantic and unreal!’
+- Now in a sense I quite agreed with that man
+  - And when he turned from that experience to the Christian creeds, I think he really was turning from something real to something less real [restatement]
+  - In the same way, if a man has once looked at the Atlantic from the beach, and then goes and looks at a map of the Atlantic, he also will be turning from something real to something less real: turning from real waves to a bit of coloured paper [analogy]
+  - But here comes the point [contrast]
+  - As long as you are content with walks on the beach, your own glimpses are far more fun than looking at a map [qualification]
+  - But the map is going to be more use than walks on the beach if you want to get to America. [contrast]
+- I think he had probably had a real experience of God in the desert
+- The map is admittedly only coloured paper, but there are two things you have to remember about it
+- In the first place, it is based on what hundreds and thousands of people have found out by sailing the real Atlantic
+- In that way it has behind it masses of experience just as real as the one you could have from the beach; only, while yours would be a single glimpse, the map fits all those different experiences together
+- In the second place, if you want to go anywhere, the map is absolutely necessary
+- Now, Theology is like the map
+  - But that map is based on the experience of hundreds of people who really were in touch with God—experiences compared with which any thrills or pious feelings you and I are likely to get on our own are very elementary and very confused [contrast]
+    - And secondly, if you want to get any further, you must use the map [restatement]
+  - It leads nowhere [restatement]
+  - In fact, that is just why a vague religion—all about feeling God in nature, and so on—is so attractive [evidence]
+    - It is all thrills and no work: like watching the waves from the beach [restatement]
+  - But you will not get to Newfoundland by studying the Atlantic that way, and you will not get eternal life by simply feeling the presence of God in flowers or music [contrast]
+    - Neither will you get anywhere by looking at maps without going to sea [restatement]
+      - Nor will you be very safe if you go to sea without a map. [restatement]
+- Merely learning and thinking about the Christian doctrines, if you stop there, is less real and less exciting than the sort of thing my friend got in the desert
+- Doctrines are not God: they are only a kind of map
+- You see, what happened to that man in the desert may have been real, and was certainly exciting, but nothing comes of it
+- There is nothing to do about it
+- In other words, Theology is practical: especially now
+  - But it is not so now [contrast]
+  - Consequently, if you do not listen to Theology, that will not mean that you have no ideas about God [consequence]
+    - It will mean that you have a lot of wrong ones—bad, muddled, out-of-date ideas [restatement]
+  - For a great many of the ideas about God which are trotted out as novelties today are simply the ones which real Theologians tried centuries ago and rejected [evidence]
+- In the old days, when there was less education and discussion, perhaps it was possible to get on with a very few simple ideas about God
+- Everyone reads, everyone hears things discussed
+- To believe in the popular religion of modern England is retrogression—like believing the earth is flat.
+- For when you get down to it, is not the popular idea of Christianity simply this: that Jesus Christ was a great moral teacher and that if only we took His advice we might be able to establish a better social order and avoid another war
+  - But it tells you much less than the whole truth about Christianity and it has no practical importance at all. [contrast]
+- Now, mind you, that is quite true
+- It is quite true that if we took Christ’s advice we should soon be living in a happier world
+  - You need not even go as far as Christ [restatement]
+  - If we did all that Plato or Aristotle or Confucius told us, we should get on a great deal better than we do [qualification]
+  - And so what [consequence]
+    - We never have followed the advice of the great teachers [restatement]
+  - Why are we more likely to follow Christ than any of the others [restatement]
+  - Because He is the best moral teacher [evidence]
+  - But that makes it even less likely that we shall follow Him [contrast]
+  - If we cannot take the elementary lessons, is it likely we are going to take the most advanced one [qualification]
+  - If Christianity only means one more bit of good advice, then Christianity is of no importance [qualification]
+    - There has been no lack of good advice for the last four thousand years [restatement]
+- Why are we likely to begin now
+- A bit more makes no difference.
+- But as soon as you look at any real Christian writings, you find that they are talking about something quite different from this popular religion
+  - They say that Christ is the Son of God (whatever that means) [restatement]
+    - They say that those who give Him their confidence can also become Sons of God (whatever that means) [restatement]
+      - They say that His death saved us from our sins (whatever that means). [restatement]
+- There is no good complaining that these statements are difficult
+  - You may think the claim false, but if it were true, what it tells us would be bound to be difficult—at least as difficult as modern Physics, and for the same reason. [concession]
+- Christianity claims to be telling us about another world, about something behind the world we can touch and hear and see
+- Now the point in Christianity which gives us the greatest shock is the statement that by attaching ourselves to Christ, we can ‘become Sons of God’
+  - One asks ‘Aren’t we Sons of God already [restatement]
+  - Well, in a certain sense, no doubt we are sons of God already [restatement]
+  - I mean, God has brought us into existence and loves us and looks after us, and in that way is like a father [restatement]
+  - But when the Bible talks of our ‘becoming’ Sons of God, obviously it must mean something different [contrast]
+    - And that brings us up against the very centre of Theology. [restatement]
+- Surely the fatherhood of God is one of the main Christian ideas
+- One of the creeds says that Christ is the Son of God ‘begotten, not created’; and it adds ‘begotten by his Father before all worlds’
+  - Will you please get it quite clear that this has nothing to do with the fact that when Christ was born on earth as a man, that man was the son of a virgin [restatement]
+    - We are not now thinking about the Virgin Birth [restatement]
+      - We are thinking about something that happened before Nature was created at all, before time began [restatement]
+  - ‘Before all worlds’ Christ is begotten, not created [restatement]
+- What does it mean?
+- We don’t use the words begetting or begotten much in modern English, but everyone still knows what they mean
+  - And the difference is this [restatement]
+  - When you beget, you beget something of the same kind as yourself [qualification]
+  - But when you make, you make something of a different kind from yourself [contrast]
+    - A bird makes a nest, a beaver builds a dam, a man makes a wireless set—or he may make something more like himself than a wireless set: say, a statue [restatement]
+  - If he is a clever enough carver he may make a statue which is very like a man indeed [qualification]
+  - But, of course, it is not a real man; it only looks like one [contrast]
+    - It cannot breathe or think [restatement]
+      - It is not alive. [restatement]
+- To beget is to become the father of: to create is to make
+- A man begets human babies, a beaver begets little beavers and a bird begets eggs which turn into little birds
+- Now that is the first thing to get clear
+  - That is why men are not Sons of God in the sense that Christ is [consequence]
+    - They may be like God in certain ways, but they are not things of the same kind [restatement]
+      - They are more like statues or pictures of God. [restatement]
+- What God begets is God; just as what man begets is man
+- What God creates is not God; just as what man makes is not man
+- A statue has the shape of a man but is not alive
+  - In the same way, man has (in a sense I am going to explain) the ‘shape’ or likeness of God, but he has not got the kind of life God has [analogy]
+  - The vegetable world is like Him because it is alive, and He is the ‘living God’ [restatement]
+  - But life, in this biological sense, is not the same as the life there is in God: it is only a kind of symbol or shadow of it [contrast]
+  - When we come on to the animals, we find other kinds of resemblance in addition to biological life [qualification]
+    - The intense activity and fertility of the insects, for example, is a first dim resemblance to the unceasing activity and the creativeness of God [restatement]
+  - That is not the same thing as the love that exists in God: but it is like it—rather in the way that a picture drawn on a flat piece of paper can nevertheless be ‘like’ a landscape [restatement]
+  - When we come to man, the highest of the animals, we get the completest resemblance to God which we know of [qualification]
+    - (There may be creatures in other worlds who are more like God than man is, but we do not know about them [restatement]
+- Let us take the first point (man’s resemblance to God) first
+- Everything God has made has some likeness to Himself
+- Space is like Him in its hugeness: not that the greatness of space is the same kind of greatness as God’s, but it is a sort of symbol of it, or a translation of it into non-spiritual terms
+- Matter is like God in having energy: though, again, of course, physical energy is a different kind of thing from the power of God
+- In the higher mammals we get the beginnings of instinctive affection
+- Man not only lives, but loves and reasons: biological life reaches its highest known level in him.
+- But what man, in his natural condition, has not got, is Spiritual life—the higher and different sort of life that exists in God
+  - We use the same word life for both: but if you thought that both must therefore be the same sort of thing, that would be like thinking that the ‘greatness’ of space and the ‘greatness’ of God were the same sort of greatness [restatement]
+    - In reality, the difference between Biological life and Spiritual life is so important that I am going to give them two distinct names [restatement]
+      - The Biological sort which comes to us through Nature, and which (like everything else in Nature) is always tending to run down and decay so that it can only be kept up by incessant subsidies from Nature in the form of air, water, food, etc., is Bios [restatement]
+  - The Spiritual life which is in God from all eternity, and which made the whole natural universe, is Zoe [restatement]
+    - Bios has, to be sure, a certain shadowy or symbolic resemblance to Zoe: but only the sort of resemblance there is between a photo and a place, or a statue and a man [restatement]
+      - A man who changed from having Bios to having Zoe would have gone through as big a change as a statue which changed from being a carved stone to being a real man. [restatement]
+- And that is precisely what Christianity is about
+  - This world is a great sculptor’s shop [restatement]
+    - We are the statues and there is a rumour going round the shop that some of us are some day going to come to life. [restatement]

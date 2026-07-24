@@ -1,0 +1,3 @@
+# vendored @gxl/epub-parser (own .git + node_modules) — clone from
+# https://github.com/gaoxiaoliangz/epub-parser and: npm install --ignore-scripts && npx tsc
+epub-parser/

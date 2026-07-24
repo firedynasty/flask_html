@@ -1,0 +1,538 @@
+{
+ "book_title": "On prayer and the contemplative life",
+ "book_author": "Saint Aquinas Thomas",
+ "units": [
+  {
+   "title": "ON PRAYER AND THE CONTEMPLATIVE LIFE \u2014 S. THOMAS AQUINAS \u2014 VERY REV. HUGH POPE, O.P., S.T.M. \u2014 AUTHOR OF \"THE CATHOLIC STUDENT'S 'AIDS' TO THE BIBLE,\" ETC. WITH A PREFACE BY VERY REV. VINCENT McNABB, O.P., S.T.L.",
+   "n_blocks": 14,
+   "words": 108,
+   "group": "ON PRAYER AND THE CONTEMPLATIVE LIFE \u2014 S. THOMAS AQUINAS \u2014 VERY REV. HUGH POPE, O.P., S.T.M. \u2014 AUTHOR OF \"THE CATHOLIC STUDENT'S 'AIDS' TO THE BIBLE,\" ETC. WITH A PREFACE BY VERY REV. VINCENT McNABB, O.P., S.T.L.",
+   "slug": "00-on-prayer-and-the-contemplative-life-s-t"
+  },
+  {
+   "title": "PREFACE",
+   "n_blocks": 9,
+   "words": 555,
+   "group": "PREFACE",
+   "slug": "01-preface"
+  },
+  {
+   "title": "INTRODUCTION",
+   "n_blocks": 34,
+   "words": 6422,
+   "group": "INTRODUCTION",
+   "slug": "02-introduction"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 33,
+   "words": 303,
+   "group": "INTRODUCTION",
+   "slug": "03-footnotes"
+  },
+  {
+   "title": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "n_blocks": 10,
+   "words": 100,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "04-question-lxxxi-of-the-virtue-of-religion"
+  },
+  {
+   "title": "I Does the Virtue of Religion direct a Man to God Alone?",
+   "n_blocks": 21,
+   "words": 1543,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "05-i-does-the-virtue-of-religion-direct-a-m"
+  },
+  {
+   "title": "II Is Religion a Virtue?",
+   "n_blocks": 10,
+   "words": 416,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "06-ii-is-religion-a-virtue"
+  },
+  {
+   "title": "III Is Religion One Virtue?",
+   "n_blocks": 11,
+   "words": 479,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "07-iii-is-religion-one-virtue"
+  },
+  {
+   "title": "IV Is Religion a Special Virtue Distinct From Others?",
+   "n_blocks": 11,
+   "words": 469,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "08-iv-is-religion-a-special-virtue-distinct"
+  },
+  {
+   "title": "V Is Religion One of the Theological Virtues?",
+   "n_blocks": 11,
+   "words": 653,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "09-v-is-religion-one-of-the-theological-vir"
+  },
+  {
+   "title": "VI Is Religion to be preferred to the Other Moral Virtues?",
+   "n_blocks": 11,
+   "words": 483,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "10-vi-is-religion-to-be-preferred-to-the-ot"
+  },
+  {
+   "title": "VII Has Religion, That is Latria, any External Acts?",
+   "n_blocks": 13,
+   "words": 835,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "11-vii-has-religion-that-is-latria-any-exte"
+  },
+  {
+   "title": "VIII Is Religion the Same as Sanctity?",
+   "n_blocks": 15,
+   "words": 814,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "12-viii-is-religion-the-same-as-sanctity"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 47,
+   "words": 284,
+   "group": "QUESTION LXXXI \u2014 OF THE VIRTUE OF RELIGION",
+   "slug": "13-footnotes"
+  },
+  {
+   "title": "QUESTION LXXXII \u2014 OF DEVOTION",
+   "n_blocks": 6,
+   "words": 75,
+   "group": "QUESTION LXXXII \u2014 OF DEVOTION",
+   "slug": "14-question-lxxxii-of-devotion"
+  },
+  {
+   "title": "I Is Devotion a Special Kind of Act?",
+   "n_blocks": 13,
+   "words": 899,
+   "group": "QUESTION LXXXII \u2014 OF DEVOTION",
+   "slug": "15-i-is-devotion-a-special-kind-of-act"
+  },
+  {
+   "title": "II Is Devotion an Act of the Virtue of Religion?",
+   "n_blocks": 11,
+   "words": 548,
+   "group": "QUESTION LXXXII \u2014 OF DEVOTION",
+   "slug": "16-ii-is-devotion-an-act-of-the-virtue-of-r"
+  },
+  {
+   "title": "III Is Contemplation, that is Meditation, the Cause of Devotion?",
+   "n_blocks": 16,
+   "words": 1324,
+   "group": "QUESTION LXXXII \u2014 OF DEVOTION",
+   "slug": "17-iii-is-contemplation-that-is-meditation"
+  },
+  {
+   "title": "IV Is Joy an Effect of Devotion?",
+   "n_blocks": 16,
+   "words": 767,
+   "group": "QUESTION LXXXII \u2014 OF DEVOTION",
+   "slug": "18-iv-is-joy-an-effect-of-devotion"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 20,
+   "words": 105,
+   "group": "QUESTION LXXXII \u2014 OF DEVOTION",
+   "slug": "19-footnotes"
+  },
+  {
+   "title": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "n_blocks": 19,
+   "words": 386,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "20-question-lxxxiii-of-prayer"
+  },
+  {
+   "title": "I Is Prayer an Act of the Appetitive Powers?",
+   "n_blocks": 16,
+   "words": 946,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "21-i-is-prayer-an-act-of-the-appetitive-pow"
+  },
+  {
+   "title": "II Is It Fitting To Pray?",
+   "n_blocks": 18,
+   "words": 1212,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "22-ii-is-it-fitting-to-pray"
+  },
+  {
+   "title": "III Is Prayer an Act of the Virtue of Religion?",
+   "n_blocks": 15,
+   "words": 1172,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "23-iii-is-prayer-an-act-of-the-virtue-of-re"
+  },
+  {
+   "title": "IV Ought We To Pray To God Alone?",
+   "n_blocks": 13,
+   "words": 1007,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "24-iv-ought-we-to-pray-to-god-alone"
+  },
+  {
+   "title": "V Should We in our Prayers ask for Anything Definite from God?",
+   "n_blocks": 15,
+   "words": 1232,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "25-v-should-we-in-our-prayers-ask-for-anyth"
+  },
+  {
+   "title": "VI Ought We in our Prayers to ask for Temporal Things from God?",
+   "n_blocks": 20,
+   "words": 1724,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "26-vi-ought-we-in-our-prayers-to-ask-for-te"
+  },
+  {
+   "title": "VII Ought We To Pray for Others?",
+   "n_blocks": 13,
+   "words": 895,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "27-vii-ought-we-to-pray-for-others"
+  },
+  {
+   "title": "VIII Ought We To Pray for Our Enemies?",
+   "n_blocks": 14,
+   "words": 788,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "28-viii-ought-we-to-pray-for-our-enemies"
+  },
+  {
+   "title": "On the Seven Petitions of the lord's Prayer.",
+   "n_blocks": 24,
+   "words": 2592,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "29-on-the-seven-petitions-of-the-lord-s-pra"
+  },
+  {
+   "title": "Rhythm in Honour of the Blessed Sacrament, said to have been composed by S. Thomas on his Death-Bed.",
+   "n_blocks": 2,
+   "words": 36,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "30-rhythm-in-honour-of-the-blessed-sacramen"
+  },
+  {
+   "title": "X Is Prayer Peculiar to Rational Creatures?",
+   "n_blocks": 12,
+   "words": 537,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "31-x-is-prayer-peculiar-to-rational-creatur"
+  },
+  {
+   "title": "XI Do the Saints in Heaven Pray for Us?",
+   "n_blocks": 19,
+   "words": 1054,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "32-xi-do-the-saints-in-heaven-pray-for-us"
+  },
+  {
+   "title": "XII Should Prayer be Vocal?",
+   "n_blocks": 23,
+   "words": 1645,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "33-xii-should-prayer-be-vocal"
+  },
+  {
+   "title": "XIII Must Prayer necessarily be Attentive?",
+   "n_blocks": 23,
+   "words": 2373,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "34-xiii-must-prayer-necessarily-be-attentiv"
+  },
+  {
+   "title": "XIV Should our Prayers be Long?",
+   "n_blocks": 16,
+   "words": 1032,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "35-xiv-should-our-prayers-be-long"
+  },
+  {
+   "title": "XV Is Prayer Meritorious?",
+   "n_blocks": 15,
+   "words": 1359,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "36-xv-is-prayer-meritorious"
+  },
+  {
+   "title": "XVI Do Sinners gain Anything From God by their Prayers?",
+   "n_blocks": 12,
+   "words": 752,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "37-xvi-do-sinners-gain-anything-from-god-by"
+  },
+  {
+   "title": "XVII Can We rightly term Supplications,\" \"Prayers,\" \"Intercessions,\" and \"Thanksgivings,\" parts of Prayer?",
+   "n_blocks": 16,
+   "words": 1328,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "38-xvii-can-we-rightly-term-supplications-p"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 170,
+   "words": 904,
+   "group": "QUESTION LXXXIII \u2014 OF PRAYER",
+   "slug": "39-footnotes"
+  },
+  {
+   "title": "FROM THE SUPPLEMENT TO THE SUMMA\u2014QUESTION LXXII \u2014 OF THE PRAYERS OF THE SAINTS WHO ARE IN HEAVEN",
+   "n_blocks": 5,
+   "words": 48,
+   "group": "FROM THE SUPPLEMENT TO THE SUMMA\u2014QUESTION LXXII \u2014 OF THE PRAYERS OF THE SAINTS WHO ARE IN HEAVEN",
+   "slug": "40-from-the-supplement-to-the-summa-questio"
+  },
+  {
+   "title": "I Are the Saints cognizant of our Prayers?",
+   "n_blocks": 18,
+   "words": 1354,
+   "group": "FROM THE SUPPLEMENT TO THE SUMMA\u2014QUESTION LXXII \u2014 OF THE PRAYERS OF THE SAINTS WHO ARE IN HEAVEN",
+   "slug": "41-i-are-the-saints-cognizant-of-our-prayer"
+  },
+  {
+   "title": "II Ought we to appeal to the Saints to intercede for us?",
+   "n_blocks": 17,
+   "words": 1214,
+   "group": "FROM THE SUPPLEMENT TO THE SUMMA\u2014QUESTION LXXII \u2014 OF THE PRAYERS OF THE SAINTS WHO ARE IN HEAVEN",
+   "slug": "42-ii-ought-we-to-appeal-to-the-saints-to-i"
+  },
+  {
+   "title": "III Are the Saints' Prayers to God for us always heard?",
+   "n_blocks": 19,
+   "words": 1541,
+   "group": "FROM THE SUPPLEMENT TO THE SUMMA\u2014QUESTION LXXII \u2014 OF THE PRAYERS OF THE SAINTS WHO ARE IN HEAVEN",
+   "slug": "43-iii-are-the-saints-prayers-to-god-for-us"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 25,
+   "words": 119,
+   "group": "FROM THE SUPPLEMENT TO THE SUMMA\u2014QUESTION LXXII \u2014 OF THE PRAYERS OF THE SAINTS WHO ARE IN HEAVEN",
+   "slug": "44-footnotes"
+  },
+  {
+   "title": "QUESTION CLXXIX \u2014 OF THE DIVISION OF LIFE INTO THE ACTIVE AND THE CONTEMPLATIVE",
+   "n_blocks": 4,
+   "words": 61,
+   "group": "QUESTION CLXXIX \u2014 OF THE DIVISION OF LIFE INTO THE ACTIVE AND THE CONTEMPLATIVE",
+   "slug": "45-question-clxxix-of-the-division-of-life"
+  },
+  {
+   "title": "I May Life be fittingly divided into the Active and the Contemplative?",
+   "n_blocks": 16,
+   "words": 1141,
+   "group": "QUESTION CLXXIX \u2014 OF THE DIVISION OF LIFE INTO THE ACTIVE AND THE CONTEMPLATIVE",
+   "slug": "46-i-may-life-be-fittingly-divided-into-the"
+  },
+  {
+   "title": "II Is this division of Life into the Active and the Contemplative a sufficient one?",
+   "n_blocks": 13,
+   "words": 914,
+   "group": "QUESTION CLXXIX \u2014 OF THE DIVISION OF LIFE INTO THE ACTIVE AND THE CONTEMPLATIVE",
+   "slug": "47-ii-is-this-division-of-life-into-the-act"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 26,
+   "words": 147,
+   "group": "QUESTION CLXXIX \u2014 OF THE DIVISION OF LIFE INTO THE ACTIVE AND THE CONTEMPLATIVE",
+   "slug": "48-footnotes"
+  },
+  {
+   "title": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "n_blocks": 10,
+   "words": 173,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "49-question-clxxx-of-the-contemplative-life"
+  },
+  {
+   "title": "I Is the Contemplative Life wholly confined to the Intellect, or does the Will enter into it?",
+   "n_blocks": 15,
+   "words": 841,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "50-i-is-the-contemplative-life-wholly-confi"
+  },
+  {
+   "title": "II Do the Moral Virtues pertain to the Contemplative Life?",
+   "n_blocks": 15,
+   "words": 1102,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "51-ii-do-the-moral-virtues-pertain-to-the-c"
+  },
+  {
+   "title": "III Does the Contemplative Life comprise many Acts?",
+   "n_blocks": 16,
+   "words": 1281,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "52-iii-does-the-contemplative-life-comprise"
+  },
+  {
+   "title": "IV Does the Contemplative Life consist solely in the Contemplation of God, or in the Consideration of other Truths as well?",
+   "n_blocks": 20,
+   "words": 1580,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "53-iv-does-the-contemplative-life-consist-s"
+  },
+  {
+   "title": "V Can the Contemplative Life attain, according to the State of this Present Life, to the Contemplation of the Divine Essence?",
+   "n_blocks": 15,
+   "words": 1076,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "54-v-can-the-contemplative-life-attain-acco"
+  },
+  {
+   "title": "VI Is the Act of Contemplation Rightly Distinguished According to the Three Kinds of Motion\u2014Circular, Direct, and Oblique?",
+   "n_blocks": 20,
+   "words": 1629,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "55-vi-is-the-act-of-contemplation-rightly-d"
+  },
+  {
+   "title": "VII Has Contemplation its Joys?",
+   "n_blocks": 17,
+   "words": 1496,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "56-vii-has-contemplation-its-joys"
+  },
+  {
+   "title": "VIII Is the Contemplative Life lasting?",
+   "n_blocks": 14,
+   "words": 859,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "57-viii-is-the-contemplative-life-lasting"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 92,
+   "words": 474,
+   "group": "QUESTION CLXXX \u2014 OF THE CONTEMPLATIVE LIFE",
+   "slug": "58-footnotes"
+  },
+  {
+   "title": "QUESTION CLXXXI \u2014 OF THE ACTIVE LIFE",
+   "n_blocks": 6,
+   "words": 48,
+   "group": "QUESTION CLXXXI \u2014 OF THE ACTIVE LIFE",
+   "slug": "59-question-clxxxi-of-the-active-life"
+  },
+  {
+   "title": "I Do all Acts of the Moral Virtues come under the Active Life?",
+   "n_blocks": 12,
+   "words": 770,
+   "group": "QUESTION CLXXXI \u2014 OF THE ACTIVE LIFE",
+   "slug": "60-i-do-all-acts-of-the-moral-virtues-come"
+  },
+  {
+   "title": "II Does Prudence pertain to the Active Life?",
+   "n_blocks": 13,
+   "words": 704,
+   "group": "QUESTION CLXXXI \u2014 OF THE ACTIVE LIFE",
+   "slug": "61-ii-does-prudence-pertain-to-the-active-l"
+  },
+  {
+   "title": "III Does Teaching Belong to the Active or to the Contemplative Life?",
+   "n_blocks": 12,
+   "words": 590,
+   "group": "QUESTION CLXXXI \u2014 OF THE ACTIVE LIFE",
+   "slug": "62-iii-does-teaching-belong-to-the-active-o"
+  },
+  {
+   "title": "IV Does the Active Life continue after this Life?",
+   "n_blocks": 13,
+   "words": 881,
+   "group": "QUESTION CLXXXI \u2014 OF THE ACTIVE LIFE",
+   "slug": "63-iv-does-the-active-life-continue-after-t"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 32,
+   "words": 166,
+   "group": "QUESTION CLXXXI \u2014 OF THE ACTIVE LIFE",
+   "slug": "64-footnotes"
+  },
+  {
+   "title": "QUESTION CLXXXII \u2014 OF THE COMPARISON BETWEEN THE ACTIVE AND THE CONTEMPLATIVE LIFE",
+   "n_blocks": 6,
+   "words": 80,
+   "group": "QUESTION CLXXXII \u2014 OF THE COMPARISON BETWEEN THE ACTIVE AND THE CONTEMPLATIVE LIFE",
+   "slug": "65-question-clxxxii-of-the-comparison-betwe"
+  },
+  {
+   "title": "I Is the Active Life preferable to the Contemplative?",
+   "n_blocks": 26,
+   "words": 1706,
+   "group": "QUESTION CLXXXII \u2014 OF THE COMPARISON BETWEEN THE ACTIVE AND THE CONTEMPLATIVE LIFE",
+   "slug": "66-i-is-the-active-life-preferable-to-the-c"
+  },
+  {
+   "title": "II Is the Active Life more Meritorious than the Contemplative?",
+   "n_blocks": 13,
+   "words": 1049,
+   "group": "QUESTION CLXXXII \u2014 OF THE COMPARISON BETWEEN THE ACTIVE AND THE CONTEMPLATIVE LIFE",
+   "slug": "67-ii-is-the-active-life-more-meritorious-t"
+  },
+  {
+   "title": "III Is the Active Life a Hindrance to the Contemplative Life?",
+   "n_blocks": 15,
+   "words": 1109,
+   "group": "QUESTION CLXXXII \u2014 OF THE COMPARISON BETWEEN THE ACTIVE AND THE CONTEMPLATIVE LIFE",
+   "slug": "68-iii-is-the-active-life-a-hindrance-to-th"
+  },
+  {
+   "title": "IV Does the Active Life precede the Contemplative?",
+   "n_blocks": 13,
+   "words": 848,
+   "group": "QUESTION CLXXXII \u2014 OF THE COMPARISON BETWEEN THE ACTIVE AND THE CONTEMPLATIVE LIFE",
+   "slug": "69-iv-does-the-active-life-precede-the-cont"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 54,
+   "words": 283,
+   "group": "QUESTION CLXXXII \u2014 OF THE COMPARISON BETWEEN THE ACTIVE AND THE CONTEMPLATIVE LIFE",
+   "slug": "70-footnotes"
+  },
+  {
+   "title": "QUESTION CLXXXVI \u2014 ON THE RELIGIOUS STATE Are Contemplative Orders superior to Active Orders?",
+   "n_blocks": 17,
+   "words": 1051,
+   "group": "QUESTION CLXXXVI \u2014 ON THE RELIGIOUS STATE Are Contemplative Orders superior to Active Orders?",
+   "slug": "71-question-clxxxvi-on-the-religious-state"
+  },
+  {
+   "title": "Footnotes",
+   "n_blocks": 8,
+   "words": 42,
+   "group": "QUESTION CLXXXVI \u2014 ON THE RELIGIOUS STATE Are Contemplative Orders superior to Active Orders?",
+   "slug": "72-footnotes"
+  },
+  {
+   "title": "INDEX",
+   "n_blocks": 24,
+   "words": 5724,
+   "group": "INDEX",
+   "slug": "73-index"
+  },
+  {
+   "title": "INDEX OF TEXTS QUOTED OR EXPLAINED",
+   "n_blocks": 40,
+   "words": 776,
+   "group": "INDEX OF TEXTS QUOTED OR EXPLAINED",
+   "slug": "74-index-of-texts-quoted-or-explained"
+  },
+  {
+   "title": "THE END Printed in England \u2014 THE FULL PROJECT GUTENBERG\u2122 LICENSE",
+   "n_blocks": 8,
+   "words": 348,
+   "group": "THE END Printed in England \u2014 THE FULL PROJECT GUTENBERG\u2122 LICENSE",
+   "slug": "75-the-end-printed-in-england-the-full-proj"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+# The Three-Personal God
+
+- The last chapter was about the difference between begetting and making
+  - But by saying that, I have illustrated only one point about God, namely, that what God the Father begets is God, something of the same kind as Himself [contrast]
+    - In that way it is like a human father begetting a human son [restatement]
+  - But not quite like it [contrast]
+  - So I must try to explain a little more. [consequence]
+- A man begets a child, but he only makes a statue
+- God begets Christ but He only makes men
+- A good many people nowadays say, ‘I believe in a God, but not in a personal God
+  - They feel that the mysterious something which is behind all other things must be more than a person [restatement]
+  - But the Christians are the only people who offer any idea of what a being that is beyond personality could be like [contrast]
+    - All the other people, though they say that God is beyond personality, really think of Him as something impersonal: that is, as something less than personal [restatement]
+  - If you are looking for something super-personal, something more than a person, then it is not a question of choosing between the Christian idea and the other ideas [qualification]
+    - The Christian idea is the only one on the market. [restatement]
+- Now the Christians quite agree
+- Again, some people think that after this life, or perhaps after several lives, human souls will be ‘absorbed’ into God
+  - But when they try to explain what they mean, they seem to be thinking of our being absorbed into God as one material thing is absorbed into another [contrast]
+    - They say it is like a drop of water slipping into the sea [restatement]
+  - But of course that is the end of the drop [contrast]
+  - If that is what happens to us, then being absorbed is the same as ceasing to exist [qualification]
+    - It is only the Christians who have any idea of how human souls can be taken into the life of God and yet remain themselves—in fact, be very much more themselves than they were before. [restatement]
+- I warned you that Theology is practical
+  - And now, for a few minutes, I must ask you to follow rather carefully. [restatement]
+- The whole purpose for which we exist is to be thus taken into the life of God
+- Wrong ideas about what that life is will make it harder
+- You know that in space you can move in three ways—to left or right, backwards or forwards, up or down
+  - Every direction is either one of these three or a compromise between them [restatement]
+    - They are called the three Dimensions [restatement]
+  - If you are using only one dimension, you could draw only a straight line [qualification]
+  - If you are using two, you could draw a figure: say, a square [qualification]
+    - And a square is made up of four straight lines [restatement]
+  - If you have three dimensions, you can then build what we call a solid body: say, a cube—a thing like a dice or a lump of sugar [qualification]
+    - And a cube is made up of six squares. [restatement]
+- Now notice this
+- Now a step further
+- Do you see the point
+  - In other words, as you advance to more real and more complicated levels, you do not leave behind you the things you found on the simpler levels: you still have them, but combined in new ways—in ways you could not imagine if you knew only the simpler levels. [restatement]
+- A world of one dimension would be a straight line
+- In a two-dimensional world, you still get straight lines, but many lines make one figure
+- In a three-dimensional world, you still get figures but many figures make one solid body
+- Now the Christian account of God involves just the same principle
+  - On the human level one person is one being, and any two per-sons are two separate beings—just as, in two dimensions (say on a flat sheet of paper) one square is one figure, and any two squares are two separate figures [restatement]
+    - On the Divine level you still find personalities; but up there you find them combined in new ways which we, who do not live on that level, cannot imagine [restatement]
+      - In God’s dimension, so to speak, you find a being who is three Persons while remaining one Being, just as a cube is six squares while remaining one cube [restatement]
+  - Of course we cannot fully conceive a Being like that: just as, if we were so made that we perceived only two dimensions in space we could never properly imagine a cube [concession]
+  - But we can get a sort of faint notion of it [contrast]
+    - And when we do, we are then, for the first time in our lives, getting some positive idea, however faint, of something super-personal—something more than a person [restatement]
+      - It is something we could never have guessed, and yet, once we have been told, one almost feels one ought to have been able to guess it because it fits in so well with all the things we know already. [restatement]
+- The human level is a simple and rather empty level
+- You may ask, ‘if we cannot imagine a three-personal Being, what is the good of talking about Him
+  - Well, there isn’t any good talking about Him [restatement]
+    - The thing that matters is being actually drawn into that three-personal life, and that may begin any time—tonight, if you like. [restatement]
+- What I mean is this
+  - He is trying to get into touch with God [restatement]
+  - But if he is a Christian he knows that what is prompt-ing him to pray is also God: God, so to speak, inside him [contrast]
+  - But he also knows that all his real knowledge of God comes through Christ, the Man who was God—that Christ is standing beside him, helping him to pray, praying for him [contrast]
+  - So that the whole threefold life of the three-personal Being is actually going on in that ordinary little bedroom where an ordinary man is saying his prayers [consequence]
+    - The man is being caught up into the higher kinds of life—what I called Zoe or spiritual life: he is being pulled into God, by God, while still remaining himself. [restatement]
+- An ordinary simple Christian kneels down to say his prayers
+- You see what is happening
+- God is the thing to which he is praying—the goal he is trying to reach
+- God is also the thing inside him which is pushing him on—the motive power
+- God is also the road or bridge along which he is being pushed to that goal
+- And that is how Theology started
+  - Then came a man who claimed to be God; and yet He was not the sort of man you could dismiss as a lunatic [consequence]
+    - He made them believe Him [restatement]
+      - They met Him again after they had seen Him killed [restatement]
+  - And then, after they had been formed into a little society or community, they found God somehow inside them as well: directing them, making them able to do things they could not do before [restatement]
+    - And when they worked it all out they found they had arrived at the Christian definition of the three-personal God. [restatement]
+- People already knew about God in a vague way
+- This definition is not something we have made up; Theology is, in a sense, an experimental science
+  - It is simple religions that are the made-up ones [restatement]
+  - When I say it is an experimental science ‘in a sense’, I mean that it is like the other experimental sciences in some ways, but not in all [qualification]
+  - If you are a geologist studying rocks, you have to go and find the rocks [qualification]
+    - They will not come to you, and if you go to them they cannot run away [restatement]
+  - They cannot either help or hinder [restatement]
+  - But suppose you are a zoologist and want to take photos of wild animals in their native haunts [contrast]
+  - That is a bit different from studying rocks [restatement]
+  - Unless you keep very quiet, they will [qualification]
+- The initiative lies all on your side
+- The wild animals will not come to you: but they can run away from you
+- There is beginning to be a tiny little trace of initiative on their side.
+- Now a stage higher; suppose you want to get to know a human person
+  - If he is determined not to let you, you will not get to know him [qualification]
+- You have to win his confidence
+- In this case the initiative is equally divided—it takes two to make a friendship.
+- When you come to knowing God, the initiative lies on His side
+  - If He does not show Himself, nothing you can do will enable you to find Him [qualification]
+    - And, in fact, He shows much more of Himself to some people than to others—not because He has favourites, but because it is impossible for Him to show Himself to a man whose whole mind and character are in the wrong condition [restatement]
+  - Just as sunlight, though it has no favourites, cannot be reflected in a dusty mirror as clearly as in a clean one. [analogy]
+- You can put this another way by saying that while in other sciences the instruments you use are things external to yourself (things like microscopes and telescopes), the instrument through which you see God is your whole self
+  - And if a man’s self is not kept clean and bright, his glimpse of God will be blurred—like the Moon seen through a dirty telescope [restatement]
+  - That is why horrible nations have horrible religions: they have been looking at God through a dirty lens. [consequence]
+- God can show Himself as He really is only to real men
+  - And that means not simply to men who are individually good, but to men who are united together in a body, loving one another, helping one another, showing Him to one another [restatement]
+  - For that is what God meant humanity to be like; like players in one band, or organs in one body. [evidence]
+- Consequently, the one really adequate instrument for learning about God is the whole Christian community, waiting for Him together
+  - Christian brotherhood is, so to speak, the technical equipment for this science—the laboratory outfit [restatement]
+  - That is why all these people who turn up every few years with some patent simplified religion of their own as a substitute for the Christian tradition are really wasting time [consequence]
+  - Like a man who has no instrument but an old pair of field glasses setting out to put all the real astronomers right [analogy]
+    - He may be a clever chap—he may be cleverer than some of the real astronomers, but he is not giving himself a chance [restatement]
+      - And two years later everyone has forgotten all about him, but the real science is still going on. [restatement]
+- If Christianity was something we were making up, of course we could make it easier
+  - But it is not [contrast]
+  - Of course anyone can be simple if he has no facts to bother about. [concession]
+- We cannot compete, in simplicity, with people who are inventing religions
+- How could we
+- We are dealing with Fact

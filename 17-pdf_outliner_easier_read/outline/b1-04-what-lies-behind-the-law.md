@@ -1,0 +1,94 @@
+# What Lies Behind the Law
+
+- Let us sum up what we have reached so far
+  - When you say that nature is governed by certain laws, this may only mean that nature does, in fact, behave in a certain way [qualification]
+    - The so-called laws may not be anything real—anything above and beyond the actual facts which we observe [restatement]
+  - But in the case of Man, we saw that this will not do [contrast]
+- In the case of stones and trees and things of that sort, what we call the Laws of Nature may not be anything except a way of speaking
+- The Law of Human Nature, or of Right and Wrong, must be something above and beyond the actual facts of human behaviour
+- In this case, besides the actual facts, you have something else—a real law which we did not invent and which we know we ought to obey.
+- I now want to consider what this tells us about the universe we live in
+  - Ever since men were able to think they have been wondering what this universe really is and how it came to be there [restatement]
+    - And, very roughly, two views have been held [restatement]
+  - First, there is what is called the materialist view [restatement]
+    - People who take that view think that matter and space just happen to exist, and always have existed, nobody knows why; and that the matter, behaving in certain fixed ways, has just happened, by a sort of fluke, to produce creatures like ourselves who are able to think [restatement]
+      - By one chance in a thousand something hit our sun and made it produce the planets; and by another thousandth chance the chemicals necessary for life, and the right temperature, occurred on one of these planets, and so some of the matter on this earth came alive; and then, by a very long series of chances, the living creatures developed into things like us [restatement]
+  - The other view is the religious view.* According to it, what is behind the universe is more like a mind than it is like anything else we know [restatement]
+  - That is to say, it is conscious, and has purposes, and prefers one thing to another [restatement]
+    - And on this view it made the universe, partly for purposes we do not know, but partly, at any rate, in order to produce creatures like itself—I mean, like itself to the extent of having minds [restatement]
+  - And note this too [restatement]
+  - It watches how things behave [restatement]
+  - And the more scientific a man is, the more (I believe) he * See Note at end of this chapter. [restatement]
+- Please do not think that one of these views was held a long time ago and that the other has gradually taken its place
+- Wherever there have been thinking men both views turn up
+- You cannot find out which view is the right one by science in the ordinary sense
+- Science works by experiments
+- Every scientific statement in the long run, however complicated it looks, really means something like, ‘I pointed the telescope to such and such a part of the sky at 2.20 a.m. on January 15th and saw so-and-so,’ or, ‘I put some of this stuff in a pot and heated it to such-and-such a temperature and it did so-and-so
+- Do not think I am saying anything against science: I am only saying what its job is
+- would agree with me that this is the job of science—and a very useful and necessary job it is too
+  - But why anything comes to be there at all, and whether there is anything behind the things science observes—something of a different kind—this is not a scientific question [contrast]
+  - If there is ‘Something Behind’, then either it will have to remain altogether unknown to men or else make itself known in some different way [qualification]
+    - The statement that there is any such thing, and the statement that there is no such thing, are neither of them statements that science can make [restatement]
+      - And real scientists do not usually make them [restatement]
+  - It is usually the journalists and popular novelists who have picked up a few odds and ends of half-baked science from textbooks who go in for them [restatement]
+  - After all, it is really a matter of common sense [evidence]
+    - Supposing science ever became complete so that it knew every single thing in the whole universe [restatement]
+      - Is it not plain that the questions, ‘Why is there a universe [restatement]
+- ‘Why does it go on as it does
+- ‘Has it any meaning?’ would remain just as they were?
+- Now the position would be quite hopeless but for this
+  - That one thing is Man [restatement]
+  - And because of that, we know that men find themselves under a moral law, which they did not make, and cannot quite forget even when they try, and which they know they ought to obey [restatement]
+  - In the same way, if there were anything above or behind the observed facts in the case of stones or the weather, we, by studying them from outside, could never hope to discover it. [analogy]
+- There is one thing, and only one, in the whole universe which we know more about than we could learn from external observation
+- We do not merely observe men, we are men
+- In this case we have, so to speak, inside information; we are in the know
+- Notice the following point
+- Anyone studying Man from the outside as we study electricity or cabbages, not knowing our language and consequently not able to get any inside knowledge from us, but merely observing what we did, would never get the slightest evidence that we had this moral law
+- How could he? for his observations would only show what we did, and the moral law is about what we ought to do
+- The position of the question, then, is like this
+  - Since that power, if it exists, would be not one of the observed facts but a reality which makes them, no mere observation of the facts can find it [evidence]
+  - And in that one case we find there is [restatement]
+  - If there was a controlling power outside the universe, it could not show itself to us as one of the facts inside the universe—no more than the architect of a house could actually be a wall or staircase or fireplace in that house [qualification]
+    - The only way in which we could expect it to show itself would be inside ourselves as an influence or a command trying to get us to behave in a certain way [restatement]
+      - And that is just what we do find inside ourselves [restatement]
+  - Suppose someone asked me, when I see a man in blue uniform going down the street leaving little paper packets at each house, why I suppose that they contain letters [analogy]
+    - I should reply, ‘Because whenever he leaves a similar little packet for me I find it does contain a letter [restatement]
+      - And if he then objected—‘But you’ve never seen all these letters which you think the other people are getting,’ I should say, ‘Of course not, and I shouldn’t expect to, because they’re not addressed to me [restatement]
+  - It is the same about this question [restatement]
+  - When I do, especially when I open that particular man called Myself, I find that I do not exist on my own, that I am under a law; that somebody or something wants me to behave in a certain way [qualification]
+    - I do not, of course, think that if I could get inside a stone or a tree I should find exactly the same thing, just as I do not think all the other people in the street get the same letters as I do [restatement]
+      - I should expect, for instance, to find that the stone had to obey the law of gravity—that whereas the sender of the letters merely tells me to obey the law of my human nature, he compels the stone to obey the laws of its stony nature [restatement]
+  - But I should expect to find that there was, so to speak, a sender of letters in both cases, a Power behind the facts, a Director, a Guide. [contrast]
+- We want to know whether the universe simply happens to be what it is for no reason or whether there is a power behind it that makes it what it is
+- There is only one case in which we can know whether there is anything more, namely our own case
+- Or put it the other way round
+- Surely this ought to arouse our suspicions
+- In the only case where you can expect to get an answer, the answer turns out to be Yes; and in the other cases, where you do not get an answer, you see why you do not
+- I’m explaining the packets I’m not allowed to open by the ones I am allowed to open
+- The only packet I am allowed to open is Man
+- Do not think I am going faster than I really am
+  - I think we have to assume it is more like a mind than it is like anything else we know—because after all the only other thing we know is matter and you can hardly imagine a bit of matter giving instructions [restatement]
+  - But, of course, it need not be very like a mind, still less like a person [contrast]
+  - But one word of warning [contrast]
+  - That is not what I am offering [restatement]
+- I am not yet within a hundred miles of the God of Christian theology
+- All I have got to is a Something which is directing the universe, and which appears in me as a law urging me to do right and making me feel responsible and uncomfortable when I do wrong
+- In the next chapter we shall see if we can find out anything more about it
+- There has been a great deal of soft soap talked about God for the last hundred years
+- You can cut all that out.
+- note:– In order to keep this section short enough when it was given on the air, I mentioned only the Materialist view and the Religious view
+  - But to be complete I ought to mention the In-between view called Life-Force philosophy, or Creative Evolution, or Emergent Evolution [contrast]
+  - People who hold this view say that the small variations by which life on this planet ‘evolved’ from the lowest forms to Man were not due to chance but to the ‘striving’ or ‘purposiveness’ of a Life-Force [restatement]
+  - When people say this we must ask them whether by Life-Force they mean something with a mind or not [qualification]
+  - If they do, then ‘a mind bring-ing life into existence and leading it to perfection’ is really a God, and their view is thus identical with the Religious [qualification]
+  - If they do not, then what is the sense in saying that something without a mind ‘strives’ or has ‘purposes’ [qualification]
+    - This seems to me fatal to their view [restatement]
+  - When you are feeling fit and the sun is shining and you do not want to believe that the whole universe is a mere mechanical dance of atoms, it is nice to be able to think of this great mysterious Force rolling on through the centuries and carrying you on its crest [qualification]
+  - If, on the other hand, you want to do something rather shabby, the Life-Force, being only a blind force, with no morals and no mind, will never interfere with you like that troublesome God we learned about when we were children [qualification]
+    - The Life-Force is a sort of tame God [restatement]
+- The wittiest expositions of it come in the works of Bernard Shaw, but the most profound ones in those of Bergson
+- One reason why many people find Creative Evolution so attractive is that it gives one much of the emotional comfort of believing in God and none of the less pleasant consequences
+- You can switch it on when you want, but it will not bother you
+- All the thrills of religion and none of the cost
+- Is the Life-Force the greatest achievement of wishful thinking the world has yet seen?

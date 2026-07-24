@@ -1,0 +1,138 @@
+# Preface
+
+- The contents of this book were first given on the air, and then published in three separate parts as Broadcast Talks (1942), Christian Behaviour (1943) and Beyond Personality (1944)
+  - In my talks I had therefore used all the contractions and colloquialisms I ordinarily use in conversation [restatement]
+  - And wherever, in the talks, I had made the importance of a word clear by the emphasis of my voice, I printed it in italics [restatement]
+  - He has his own, different, means of bringing out the key words and ought to use them [restatement]
+- In the printed versions I made a few additions to what I had said at the microphone, but otherwise left the text much as it had been
+- A ‘talk’ on the radio should, I think, be as like real talk as possible, and should not sound like an essay being read aloud
+- In the printed version I reproduced this, putting don’t and we’ve for do not and we have
+- I am now inclined to think that this was a mistake—an undesirable hybrid between the art of speaking and the art of writing
+- A talker ought to use variations of voice for emphasis because his medium naturally lends itself to that method: but a writer ought not to use italics for the same purpose
+- In this edition I have expanded the contractions and replaced most of the italics by a recasting of the sentences in which they occurred: but without altering, I hope, the ‘popular’ or ‘familiar’ tone which I had all along intended
+- I have also added and deleted where I thought I understood any part of my subject better now than ten years ago or where I knew that the original version had been misunderstood by others.
+- The reader should be warned that I offer no help to anyone who is hesitating between two Christian ‘denominations’
+  - This omission is intentional (even in the list I have just given the order is alphabetical) [restatement]
+  - But in this book I am not trying to convert anyone to my own position [contrast]
+    - Ever since I became a Christian I have thought that the best, perhaps the only, service I could do for my unbelieving neighbours was to explain and defend the belief that has been common to nearly all Christians at all times [restatement]
+  - I should have been out of my depth in such waters: more in need of help myself than able to help others [restatement]
+    - And secondly, I think we must admit that the discussion of these disputed points has no tendency at all to bring an outsider into the Christian fold [restatement]
+  - So long as we write and talk about them we are much more likely to deter him from entering any Christian communion than to draw him into our own [qualification]
+  - Finally, I got the impression that far more, and more talented, authors were already engaged in such controversial matters than in the defence of what Baxter calls ‘mere’ Christianity [restatement]
+    - That part of the line where I thought I could serve best was also the part that seemed to be thinnest [restatement]
+      - And to it I naturally went. [restatement]
+- You will not learn from me whether you ought to become an Anglican, a Methodist, a Presbyterian, or a Roman Catholic
+- There is no mystery about my own position
+- I am a very ordinary layman of the Church of England, not especially ‘high’, nor especially ‘low’, nor especially anything else
+- I had more than one reason for thinking this
+- In the first place, the questions which divide Christians from one another often involve points of high Theology or even of ecclesiastical history, which ought never to be treated except by real experts
+- Our divisions should never be discussed except in the presence of those who have already come to believe that there is one God and that Jesus Christ is His only Son
+- So far as I know, these were my only motives, and I should be very glad if people would not draw fanciful inferences from my silence on certain disputed matters.
+- For example, such silence need not mean that I myself am sitting on the fence
+  - But there are other questions as to which I am definitely on one side of the fence, and yet say nothing [contrast]
+  - For I am not writing to expound something I could call ‘my religion’, but to expound ‘mere’ Christianity, which is what it is and what it was long before I was born and whether I like it or not. [evidence]
+- Sometimes I am
+- There are questions at issue between Christians to which I do not think we have been told the answer
+- There are some to which I may never know the answer: if I asked them, even in a better world, I might (for all I know) be answered as a far greater questioner was answered: ‘What is that to thee
+- Follow thou Me
+- Some people draw unwarranted conclusions from the fact that I never say more about the Blessed Virgin Mary than is involved in asserting the Virgin Birth of Christ
+  - But surely my reason for not doing so is obvious [contrast]
+    - To say more would take me at once into highly controversial regions [restatement]
+      - And there is no controversy between Christians which needs to be so delicately touched as this [restatement]
+  - It is very difficult so to dissent from them that you will not appear to them a cad as well as a heretic [restatement]
+    - And contrariwise, the opposed Protestant beliefs on this subject call forth feelings which go down to the very roots of all Monotheism whatever [restatement]
+  - Hence it is hard so to dissent from them that you will not appear something worse than a heretic— a Pagan [consequence]
+  - If any topic could be relied upon to wreck a book about ‘mere’ Christianity—if any topic makes utterly unprofitable reading for those who do not yet believe that the Virgin’s son is God—surely this is it. [qualification]
+- The Roman Catholic beliefs on that subject are held not only with the ordinary fervour that attaches to all sincere religious belief, but (very naturally) with the peculiar and, as it were, chivalrous sensibility that a man feels when the honour of his mother or his beloved is at stake
+- To radical Protestants it seems that the distinction between Creator and creature (however holy) is imperilled: that Polytheism is risen again
+- Oddly enough, you cannot even conclude, from my silence on disputed points, either that I think them important or that I think them unimportant
+  - For this is itself one of the disputed points [evidence]
+  - When two Christians of different denominations start arguing, it is usually not long before one asks whether such-and-such a point ‘really matters’ and the other replies: ‘Matter [qualification]
+- One of the things Christians are disagreed about is the importance of their disagreements
+- Why, it’s absolutely essential.’
+- All this is said simply in order to make clear what kind of book I was trying to write; not in the least to conceal or evade responsibility for my own beliefs
+  - About those, as I said before, there is no secret [restatement]
+    - To quote Uncle Toby: ‘They are written in the Common-Prayer Book.’ [restatement]
+- The danger clearly was that I should put forward as common Christianity anything that was peculiar to the Church of England or (worse still) to myself
+- I tried to guard against this by sending the original script of what is now Book II to four clergymen (Anglican, Methodist, Presbyterian, Roman Catholic) and asking for their criticism
+- The Methodist thought I had not said enough about Faith, and the Roman Catholic thought I had gone rather too far about the comparative unimportance of theories in explanation of the Atonement
+- Otherwise all five of us were agreed
+- I did not have the remaining books similarly ‘vetted’ because in them, though differences might arise among Christians, these would be differences between individuals or schools of thought, not between denominations.
+- So far as I can judge from reviews and from the numerous letters written to me, the book, however faulty in other respects, did at least succeed in presenting an agreed, or common, or central, or ‘mere’ Christianity
+  - If I have not directly helped the cause of reunion, I have perhaps made it clear why we ought to be reunited [qualification]
+  - Certainly I have met with little of the fabled odium theologicum from convinced members of communions different from my own [concession]
+  - This I find curiously consoling [restatement]
+    - It is at her centre, where her truest children dwell, that each communion is really closest to every other in spirit, if not in doctrine [restatement]
+      - And this suggests that at the centre of each there is a something, or a Someone, who against all divergencies of belief, all differences of temperament, all memories of mutual persecution, speaks with the same voice. [restatement]
+- In that way it may possibly be of some help in silencing the view that, if we omit the disputed points, we shall have left only a vague and bloodless H.C.F. The H.C.F. turns out to be something not only positive but pungent; divided from all non-Christian beliefs by a chasm to which the worst divisions inside Christendom are not really comparable at all
+- Hostility has come more from borderline people whether within the Church of England or without it: men not exactly obedient to any communion
+- So much for my omissions on doctrine
+  - As a result I have a reluctance to say much about temptations to which I myself am not exposed [restatement]
+  - It so happens that the impulse which makes men gamble has been left out of my make-up; and, no doubt, I pay for this by lack-ing some good impulse of which it is the excess or perversion [restatement]
+- In Book III, which deals with morals, I have also passed over some things in silence, but for a different reason
+- Ever since I served as an infantryman in the First World War I have had a great dislike of people who, themselves in ease and safety, issue exhortations to men in the front line
+- No man, I suppose, is tempted to every sin
+- I therefore did not feel myself qualified to give advice about permissible and impermissible gambling: if there is any permissible, for I do not claim to know even that
+- I have also said nothing about birth-control
+- I am not a woman nor even a married man, nor am I a priest
+- I did not think it my place to take a firm line about pains, dangers and expenses from which I am protected; having no pastoral office which obliged me to do so.
+- Far deeper objections may be felt—and have been expressed—against my use of the word Christian to mean one who accepts the common doctrines of Christianity
+  - People ask: ‘Who are you, to lay down who is, and who is not a Christian?’ or ‘May not many a man who cannot believe these doctrines be far more truly a Christian, far closer to the spirit of Christ, than some who do [restatement]
+    - Now this objection is in one sense very right, very charitable, very spiritual, very sensitive [restatement]
+      - It has every available quality except that of being useful [restatement]
+  - I will try to make this clear by the history of another, and very much less important, word. [restatement]
+- We simply cannot, without disaster, use language as these objectors want us to use it
+- The word gentleman originally meant something recognisable; one who had a coat of arms and some landed property
+  - When you called someone ‘a gentleman’ you were not paying him a compliment, but merely stating a fact [qualification]
+  - If you said he was not ‘a gentleman’ you were not insulting him, but giving information [qualification]
+    - There was no contradiction in saying that John was a liar and a gentleman; any more than there now is in saying that James is a fool and an M.A. But then there came people who said—so rightly, charitably, spiritually, sensitively, so anything but usefully—‘Ah, but surely the important thing about a gentleman is not the coat of arms and the land, but the behaviour [restatement]
+      - Surely he is the true gentleman who behaves as a gentleman should [restatement]
+  - Surely in that sense Edward is far more truly a gentleman than John [restatement]
+    - They meant well [restatement]
+      - To be honourable and courteous and brave is of course a far better thing than to have a coat of arms [restatement]
+  - But it is not the same thing [contrast]
+  - To call a man ‘a gentleman’ in this new, refined sense, becomes, in fact, not a way of giving information about him, but a way of praising him: to deny that he is ‘a gentleman’ becomes simply a way of insulting him [restatement]
+  - When a word ceases to be a term of description and becomes merely a term of praise, it no longer tells you facts about the object: it only tells you about the speaker’s attitude to that object [qualification]
+    - (A ‘nice’ meal only means a meal the speaker likes [restatement]
+      - A gentleman, once it has been spiritualised and refined out of its old coarse, objective sense, means hardly more than a man whom the speaker likes [restatement]
+  - As a result, gentleman is now a useless word [restatement]
+  - It has been spoiled for that purpose. [restatement]
+- Worse still, it is not a thing everyone will agree about
+- We had lots of terms of approval already, so it was not needed for that use; on the other hand if anyone (say, in a historical work) wants to use it in its old sense, he cannot do so without explanations
+- Now if once we allow people to start spiritualising and refining, or as they might say ‘deepening’, the sense of the word Christian, it too will speedily become a useless word
+  - In the first place, Christians themselves will never be able to apply it to anyone [restatement]
+    - It is not for us to say who, in the deepest sense, is or is not close to the spirit of Christ [restatement]
+  - It would be wicked arrogance for us to say that any man is, or is not, a Christian in this refined sense [restatement]
+    - And obviously a word which we can never apply is not going to be a very useful word [restatement]
+      - As for the unbelievers, they will no doubt cheerfully use the word in the refined sense [restatement]
+  - It will become in their mouths simply a term of praise [restatement]
+    - In calling anyone a Christian they will mean that they think him a good man [restatement]
+  - But that way of using the word will be no enrichment of the language, for we already have the word good [contrast]
+    - Meanwhile, the word Christian will have been spoiled for any really useful purpose it might have served. [restatement]
+- We do not see into men’s hearts
+- We cannot judge, and are indeed forbidden to judge
+- We must therefore stick to the original, obvious meaning
+  - It is only a question of using words so that we can all understand what is being said [restatement]
+  - When a man who accepts the Christian doctrine lives unworthily of it, it is much clearer to say he is a bad Christian than to say he is not a Christian. [qualification]
+- The name Christians was first given at Antioch (Acts 11:26) to ‘the disciples’, to those who accepted the teaching of the apostles
+- There is no question of its being restricted to those who profited by that teaching as much as they should have
+- There is no question of its being extended to those who in some refined, spiritual, inward fashion were ‘far closer to the spirit of Christ’ than the less satisfactory of the disciples
+- The point is not a theological or moral one
+- I hope no reader will suppose that ‘mere’ Christianity is here put forward as an alternative to the creeds of the existing communions—as if a man could adopt it in preference to Congregationalism or Greek Orthodoxy or anything else
+  - It is more like a hall out of which doors open into several rooms [restatement]
+  - If I can bring anyone into that hall I shall have done what I attempted [qualification]
+  - But it is in the rooms, not in the hall, that there are fires and chairs and meals [contrast]
+    - The hall is a place to wait in, a place from which to try the various doors, not a place to live in [restatement]
+  - For that purpose the worst of the rooms (whichever that may be) is, I think, preferable [evidence]
+  - It is true that some people may find they have to wait in the hall for a considerable time, while others feel certain almost at once which door they must knock at [concession]
+    - I do not know why there is this difference, but I am sure God keeps no one waiting unless He sees that it is good for him to wait [restatement]
+  - When you do get into your room you will find that the long wait has done you some kind of good which you would not have had otherwise [qualification]
+  - But you must regard it as waiting, not as camping [contrast]
+    - You must keep on praying for light: and, of course, even in the hall, you must begin trying to obey the rules which are common to the whole house [restatement]
+      - And above all you must be asking which door is the true one; not which pleases you best by its paint and panelling [restatement]
+  - In plain language, the question should never be: ‘Do I like that kind of service?’ but ‘Are these doctrines true: Is holiness here [restatement]
+  - Is my reluctance to knock at this door due to my pride, or my mere taste, or my personal dislike of this particular door-keeper?’ [restatement]
+- Does my conscience move me towards this
+- When you have reached your own room, be kind to those who have chosen different doors and to those who are still in the hall
+  - If they are wrong they need your prayers all the more; and if they are your enemies, then you are under orders to pray for them [qualification]
+  - That is one of the rules common to the whole house. [restatement]

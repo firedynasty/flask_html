@@ -1,0 +1,59 @@
+# The Rival Conceptions of God
+
+- the rival conceptions of god I have been asked to tell you what Christians believe, and I am going to begin by telling you one thing that Christians do not need to believe
+  - If you are a Christian you do not have to believe that all the other religions are simply wrong all through [qualification]
+  - If you are an atheist you do have to believe that the main point in all the religions of the whole world is simply one huge mistake [qualification]
+  - If you are a Christian, you are free to think that all those religions, even the queerest ones, contain at least some hint of the truth [qualification]
+  - When I was an atheist I had to try to persuade myself that most of the human race have always been wrong about the question that mattered to them most; when I became a Christian I was able to take a more liberal view [qualification]
+  - But, of course, being a Christian does mean thinking that where Christianity differs from other religions, Christianity is right and they are wrong [contrast]
+    - As in arithmetic—there is only one right answer to a sum, and all other answers are wrong; but some of the wrong answers are much nearer being right than others. [restatement]
+- The first big division of humanity is into the majority, who believe in some kind of God or gods, and the minority who do not
+  - On this point, Christianity lines up with the majority— lines up with ancient Greeks and Romans, modern savages, Stoics, Platonists, Hindus, Mohammedans, etc., against the modern Western European materialist. [restatement]
+- Now I go on to the next big division
+  - But according to some people that is merely our human point of view [contrast]
+    - These people would say that the wiser you become the less you would want to call anything good or bad, and the more clearly you would see that everything is good in one way and bad in another, and that nothing could have been different [restatement]
+  - Consequently, these people think that long before you got anywhere near the divine point of view the distinction would have disappeared altogether [consequence]
+  - It all depends on the point of view [restatement]
+  - It was held by the great Prussian philosopher Hegel and, as far as I can understand them, by the Hindus [restatement]
+    - The other view is held by Jews, Mohammedans and Christians. [restatement]
+- People who all believe in God can be divided according to the sort of God they believe in
+- There are two very different ideas on this subject
+- One of them is the idea that He is beyond good and evil
+- We humans call one thing good and another thing bad
+- We call a cancer bad, they would say, because it kills a man; but you might just as well call a successful surgeon bad because he kills a cancer
+- The other and opposite idea is that God is quite definitely ‘good’ or ‘righteous’, a God who takes sides, who loves love and hates hatred, who wants us to behave in one way and not in another
+- The first of these views—the one that thinks God beyond good and evil—is called Pantheism
+- And with this big difference between Pantheism and the Christian idea of God, there usually goes another
+  - Pantheists usually believe that God, so to speak, animates the universe as you animate your body: that the universe almost is God, so that if it did not exist He would not exist either, and anything you find in the universe is a part of God [restatement]
+    - The Christian idea is quite different [restatement]
+      - They think God invented and made the universe—like a man making a picture or composing a tune [restatement]
+  - A painter is not a picture, and he does not die if his picture is destroyed [restatement]
+  - You may say, ‘He’s put a lot of himself into it,’ but you only mean that all its beauty and interest has come out of his head [concession]
+    - His skill is not in the picture in the same way that it is in his head, or even in his hands [restatement]
+      - I expect you see how this difference between Pantheists and Christians hangs together with the other one [restatement]
+  - If you do not take the distinction between good and bad very seriously, then it is easy to say that anything you find in this world is a part of God [qualification]
+  - But, of course, if you think some things really bad, and God really good, then you cannot talk like that [contrast]
+  - The Christian replies, ‘Don’t talk damned nonsense.’* For Christianity is a fighting religion [restatement]
+    - It thinks God made the world—that space and time, heat and cold, and all the colours and tastes, and all the animals and vegetables, are things that * One listener complained of the word damned as frivolous swearing [restatement]
+  - But I mean exactly what I say—nonsense that is damned is under God’s curse, and will (apart from God’s grace) lead those who believe it to eternal death. [contrast]
+- You must believe that God is separate from the world and that some of the things we see in it are contrary to His will
+- Confronted with a cancer or a slum the Pantheist can say, ‘If you could only see it from the divine point of view, you would realise that this also is God
+- God ‘made up out of His head’ as a man makes up a story
+  - But it also thinks that a great many things have gone wrong with the world that God made and that God insists, and insists very loudly, on our putting them right again. [contrast]
+- And, of course, that raises a very big question
+  - If a good God made the world why has it gone wrong [qualification]
+    - And for many years I simply refused to listen to the Christian answers to this question, because I kept on feeling ‘whatever you say, and however clever your arguments are, isn’t it much simpler and easier to say that the world was not made by any intelligent power [restatement]
+      - Aren’t all your arguments simply a complicated attempt to avoid the obvious [restatement]
+  - But then that threw me back into another difficulty. [contrast]
+- My argument against God was that the universe seemed so cruel and unjust
+  - But how had I got this idea of just and unjust [contrast]
+    - A man does not call a line crooked unless he has some idea of a straight line [restatement]
+      - What was I comparing this universe with when I called it unjust [restatement]
+  - If the whole show was bad and senseless from A to Z, so to speak, why did I, who was supposed to be part of the show, find myself in such violent reaction against it [qualification]
+  - Of course I could have given up my idea of justice by saying it was nothing but a private idea of my own [concession]
+  - But if I did that, then my argument against God collapsed too—for the argument depended on saying that the world was really unjust, not simply that it did not happen to please my fancies [contrast]
+  - Thus in the very act of trying to prove that God did not exist—in other words, that the whole of reality was senseless—I found I was forced to assume that one part of reality—namely my idea of justice—was full of sense [consequence]
+  - Consequently atheism turns out to be too simple [consequence]
+  - If the whole universe has no meaning, we should never have found out that it has no meaning: just as, if there were no light in the universe and therefore no creatures with eyes, we should never know it was dark [qualification]
+    - Dark would be a word without meaning. [restatement]
+- A man feels wet when he falls into water, because man is not a water animal: a fish would not feel wet

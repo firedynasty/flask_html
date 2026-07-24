@@ -1,0 +1,90 @@
+# Counting the Cost
+
+- I find a good many people have been bothered by what I said in the previous chapter about Our Lord’s words, ‘Be ye perfect’
+  - Some people seem to think this means ‘Unless you are perfect, I will not help you’; and as we cannot be perfect, then, if He meant that, our position is hopeless [restatement]
+  - But I do not think He did mean that [contrast]
+    - I think He meant ‘The only help I will give is help to become perfect [restatement]
+      - You may want something less: but I will give you nothing less.’ [restatement]
+- Let me explain
+  - When I was a child I often had toothache, and I knew that if I went to my mother she would give me something which would deaden the pain for that night and let me get to sleep [qualification]
+  - But I did not go to my mother—at least, not till the pain became very bad [contrast]
+    - And the reason I did not go was this [restatement]
+  - And I knew those dentists: I knew they started fiddling about with all sorts of other teeth which had not yet begun to ache [restatement]
+    - They would not let sleeping dogs lie, if you gave them an inch they took an ell. [restatement]
+- I did not doubt she would give me the aspirin; but I knew she would also do something else
+- I knew she would take me to the dentist next morning
+- I could not get what I wanted out of her without getting something more, which I did not want
+- I wanted immediate relief from pain: but I could not get it without having my teeth set permanently right
+- Now, if I may put it that way, Our Lord is like the dentists
+  - If you give Him an inch, He will take an ell [qualification]
+    - Dozens of people go to Him to be cured of some one particular sin which they are ashamed of (like masturbation or physical cowardice) or which is obviously spoiling daily life (like bad temper or drunkenness) [restatement]
+  - That may be all you asked; but if once you call Him in, He will give you the full treatment. [restatement]
+- Well, He will cure it all right: but He will not stop there
+- That is why He warned people to ‘count the cost’ before becoming Christians
+  - But if you do not push Me away, understand that I am going to see this job through [contrast]
+    - Whatever suffering it may cost you in your earthly life, whatever inconceivable purification it may cost you after death, whatever it costs Me, I will never rest, nor let you rest, until you are literally perfect— until my Father can say without reservation that He is well pleased with you, as He said He was well pleased with me [restatement]
+      - This I can do and will do [restatement]
+  - But I will not do anything less.’ [contrast]
+- ‘Make no mistake,’ He says, ‘if you let me, I will make you perfect
+- The moment you put yourself in My hands, that is what you are in for
+- Nothing less, or other, than that
+- You have free will, and if you choose, you can push Me away
+- And yet—this is the other and equally important side of it— this Helper who will, in the long run, be satisfied with nothing less than absolute perfection, will also be delighted with the first feeble, stumbling effort you make tomorrow to do the simplest duty
+  - As a great Christian writer (George MacDonald) pointed out, every father is pleased at the baby’s first attempt to walk: no father would be satisfied with anything less than a firm, free, manly walk in a grown-up son [restatement]
+  - In the same way, he said, ‘God is easy to please, but hard to satisfy.’ [analogy]
+- The practical upshot is this
+  - And He knows perfectly well that your own efforts are never going to bring you anywhere near perfection [restatement]
+  - On the other hand, you must realise from the outset that the goal towards which He is beginning to guide you is absolute perfection; and no power in the whole universe, except you yourself, can prevent Him from taking you to that goal [contrast]
+  - That is what you are in for [restatement]
+    - And it is very important to realise that [restatement]
+  - If we do not, then we are very likely to start pulling back and resisting Him after a certain point [qualification]
+  - He has done all we wanted Him to do, and we should be obliged if He would now leave us alone [restatement]
+    - As we say ‘I never expected to be a saint, I only wanted to be a decent ordinary chap [restatement]
+      - And we imagine when we say this that we are being humble. [restatement]
+- On the one hand, God’s demand for perfection need not discourage you in the least in your present attempts to be good, or even in your present failures
+- Each time you fall He will pick you up again
+- I think that many of us, when Christ has enabled us to overcome one or two sins that were an obvious nuisance, are inclined to feel (though we do not put it into words) that we are now good enough
+- But this is the fatal mistake
+  - Of course we never wanted, and never asked, to be made into the sort of creatures He is going to make us into [concession]
+  - But the question is not what we intended ourselves to be, but what He intended us to be when He made us [contrast]
+    - He is the inventor, we are only the machine [restatement]
+      - He is the painter, we are only the picture [restatement]
+  - And if we had been conscious at those earlier stages, I daresay we should have been quite contented to stay as vegetables or fish—should not have wanted to be made into babies [restatement]
+  - But all the time He knew His plan for us and was determined to carry it out [contrast]
+- How should we know what He means us to be like
+- You see, He has already made us something very different from what we were
+- Long ago, before we were born, when we were inside our mothers’ bodies, we passed through various stages
+- We were once rather like vegetables, and once rather like fish: it was only at a later stage that we became like human babies
+- Something the same is now happening at a higher level
+- We may be content to remain what we call ‘ordinary people’: but He is determined to carry out a quite different plan
+- To shrink back from that plan is not humility: it is laziness and cowardice
+- To submit to it is not conceit or megalomania; it is obedience.
+- Here is another way of putting the two sides of the truth
+  - If He does not support us, not one of us is safe from some gross sin [qualification]
+  - On the other hand, no possible degree of holiness or heroism which has ever been recorded of the greatest saints is beyond what He is determined to produce in every one of us in the end [contrast]
+    - The job will not be completed in this life; but He means to get us as far as possible before death. [restatement]
+- On the one hand we must never imagine that our own unaided efforts can be relied on to carry us even through the next twenty-four hours as ‘decent’ people
+- That is why we must not be surprised if we are in for a rough time
+  - When a man turns to Christ and seems to be getting on pretty well (in the sense that some of his bad habits are now corrected) he often feels that it would now be natural if things went fairly smoothly [qualification]
+  - When troubles come along—illnesses, money troubles, new kinds of temptation—he is disappointed [qualification]
+    - These things, he feels, might have been necessary to rouse him and make him repent in his bad old days; but why now [restatement]
+  - Because God is forcing him on, or up, to a higher level: putting him into situations where he will have to be very much braver, or more patient, or more loving, than he ever dreamed of being before [evidence]
+    - It seems to us all unnecessary: but that is because we have not yet had the slightest notion of the tremendous thing He means to make of us. [restatement]
+- I find I must borrow yet another parable from George MacDonald
+  - Imagine yourself as a living house [analogy]
+    - God comes in to rebuild that house [restatement]
+  - He is getting the drains right and stopping the leaks in the roof and so on: you knew that those jobs needed doing and so you are not surprised [restatement]
+  - But presently he starts knocking the house about in a way that hurts abominably and does not seem to make sense [contrast]
+  - He intends to come and live in it Himself. [restatement]
+- At first, perhaps, you can understand what He is doing
+- What on earth is He up to
+- The explanation is that He is building quite a different house from the one you thought of—throwing out a new wing here, putting on an extra floor there, running up towers, making courtyards
+- You thought you were going to be made into a decent little cottage: but He is building a palace
+- The command Be ye perfect is not idealistic gas
+  - Nor is it a command to do the impossible [restatement]
+    - He is going to make us into creatures that can obey that command [restatement]
+      - He said (in the Bible) that we were ‘gods’ and He is going to make good His words [restatement]
+  - If we let Him—for we can prevent Him, if we choose—He will make the feeblest and filthiest of us into a god or goddess, a dazzling, radiant, immortal creature, pulsating all through with such energy and joy and wisdom and love as we cannot now imagine, a bright stainless mirror which reflects back to God perfectly (though, of course, on a smaller scale) His own boundless power and delight and goodness [qualification]
+    - The process will be long and in parts very painful, but that is what we are in for [restatement]
+  - He meant what He said. [restatement]
+- Nothing less

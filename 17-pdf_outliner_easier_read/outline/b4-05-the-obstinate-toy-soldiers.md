@@ -1,0 +1,78 @@
+# The Obstinate Toy Soldiers
+
+- The Son of God became a man to enable men to become sons of God
+  - But that is guesswork [contrast]
+    - You and I are concerned with the way things work now. [restatement]
+- We do not know—anyway, I do not know—how things would have worked if the human race had never rebelled against God and joined the enemy
+- Perhaps every man would have been ‘in Christ’, would have shared the life of the Son of God, from the moment he was born
+- Perhaps the Bios or natural life would have been drawn up into the Zoe, the uncreated life, at once and as a matter of course
+- And the present state of things is this
+  - And especially it wants to be left to itself: to keep well away from anything better or stronger or higher than it, anything that might make it feel small [restatement]
+    - It is afraid of the light and air of the spiritual world, just as people who have been brought up to be dirty are afraid of a bath [restatement]
+      - And in a sense it is quite right [restatement]
+  - It knows that if the spiritual life gets hold of it, all its self-centredness and self-will are going to be killed and it is ready to fight tooth and nail to avoid that. [restatement]
+- The two kinds of life are now not only different (they would always have been that) but actually opposed
+- The natural life in each of us is something self-centred, something that wants to be petted and admired, to take advantage of other lives, to exploit the whole universe
+- Did you ever think, when you were a child, what fun it would be if your toys could come to life
+  - Well suppose you could really have brought them to life [restatement]
+  - Imagine turning a tin soldier into a real little man [analogy]
+    - It would involve turning the tin into flesh [restatement]
+      - And suppose the tin soldier did not like it [restatement]
+  - He is not interested in flesh: all he sees is that the tin is being spoilt [restatement]
+    - He thinks you are killing him [restatement]
+      - He will do everything he can to prevent you [restatement]
+  - He will not be made into a man if he can help it. [restatement]
+- What you would have done about that tin soldier I do not know
+  - But what God did about us was this [contrast]
+  - If you want to get the hang of it, think how you would like to become a slug or a crab. [qualification]
+- The Second Person in God, the Son, became human Himself: was born into the world as an actual man—a real man of a particular height, with hair of a particular colour, speaking a particular language, weighing so many stone
+- The Eternal Being, who knows everything and who created the whole universe, became not only a man but (before that) a baby, and before that a foetus inside a Woman’s body
+- The result of this was that you now had one man who really was what all men were intended to be: one man in whom the created life, derived from His Mother, allowed itself to be completely and perfectly turned into the begotten life
+  - Thus in one instance humanity had, so to speak, arrived: had passed into the life of Christ [consequence]
+    - And because the whole difficulty for us is that the natural life has to be, in a sense, ‘killed’, He chose an earthly career which involved the killing of His human desires at every turn—poverty, misunderstanding from His own family, betrayal by one of His intimate friends, being jeered at and manhandled by the Police, and execution by torture [restatement]
+      - And then, after being thus killed—killed every day in a sense—the human creature in Him, because it was united to the divine Son, came to life again [restatement]
+  - The Man in Christ rose again: not only the God [restatement]
+  - That is the whole point [restatement]
+  - For the first time we saw a real man [evidence]
+    - One tin soldier—real tin, just like the rest—had come fully and splendidly alive. [restatement]
+- The natural human creature in Him was taken up fully into the divine Son
+- And here, of course, we come to the point where my illustration about the tin soldier breaks down
+  - They are all separate [restatement]
+  - But human beings are not [contrast]
+    - They look separate because you see them walking about separately [restatement]
+  - But then, we are so made that we can see only the present moment [contrast]
+  - If we could see the past, then of course it would look different [qualification]
+  - For there was a time when every man was part of his mother, and (earlier still) part of his father as well: and when they were part of his grandparents [evidence]
+  - If you could see humanity spread out in time, as God sees it, it would not look like a lot of separate things dotted about [qualification]
+    - It would look like one single growing thing—rather like a very complicated tree [restatement]
+  - And not only that [restatement]
+- In the case of real toy soldiers or statues, if one came to life, it would obviously make no difference to the rest
+- Every individual would appear connected with every other
+- Individuals are not really separate from God any more than from one another
+- Every man, woman, and child all over the world is feeling and breathing at this moment only because God, so to speak, is ‘keeping him going’.
+- Consequently, when Christ becomes man it is not really as if you could become one particular tin soldier
+  - It is as if something which is always affecting the whole human mass begins, at one point, to affect the whole human mass in a new way [analogy]
+    - From that point the effect spreads through all mankind [restatement]
+      - It makes a difference to people who lived before Christ as well as to people who lived after Him [restatement]
+  - It makes a difference to people who have never heard of Him [restatement]
+    - It is like dropping into a glass of water one drop of something which gives a new taste or a new colour to the whole lot [restatement]
+  - But, of course, none of these illustrations really works perfectly [contrast]
+- In the long run God is no one but Himself and what He does is like nothing else
+- You could hardly expect it to be otherwise.
+- What, then, is the difference which He has made to the whole human mass
+  - It is just this; that the business of becoming a son of God, of being turned from a created thing into a begotten thing, of passing over from the temporary biological life into timeless ‘spiritual’ life, has been done for us [restatement]
+  - But the really tough work—the bit we could not have done for ourselves—has been done for us [contrast]
+    - We have not got to try to climb up into spiritual life by our own efforts; it has already come down into the human race [restatement]
+  - If we will only lay ourselves open to the one Man in whom it was fully present, and who, in spite of being God, is also a real man, He will do it in us and for us [qualification]
+- Humanity is already ‘saved’ in principle
+- We individuals have to appropriate that salvation
+- Remember what I said about ‘good infection’
+- One of our own race has this new life: if we get close to Him we shall catch it from Him.
+- Of course, you can express this in all sorts of different ways
+  - You may say that the Father has forgiven us because Christ has done for us what we ought to have done [concession]
+  - You may say that we are washed in the blood of the Lamb [concession]
+  - You may say that Christ has defeated death [concession]
+    - They are all true [restatement]
+  - If any of them do not appeal to you, leave it alone and get on with the formula that does [qualification]
+    - And, whatever you do, do not start quarrelling with other people because they use a different formula from yours. [restatement]
+- You can say that Christ died for our sins

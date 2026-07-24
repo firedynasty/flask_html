@@ -1,0 +1,86 @@
+# The Three Parts of Morality
+
+- There is a story about a schoolboy who was asked what he thought God was like
+  - He replied that, as far as he could make out, God was ‘the sort of person who is always snooping around to see if anyone is enjoying himself and then trying to stop it’ [restatement]
+    - And I am afraid that is the sort of idea that the word Morality raises in a good many people’s minds: something that interferes, something that stops you having a good time [restatement]
+  - That is why these rules at first seem to be constantly interfering with our natural inclinations [consequence]
+  - When you are being taught how to use any machine, the instructor keeps on saying, ‘No, don’t do it like that,’ because, of course, there are all sorts of things that look all right and seem to you the natural way of treating the machine, but do not really work. [qualification]
+- In reality, moral rules are directions for running the human machine
+- Every moral rule is there to prevent a breakdown, or a strain, or a friction, in the running of that machine
+- Some people prefer to talk about moral ‘ideals’ rather than moral rules and about moral ‘idealism’ rather than moral obedience
+  - Now it is, of course, quite true that moral perfection is an ‘ideal’ in the sense that we cannot achieve it [restatement]
+    - In that sense every kind of perfection is, for us humans, an ideal; we cannot succeed in being perfect car drivers or perfect tennis players or in drawing perfectly straight lines [restatement]
+  - But there is another sense in which it is very misleading to call moral perfection an ideal [contrast]
+  - When a man says that a certain woman, or house, or ship, or garden is ‘his ideal’ he does not mean (unless he is rather a fool) that everyone else ought to have the same ideal [qualification]
+    - In such matters we are entitled to have different tastes and, therefore, different ideals [restatement]
+  - But it is dangerous to describe a man who tries very hard to keep the moral law as a ‘man of high ideals’, because this might lead you to think that moral perfection was a private taste of his own and that the rest of us were not called on to share it [contrast]
+    - This would be a disastrous mistake [restatement]
+  - And it would be even more dangerous to think of oneself as a person ‘of high ideals’ because one is trying to tell no lies at all (instead of only a few lies) or never to commit adultery (instead of committing it only seldom) or not to be a bully (instead of being only a moderate bully) [restatement]
+    - It might lead you to become a prig and to think you were rather a special person who deserved to be congratulated on his ‘idealism’ [restatement]
+      - In reality you might just as well expect to be congratulated because, whenever you do a sum, you try to get it quite right [restatement]
+  - To be sure, perfect arithmetic is ‘an ideal’; you will certainly make some mistakes in some calculations [concession]
+  - But there is nothing very fine about trying to be quite accurate at each step in each sum [contrast]
+    - It would be idiotic not to try; for every mistake is going to cause you trouble later on [restatement]
+  - In the same way every moral failure is going to cause trouble, probably to others and certainly to yourself [analogy]
+    - By talking about rules and obedience instead of ‘ideals’ and ‘idealism’ we help to remind ourselves of these facts. [restatement]
+- Perfect behaviour may be as unattainable as perfect gearchanging when we drive; but it is a necessary ideal prescribed for all men by the very nature of the human machine just as perfect gear-changing is an ideal prescribed for all drivers by the very nature of cars
+- Now let us go a step further
+  - As a matter of fact, you cannot have either of these two things without the other [evidence]
+  - If the ships keep on having collisions they will not remain seaworthy very long [qualification]
+  - On the other hand, if their steering gears are out of order they will not be able to avoid collisions [contrast]
+- There are two ways in which the human machine goes wrong
+- One is when human individuals drift apart from one another, or else collide with one another and do one another damage, by cheating or bullying
+- The other is when things go wrong inside the individual— when the different parts of him (his different faculties and desires and so on) either drift apart or interfere with one another
+- You can get the idea plain if you think of us as a fleet of ships sailing in formation
+- The voyage will be a success only, in the first place, if the ships do not collide and get in one another’s way; and, secondly, if each ship is seaworthy and has her engines in good order
+- Or, if you like, think of humanity as a band playing a tune
+- To get a good result, you need two things
+- Each player’s individual instrument must be in tune and also each must come in at the right moment so as to combine with all the others.
+- But there is one thing we have not yet taken into account
+  - And however well the fleet sailed, its voyage would be a failure if it were meant to reach New York and actually arrived at Calcutta. [restatement]
+- We have not asked where the fleet is trying to get to, or what piece of music the band is trying to play
+- The instruments might be all in tune and might all come in at the right moment, but even so the performance would not be a success if they had been engaged to provide dance music and actually played nothing but Dead Marches
+- Morality, then, seems to be concerned with three things
+  - Firstly, with fair play and harmony between individuals [restatement]
+  - Secondly, with what might be called tidying up or harmonising the things inside each individual [restatement]
+  - Thirdly, with the general purpose of human life as a whole: what man was made for: what course the whole fleet ought to be on: what tune the conductor of the band wants it to play. [restatement]
+- You may have noticed that modern people are nearly always thinking about the first thing and forgetting the other two
+  - When people say in the newspapers that we are striving for Christian moral standards, they usually mean that we are striving for kindness and fair play between nations, and classes, and individuals; that is, they are thinking only of the first thing [qualification]
+  - When a man says about something he wants to do, ‘It can’t be wrong because it doesn’t do anyone else any harm,’ he is thinking only of the first thing [qualification]
+    - He is thinking it does not matter what his ship is like inside provided that he does not run into the next ship [restatement]
+      - And it is quite natural, when we start thinking about morality, to begin with the first thing, with social relations [restatement]
+  - For one thing, the results of bad morality in that sphere are so obvious and press on us every day: war and poverty and graft and lies and shoddy work [evidence]
+    - And also, as long as you stick to the first thing, there is very little disagreement about morality [restatement]
+  - But though it is natural to begin with all that, if our thinking about morality stops there, we might just as well not have thought at all [contrast]
+  - Unless we go on to the second thing—the tidying up inside each human being—we are only deceiving ourselves. [qualification]
+- Almost all people at all times have agreed (in theory) that human beings ought to be honest and kind and helpful to one another
+- What is the good of telling the ships how to steer so as to avoid collisions if, in fact, they are such crazy old tubs that they cannot be steered at all
+  - What is the good of drawing up, on paper, rules for social behaviour, if we know that, in fact, our greed, cowardice, ill temper, and self-conceit are going to prevent us from keeping them [restatement]
+    - I do not mean for a moment that we ought not to think, and think hard, about improvements in our social and economic system [restatement]
+      - What I do mean is that all that thinking will be mere moonshine unless we realise that nothing but the courage and unselfishness of individuals is ever going to make any system work properly [restatement]
+  - It is easy enough to remove the particular kinds of graft or bullying that go on under the present system: but as long as men are twisters or bullies they will find some new way of carrying on the old game under the new system [restatement]
+    - You cannot make men good by law: and without good men you cannot have a good society [restatement]
+  - That is why we must go on to think of the second thing: of morality inside the individual. [consequence]
+- But I do not think we can stop there either
+  - And it would seem, at first sight, very sensible to stop before we got there, and just carry on with those parts of morality that all sensible people agree about [restatement]
+  - But can we [contrast]
+    - Remember that religion involves a series of statements about facts, which must be either true or false [restatement]
+  - If they are true, one set of conclusions will follow about the right sailing of the human fleet: if they are false, quite a different set [qualification]
+  - For example, let us go back to the man who says that a thing cannot be wrong unless it hurts some other human being [example]
+    - He quite understands that he must not damage the other ships in the convoy, but he honestly thinks that what he does to his own ship is simply his own business [restatement]
+  - But does it not make a great difference whether his ship is his own property or not [contrast]
+    - Does it not make a great difference whether I am, so to speak, the landlord of my own mind and body, or only a tenant, responsible to the real landlord [restatement]
+  - If somebody else made me, for his own purposes, then I shall have a lot of duties which I should not have if I simply belonged to myself. [qualification]
+- We are now getting to the point at which different beliefs about the universe lead to different behaviour
+- Again, Christianity asserts that every individual human being is going to live for ever, and this must be either true or false
+  - Now there are a good many things which would not be worth bothering about if I were going to live only seventy years, but which I had better bother about very seriously if I am going to live for ever [restatement]
+    - Perhaps my bad temper or my jealousy are gradually getting worse—so gradually that the increase in seventy years will not be very noticeable [restatement]
+  - But it might be absolute hell in a million years: in fact, if Christianity is true, Hell is the precisely correct technical term for what it would be [contrast]
+    - And immortality makes this other difference, which, by the by, has a connection with the difference between totalitarianism and democracy [restatement]
+  - If individuals live only seventy years, then a state, or a nation, or a civilisation, which may last for a thousand years, is more important than an individual [qualification]
+  - But if Christianity is true, then the individual is not only more important but incomparably more important, for he is everlasting and the life of a state or a civilisation, compared with his, is only a moment. [contrast]
+- It seems, then, that if we are to think about morality, we must think of all three departments: relations between man and man: things inside each man: and relations between man and the power that made him
+  - It is dealing with the third that the main differences between Christian and non-Christian morality come out [restatement]
+  - For the rest of this book I am going to assume the Christian point of view, and look at the whole picture as it will be if Christianity is true. [evidence]
+- We can all co-operate in the first one
+- Disagreements begin with the second and become more serious with the third

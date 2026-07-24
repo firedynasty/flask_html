@@ -1,0 +1,82 @@
+# Some Objections
+
+- If they are the foundation, I had better stop to make that foundation firm before I go on
+- Some of the letters I have had show that a good many people find it difficult to understand just what this Law of Human Nature, or Moral Law, or Rule of Decent Behaviour is.
+- For example, some people wrote to me saying, ‘Isn’t what you call the Moral Law simply our herd instinct and hasn’t it been developed just like all our other instincts
+  - Now I do not deny that we may have a herd instinct: but that is not what I mean by the Moral Law [restatement]
+    - We all know what it feels like to be prompted by instinct—by mother love, or sexual instinct, or the instinct for food [restatement]
+      - It means that you feel a strong want or desire to act in a certain way [restatement]
+  - And, of course, we sometimes do feel just that sort of desire to help another person: and no doubt that desire is due to the herd instinct [restatement]
+  - But feeling a desire to help is quite different from feeling that you ought to help whether you want to or not [contrast]
+    - Supposing you hear a cry for help from a man in danger [restatement]
+      - You will probably feel two desires— one a desire to give help (due to your herd instinct), the other a desire to keep out of danger (due to the instinct for self-preservation) [restatement]
+  - But you will find inside you, in addition to these two impulses, a third thing which tells you that you ought to follow the impulse to help, and suppress the impulse to run away [contrast]
+    - Now this thing that judges between two instincts, that decides which should be encouraged, cannot itself be either of them [restatement]
+      - You might as well say that the sheet of music which tells you, at a given moment, to play one note on the piano and not another, is itself one of the notes on the keyboard [restatement]
+  - The Moral Law tells us the tune we have to play: our instincts are merely the keys. [restatement]
+- Another way of seeing that the Moral Law is not simply one of our instincts is this
+  - If two instincts are in conflict, and there is nothing in a creature’s mind except those two instincts, obviously the stronger of the two must win [qualification]
+  - But at those moments when we are most conscious of the Moral Law, it usually seems to be telling us to side with the weaker of the two impulses [contrast]
+    - You probably want to be safe much more than you want to help the man who is drowning: but the Moral Law tells you to help him all the same [restatement]
+      - And surely it often tells us to try to make the right impulse stronger than it naturally is [restatement]
+  - I mean, we often feel it our duty to stimulate the herd instinct, by waking up our imaginations and arousing our pity and so on, so as to get up enough steam for doing the right thing [restatement]
+  - But clearly we are not acting from instinct when we set about making an instinct stronger than it is [contrast]
+    - The thing that says to you, ‘Your herd instinct is asleep [restatement]
+      - Wake it up,’ cannot itself be the herd instinct [restatement]
+  - The thing that tells you which note on the piano needs to be played louder cannot itself be that note. [restatement]
+- Here is a third way of seeing it
+  - If the Moral Law was one of our instincts, we ought to be able to point to some one impulse inside us which was always what we call ‘good,’ always in agreement with the rule of right behaviour [qualification]
+  - But you cannot [contrast]
+  - It is a mistake to think that some of our impulses—say mother love or patriotism—are good, and others, like sex or the fighting instinct, are bad [restatement]
+    - All we mean is that the occasions on which the fighting instinct or the sexual desire need to be restrained are rather more frequent than those for restraining mother love or patriotism [restatement]
+  - But there are situations in which it is the duty of a married man to encourage his sexual impulse and of a soldier to encourage the fighting instinct [contrast]
+  - It has not got two kinds of notes on it, the ‘right’ notes and the ‘wrong’ ones [restatement]
+    - Every single note is right at one time and wrong at another [restatement]
+      - The Moral Law is not any one instinct or set of instincts: it is something which makes a kind of tune (the tune we call goodness or right conduct) by directing the instincts. [restatement]
+- There is none of our impulses which the Moral Law may not sometimes tell us to suppress, and none which it may not sometimes tell us to encourage
+- There are also occasions on which a mother’s love for her own children or a man’s love for his own country have to be suppressed or they will lead to unfairness towards other people’s children or countries
+- Strictly speaking, there are no such things as good and bad impulses
+- Think once again of a piano
+- By the way, the point is of great practical consequence
+  - If you leave out justice you will find yourself breaking agreements and faking evidence in trials ‘for the sake of humanity’, and become in the end a cruel and treacherous man. [qualification]
+- The most dangerous thing you can do is to take any one impulse of your own nature and set it up as the thing you ought to follow at all costs
+- There is not one of them which will not make us into devils if we set it up as an absolute guide
+- You might think love of humanity in general was safe, but it is not
+- Other people wrote to me saying, ‘Isn’t what you call the Moral Law just a social convention, something that is put into us by education
+  - But, of course, that is not so [contrast]
+    - We all learned the multiplication table at school [restatement]
+  - But surely it does not follow that the multiplication table is simply a human convention, something human beings have made up for themselves and might have made different if they had liked [contrast]
+  - But some of the things we learn are mere conventions which might have been different— we learn to keep to the left of the road, but it might just as well have been the rule to keep to the right—and others of them, like mathematics, are real truths [contrast]
+- I think there is a misunderstanding here
+- The people who ask that question are usually taking it for granted that if we have learned a thing from parents and teach-ers, then that thing must be merely a human invention
+- A child who grew up alone on a desert island would not know it
+- I fully agree that we learn the Rule of Decent Behaviour from parents and teachers, and friends and books, as we learn everything else
+- The question is to which class the Law of Human Nature belongs.
+- There are two reasons for saying it belongs to the same class as mathematics
+  - The first is, as I said in the first chapter, that though there are differences between the moral ideas of one time or country and those of another, the differences are not really very great—not nearly so great as most people imagine—and you can recognise the same law running through them all: whereas mere conventions, like the rule of the road or the kind of clothes people wear, may differ to any extent [restatement]
+  - When you think about these differences between the morality of one people and another, do you think that the morality of one people is ever better or worse than that of another [qualification]
+  - If not, then of course there could never be any moral progress [qualification]
+  - If no set of moral ideas were truer or better than any other, there would be no sense in preferring civilised morality to savage morality, or Christian morality to Nazi morality [qualification]
+  - In fact, of course, we all do believe that some moralities are better than others [evidence]
+    - We do believe that some of the people who tried to change the moral ideas of their own age were what we would call Reformers or Pioneers—people who understood morality better than their neighbours did [restatement]
+  - The moment you say that one set of moral ideas can be better than another, you are, in fact, measuring them both by a standard, saying that one of them conforms to that standard more nearly than the other [restatement]
+  - But the standard that measures two things is something different from either [contrast]
+  - If your moral ideas can be truer, and those of the Nazis less true, there must be something—some Real Morality—for them to be true about [qualification]
+  - The reason why your idea of New York can be truer or less true than mine is that New York is a real place, existing quite apart from what either of us thinks [evidence]
+  - If when each of us said ‘New York’ each means merely ‘The town I am imagining in my own head’, how could one of us have truer ideas than the other [qualification]
+  - In the same way, if the Rule of Decent Behaviour meant simply ‘whatever each nation happens to approve’, there would be no sense in saying that any one nation had ever been more correct in its approval than any other; no sense in saying that the world could ever grow morally better or morally worse. [analogy]
+  - Progress means not just changing, but changing for the better [definition]
+- The other reason is this
+- Have any of the changes been improvements
+- Very well then
+- You are, in fact, comparing them both with some Real Morality, admitting that there is such a thing as a real Right, independent of what people think, and that some people’s ideas get nearer to that real Right than others
+- Or put it this way
+- There would be no question of truth or falsehood at all
+- I conclude then, that though the difference between people’s ideas of Decent Behaviour often make you suspect that there is no real natural Law of Behaviour at all, yet the things we are bound to think about these differences really prove just the opposite
+  - But one word before I end [contrast]
+    - I have met people who exaggerate the differences, because they have not distinguished between differences of morality and differences of belief about facts [restatement]
+  - For example, one man said to me, ‘Three hundred years ago people in England were putting witches to death [example]
+  - But surely the reason we do not execute witches is that we do not believe there are such things [contrast]
+  - If we did—if we really thought that there were people going about who had sold themselves to the devil and received supernatural powers from him in return and were using these powers to kill their neighbours or drive them mad or bring bad weather—surely we would all agree that if anyone deserved the death penalty, then these filthy quislings did [qualification]
+    - There is no difference of moral principle here: the difference is simply [restatement]
+- Was that what you call the Rule of Human Nature or Right Conduct

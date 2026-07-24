@@ -1,0 +1,174 @@
+# The New Men
+
+- In the last chapter I compared Christ’s work of making New Men to the process of turning a horse into a winged creature
+  - Some people think this is how Evolution worked [concession]
+  - (Of course once the alterations are there, what they call ‘Natural Selection’ gets to work on them: i.e. the useful alterations survive and the other ones get weeded out.) [concession]
+- I used that extreme example in order to emphasise the point that it is not mere improvement but Transformation
+- The nearest parallel to it in the world of nature is to be found in the remarkable transformations we can make in insects by apply-ing certain rays to them
+- The alterations in creatures on which it all depends may have been produced by rays coming from outer space
+- Perhaps a modern man can understand the Christian idea best if he takes it in connection with Evolution
+  - Everyone now knows about Evolution (though, of course, some educated people disbelieve it): everyone has been told that man has evolved from lower types of life [restatement]
+  - Consequently, people often wonder ‘What is the next step [consequence]
+  - When is the thing beyond man going to appear [qualification]
+  - But supposing the next step was to be something even more different from the earlier steps than they ever dreamed of [contrast]
+    - And is it not very likely it would be [restatement]
+      - Thousands of centuries ago huge, very heavily armoured creatures were evolved [restatement]
+  - If anyone had at that time been watching the course of Evolution he would probably have expected that it was going to go on to heavier and heavier armour [qualification]
+  - But he would have been wrong [contrast]
+  - It was going to spring on him little, naked, unarmoured animals which had better brains: and with those brains they were going to master the whole planet [restatement]
+    - They were not merely going to have more power than the prehistoric monsters, they were going to have a new kind of power [restatement]
+      - The next step was not only going to be different, but different with a new kind of difference [restatement]
+  - The stream of Evolution was not going to flow on in the direction in which he saw it flowing: it was in fact going to take a sharp bend. [restatement]
+- Imaginative writers try sometimes to picture this next step—the ‘Superman’ as they call him; but they usually only succeed in picturing someone a good deal nastier than man as we know him and then try to make up for that by sticking on extra legs or arms
+- The future had a card up its sleeve which nothing at that time would have led him to expect
+- Now it seems to me that most of the popular guesses at the Next Step are making just the same sort of mistake
+  - And because they think the stream is flowing in that direction, they imagine it will go on flowing in that direction [restatement]
+  - But I cannot help thinking that the Next Step will be really new; it will go off in a direction you could never have dreamed of [contrast]
+    - It would hardly be worth calling a New Step unless it did [restatement]
+  - Or, to make an Irish bull, I should expect the next stage in Evolution not to be a stage in Evolution at all: should expect that Evolution itself as a method of producing change will be superseded [restatement]
+    - And finally, I should not be surprised if, when the thing happened, very few people noticed that it was happening. [restatement]
+- People see (or at any rate they think they see) men developing great brains and getting greater mastery over nature
+- I should expect not merely difference but a new kind of difference
+- I should expect not merely change but a new method of producing the change
+- Now, if you care to talk in these terms, the Christian view is precisely that the Next Step has already appeared
+  - And it is really new [restatement]
+    - It is not a change from brainy men to brainier men: it is a change that goes off in a totally different direction—a change from being creatures of God to being sons of God [restatement]
+      - The first instance appeared in Palestine two thousand years ago [restatement]
+  - But that is what I should expect [contrast]
+  - If there are real novelties in store then of course our idea, based on the past, will not really cover them [qualification]
+    - And in fact this New Step differs from all previous ones not only in coming from outside nature but in several other ways as well. [restatement]
+- In a sense, the change is not ‘Evolution’ at all, because it is not something arising out of the natural process of events but something coming into nature from outside
+- We arrived at our idea of ‘Evolution’ from studying the past
+- (1) It is not carried on by sexual reproduction
+  - Consequently, we might have expected that there would come a time when sex disappeared, or else (which is what is actually happening) a time when sex, though it continued to exist, ceased to be the main channel of a development. [consequence]
+- Need we be surprised at that
+- There was a time before sex had appeared; development used to go on by different methods
+- (2) At the earlier stages living organisms have had either no choice or very little choice about taking the new step
+  - But the new step, the step from being creatures to being sons, is voluntary [contrast]
+    - At least, voluntary in one sense [restatement]
+      - It is not voluntary in the sense that we, of ourselves, could have chosen to take it or could even have imagined it; but it is voluntary in the sense that when it is offered to us, we can refuse it [restatement]
+- Progress was, in the main, something that happened to them, not something that they did
+- We can, if we please, shrink back; we can dig in our heels and let the new Humanity go on without us.
+- (3) I have called Christ the ‘first instance’ of the new man
+  - But of course He is something much more than that [contrast]
+    - He is not merely a new man, one specimen of the species, but the new man [restatement]
+      - He is the origin and centre and life of all the new men [restatement]
+  - He came into the created universe, of His own will, bringing with Him the Zoe, the new life [restatement]
+  - (I mean new to us, of course: in its own place Zoe has existed for ever and ever [restatement]
+    - And He transmits it not by heredity but by what I have called ‘good infection’ [restatement]
+- Everyone who gets it gets it by personal contact with Him
+- Other men become ‘new’ by being ‘in Him’.
+- (4) This step is taken at a different speed from the previous ones
+  - It thinks we are dying of old age [restatement]
+  - But it has thought that very often before [contrast]
+  - Again and again it has thought Christianity was dying, dying by persecutions from without and corruptions from within, by the rise of Mohammedanism, the rise of the physical sciences, the rise of great anti-Christian revolutionary movements [restatement]
+  - But every time the world has been disappointed [contrast]
+    - Its first disappointment was over the crucifixion [restatement]
+  - They keep on killing the thing that He started: and each time, just as they are patting down the earth on its grave, they suddenly hear that it is still alive and has even broken out in some new place [restatement]
+- Compared with the development of man on this planet, the diffusion of Christianity over the human race seems to go like a flash of lightning—for two thousand years is almost nothing in the history of the universe
+- (Never forget that we are all still ‘the early Christians’
+- The present wicked and wasteful divisions between us are, let us hope, a disease of infancy: we are still teething
+- The outer world, no doubt, thinks just the opposite
+- The Man came to life again
+- In a sense— and I quite realise how frightfully unfair it must seem to them—that has been happening ever since
+- No wonder they hate us.)
+- (5) The stakes are higher
+  - For now the critical moment has arrived [evidence]
+  - But of course it differs from an ordinary birth in one important respect [contrast]
+    - In an ordinary birth the baby has not much choice: here it has [restatement]
+      - I wonder what an ordinary baby would do if it had the choice [restatement]
+  - It might prefer to stay in the dark and warmth and safety of the womb [restatement]
+  - For of course it would think the womb meant safety [evidence]
+    - That would be just where it was wrong; for if it stays there it will die. [restatement]
+- By falling back at the earlier steps a creature lost, at the worst, its few years of life on this earth: very often it did not lose even that
+- By falling back at this step we lose a prize which is (in the strictest sense of the word) infinite
+- Century by century God has guided nature up to the point of producing creatures which can (if they will) be taken right out of nature, turned into ‘gods’
+- Will they allow themselves to be taken
+- In a way, it is like the crisis of birth
+- Until we rise and follow Christ we are still parts of Nature, still in the womb of our great mother
+- Her pregnancy has been long and painful and anxious, but it has reached its climax
+- The great moment has come
+- Everything is ready
+- The Doctor has arrived
+- Will the birth ‘go off all right’
+- On this view the thing has happened: the new step has been taken and is being taken
+  - They begin where most of us leave off [restatement]
+    - They are, I say, recognisable; but you must know what to look for [restatement]
+      - They will not be very like the idea of ‘religious people’ which you have formed from your general reading [restatement]
+  - They do not draw attention to themselves [restatement]
+  - They love you more than other men do, but they need you less [restatement]
+  - They will usually seem to have a lot of time: you will wonder where it comes from [restatement]
+  - When you have recognised one of them, you will recognise the next one much more easily [qualification]
+    - And I strongly suspect (but how should I know?) that they recognise one another immediately and infallibly, across every barrier of colour, sex, class, age, and even of creeds [restatement]
+- Already the new men are dotted here and there all over the earth
+- Some, as I have admitted, are still hardly recognisable: but others can be recognised
+- Every now and then one meets them
+- Their very voices and faces are different from ours: stronger, quieter, happier, more radiant
+- You tend to think that you are being kind to them when they are really being kind to you
+- (We must get over wanting to be needed: in some goodish people, specially women, that is the hardest of all temptations to resist
+- In that way, to become holy is rather like joining a secret society
+- To put it at the very lowest, it must be great fun.
+- But you must not imagine that the new men are, in the ordinary sense, all alike
+  - Out of our selves, into Christ, we must go [restatement]
+    - His will is to become ours and we are to think His thoughts, to ‘have the mind of Christ’ as the Bible says [restatement]
+      - And if Christ is one, and if He is thus to be ‘in’ us all, shall we not be exactly the same [restatement]
+  - It certainly sounds like it; but in fact it is not so. [restatement]
+- A good deal of what I have been saying in this last book might make you suppose that that was bound to be so
+- To become new men means losing what we now call ‘ourselves’
+- It is difficult here to get a good illustration; because, of course, no other two things are related to each other just as the Creator is related to one of His creatures
+  - But I will try two very imperfect illustrations which may give a hint of the truth [contrast]
+  - Imagine a lot of people who have always lived in the dark [analogy]
+  - Whereas you and I know that the light will in fact bring out, or show up, how different they are [contrast]
+  - Might he not reply ‘In that case I suppose all your dishes taste exactly the same: because the taste of that stuff you have just given me is so strong that it will kill the taste of everything else [restatement]
+  - But you and I know that the real effect of salt is exactly the opposite [contrast]
+  - So far from killing the taste of the egg and the tripe and the cabbage, it actually brings it out [contrast]
+    - They do not show their real taste till you have added the salt [restatement]
+  - (Of course, as I warned you, this is not really a very good illustration, because you can, after all, kill the other tastes by putting in too much salt, whereas you cannot kill the taste of a human personality by putting in too much Christ [concession]
+- You come and try to describe to them what light is like
+- You might tell them that if they come into the light that same light would fall on them all and they would all reflect it and thus become what we call visible
+- Is it not quite possible that they would imagine that, since they were all receiving the same light, and all reacting to it in the same way (i.e. all reflecting it), they would all look alike
+- Or again, suppose a person who knew nothing about salt
+- You give him a pinch to taste and he experiences a particular strong, sharp taste
+- You then tell him that in your country people use salt in all their cookery
+- I am doing the best I can.)
+- It is something like that with Christ and us
+  - He made them all [restatement]
+    - He invented—as an author invents characters in a novel—all the different men that you and I were intended to be [restatement]
+  - It is no good trying to ‘be myself’ without Him [restatement]
+  - In fact what I so proudly call ‘Myself’ becomes merely the meeting place for trains of events which I never started and which I cannot stop [evidence]
+    - What I call ‘My wishes’ become merely the desires thrown up by my physical organism or pumped into me by other men’s thoughts or even suggested to me by devils [restatement]
+  - I am not, in my natural state, nearly so much of a person as I like to believe: most of what I call ‘me’ can be very easily explained [restatement]
+    - It is when I turn to Christ, when I give myself up to His Personality, that I first begin to have a real personality of my own. [restatement]
+- The more we get what we now call ‘ourselves’ out of the way and let Him take us over, the more truly ourselves we become
+- There is so much of Him that millions and millions of ‘little Christs’, all different, will still be too few to express Him fully
+- In that sense our real selves are all waiting for us in Him
+- The more I resist Him and try to live on my own, the more I become dominated by my own heredity and upbringing and surroundings and natural desires
+- Eggs and alcohol and a good night’s sleep will be the real origins of what I flatter myself by regarding as my own highly personal and discriminating decision to make love to the girl opposite to me in the railway carriage
+- Propaganda will be the real origin of what I regard as my own personal political ideas
+- At the beginning I said there were Personalities in God
+  - There are no real personalities anywhere else [restatement]
+    - Until you have given up your self to Him you will not have a real self [restatement]
+- I will go further now
+- Sameness is to be found most among the most ‘natural’ men, not among those who surrender to Christ
+- How monotonously alike all the great tyrants and conquerors have been: how gloriously different are the saints.
+- But there must be a real giving up of the self
+  - You must throw it away ‘blindly’ so to speak [restatement]
+    - Christ will indeed give you a real personality: but you must not go to Him for the sake of that [restatement]
+  - As long as your own personality is what you are bother-ing about you are not going to Him at all [qualification]
+    - The very first step is to try to forget about the self altogether [restatement]
+      - Your real, new self (which is Christ’s and also yours, and yours just because it is His) will not come as long as you are looking for it [restatement]
+  - It will come when you are looking for Him [restatement]
+  - The same principle holds, you know, for more everyday matters [restatement]
+  - Give up yourself, and you will find your real self [restatement]
+    - Lose your life and you will save it. [restatement]
+- Does that sound strange
+- Even in social life, you will never make a good impression on other people until you stop thinking about what sort of impression you are making
+- Even in literature and art, no man who bothers about originality will ever be original: whereas if you simply try to tell the truth (without caring twopence how often it has been told before) you will, nine times out of ten, become original without ever having noticed it
+- The principle runs through all life from top to bottom
+- Submit to death, death of your ambitions and favourite wishes every day and death of your whole body in the end: submit with every fibre of your being, and you will find eternal life
+  - Nothing that you have not given away will be really yours [restatement]
+    - Nothing in you that has not died will ever be raised from the dead [restatement]
+      - Look for yourself, and you will find in the long run only hatred, loneliness, despair, rage, ruin, and decay [restatement]
+  - But look for Christ and you will find Him, and with Him everything else thrown in. [contrast]
+- Keep back nothing
+- the end

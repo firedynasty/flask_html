@@ -1,0 +1,101 @@
+# Forgiveness
+
+- I said in a previous chapter that chastity was the most unpopular of the Christian virtues
+  - But I am not sure I was right [contrast]
+    - I believe there is one even more unpopular [restatement]
+      - It is laid down in the Christian rule, ‘Thou shalt love thy neighbour as thyself [restatement]
+  - Because in Christian morals ‘thy neighbour’ includes ‘thy enemy’, and so we come up against this terrible duty of forgiving our enemies. [evidence]
+- Every one says forgiveness is a lovely idea, until they have something to forgive, as we had during the war
+  - And then, to mention the subject at all is to be greeted with howls of anger [restatement]
+    - It is not that people think this too high and difficult a virtue: it is that they think it hateful and contemptible [restatement]
+      - ‘That sort of talk makes them sick,’ they say [restatement]
+  - And half of you already want to ask me, ‘I wonder how you’d feel about forgiving the Gestapo if you were a Pole or a Jew?’ [restatement]
+- So do I. I wonder very much
+  - Just as when Christianity tells me that I must not deny my religion even to save myself from death by torture, I wonder very much what I should do when it came to the point [analogy]
+    - I am not trying to tell you in this book what I could do—I can do precious little—I am telling you what Christianity is [restatement]
+  - And there, right in the middle of it, I find ‘Forgive us our sins as we forgive those that sin against us [restatement]
+  - It is made perfectly clear that if we do not forgive we shall not be forgiven [restatement]
+- I did not invent it
+- There is no slightest suggestion that we are offered forgiveness on any other terms
+- There are no two ways about it
+- What are we to do?
+- It is going to be hard enough, anyway, but I think there are two things we can do to make it easier
+  - When you start mathematics you do not begin with the calculus; you begin with simple addition [qualification]
+  - In the same way, if we really want (but all depends on really wanting) to learn how to forgive, perhaps we had better start with something easier than the Gestapo [analogy]
+    - One might start with forgiving one’s husband or wife, or parents or children, or the nearest N.C.O., for something they have done or said in the last week [restatement]
+      - That will probably keep us busy for the moment [restatement]
+  - And secondly, we might try to understand exactly what loving your neighbour as yourself means [restatement]
+- I have to love him as I love myself
+- Well, how exactly do I love myself?
+- Now that I come to think of it, I have not exactly got a feeling of fondness or affection for myself, and I do not even always enjoy my own society
+  - So apparently ‘Love your neighbour’ does not mean ‘feel fond of him’ or ‘find him attractive’ [consequence]
+    - I ought to have seen that before, because, of course, you cannot feel fond of a person by trying [restatement]
+      - Do I think well of myself, think myself a nice chap [restatement]
+  - Well, I am afraid I sometimes do (and those are, no doubt, my worst moments) but that is not why I love myself [restatement]
+  - In fact it is the other way round: my self-love makes me think myself nice, but thinking myself nice is not why I love myself [evidence]
+  - So loving my enemies does not apparently mean thinking them nice either [consequence]
+  - That is an enormous relief [restatement]
+  - For a good many people imagine that forgiving your enemies means making out that they are really not such bad fellows after all, when it is quite plain that they are [evidence]
+  - In my most clear-sighted moments not only do I not think myself a nice man, but I know that I am a very nasty one [restatement]
+  - So apparently I am allowed to loathe and hate some of the things my enemies do [consequence]
+    - Now that I come to think of it, I remember Christian teachers telling me long ago that I must hate a bad man’s actions, but not hate the bad man: or, as they would say, hate the sin but not the sinner. [restatement]
+- Go a step further
+- I can look at some of the things I have done with horror and loathing
+- For a long time I used to think this a silly, straw-splitting distinction: how could you hate what a man did and not hate the man
+  - But years later it occurred to me that there was one man to whom I had been doing this all my life—namely myself [contrast]
+  - However much I might dislike my own cowardice or conceit or greed, I went on loving myself [contrast]
+  - In fact the very reason why I hated the things was that I loved the man [evidence]
+    - Just because I loved myself, I was sorry to find that I was the sort of man who did those things [restatement]
+  - Consequently, Christianity does not want us to reduce by one atom the hatred we feel for cruelty and treachery [consequence]
+    - We ought to hate them [restatement]
+  - But it does want us to hate them in the same way in which we hate things in ourselves: being sorry that the man should have done such things, and hoping, if it is anyway possible, that somehow, sometime, somewhere he can be cured and made human again. [contrast]
+- There had never been the slightest difficulty about it
+- Not one word of what we have said about them needs to be unsaid
+- The real test is this
+  - Suppose one reads a story of filthy atrocities in the paper [analogy]
+  - Then suppose that something turns up suggesting that the story might not be quite true, or not quite so bad as it was made out [consequence]
+    - Is one’s first feeling, ‘Thank God, even they aren’t quite so bad as that,’ or is it a feeling of disappointment, and even a determination to cling to the first story for the sheer pleasure of thinking your enemies as bad as possible [restatement]
+  - If it is the second then it is, I am afraid, the first step in a process which, if followed to the end, will make us into devils [qualification]
+  - If we give that wish its head, later on we shall wish to see grey as black, and then to see white itself as black [qualification]
+  - Finally, we shall insist on seeing everything—God and our friends and ourselves included—as bad, and not be able to stop doing it: we shall be fixed for ever in a universe of pure hatred. [restatement]
+- You see, one is beginning to wish that black was a little blacker
+- Now a step further
+  - If you had committed a murder, the right Christian thing to do would be to give yourself up to the police and be hanged [qualification]
+    - It is, therefore, in my opinion, perfectly right for a Christian judge to sentence a man to death or a Christian soldier to kill an enemy [restatement]
+      - I always have thought so, ever since I became a Christian, and long before the war, and I still think so now that we are at peace [restatement]
+  - It is no good quoting ‘Thou shalt not kill [restatement]
+    - There are two Greek words: the ordinary word to kill and the word to murder [restatement]
+      - And when Christ quotes that commandment He uses the murder one in all three accounts, Matthew, Mark, and Luke [restatement]
+  - And I am told there is the same distinction in Hebrew [restatement]
+  - When soldiers came to St John the Baptist asking what to do, he never remotely suggested that they ought to leave the army: nor did Christ when He met a Roman sergeant-major—what they called a centurion [qualification]
+  - It is that feeling that robs lots of magnificent young Christians in the Services of something they have a right to, something which is the natural accompaniment of courage—a kind of gaiety and wholeheartedness. [restatement]
+- Does loving your enemy mean not punishing him
+- No, for loving myself does not mean that I ought not to subject myself to punishment—even to death
+- All killing is not murder any more than all sexual intercourse is adultery
+- The idea of the knight—the Christian in arms for the defence of a good cause—is one of the great Christian ideas
+- War is a dreadful thing, and I can respect an honest pacifist, though I think he is entirely mistaken
+- What I cannot understand is this sort of semi-pacifism you get nowadays which gives people the idea that though you have to fight, you ought to do it with a long face and as if you were ashamed of it
+- I have often thought to myself how it would have been if, when I served in the First World War, I and some young German had killed each other simultaneously and found ourselves together a moment after death
+- I cannot imagine that either of us would have felt any resentment or even any embarrassment
+- I think we might have laughed over it.
+- I imagine somebody will say, ‘Well, if one is allowed to condemn the enemy’s acts, and punish him, and kill him, what difference is left between Christian morality and the ordinary view
+  - All the difference in the world [restatement]
+  - Therefore, what really matters is those little marks or twists on the central, inside part of the soul which are going to turn it, in the long run, into a heavenly or a hellish creature [consequence]
+    - We may kill if necessary, but we must not hate and enjoy hating [restatement]
+      - We may punish if necessary, but we must not enjoy it [restatement]
+  - In other words, something inside us, the feeling of resentment, the feeling that wants to get one’s own back, must be simply killed [restatement]
+    - I do not mean that anyone can decide this moment that he will never feel it any more [restatement]
+  - That is not how things happen [restatement]
+  - I mean that every time it bobs its head up, day after day, year after year, all our lives long, we must hit it on the head [restatement]
+    - It is hard work, but the attempt is not impossible [restatement]
+      - Even while we kill and punish we must try to feel about the enemy as we feel about ourselves—to wish that he were not bad, to hope that he may, in this world or another, be cured: in fact, to wish his good [restatement]
+  - That is what is meant in the Bible by loving him: wishing his good, not feeling fond of him nor saying he is nice when he is not. [restatement]
+- Remember, we Christians think man lives for ever
+- I admit that this means loving people who have nothing lovable about them
+  - But then, has oneself anything lovable about it [contrast]
+  - For really there is nothing else in us to love: creatures like us who actually find hatred such a pleasure that to give it up is like giving up beer or tobacco . . . [evidence]
+- You love it simply because it is yourself
+- God intends us to love all selves in the same way and for the same reason: but He has given us the sum ready worked out in our own case to show us how it works
+- We have then to go on and apply the rule to all the other selves
+- Perhaps it makes it easier if we remember that that is how He loves us
+- Not for any nice, attractive qualities we think we have, but just because we are the things called selves

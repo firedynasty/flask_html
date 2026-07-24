@@ -1,0 +1,152 @@
+# Christian Marriage
+
+- The last chapter was mainly negative
+  - But in spite of that, I feel I can hardly leave the subject out in an account of Christian morals. [contrast]
+- I discussed what was wrong with the sexual impulse in man, but said very little about its right working—in other words, about Christian marriage
+- There are two reasons why I do not particularly want to deal with marriage
+- The first is that the Christian doctrines on this subject are extremely unpopular
+- The second is that I have never been married myself, and, therefore, can speak only at second hand
+- The Christian idea of marriage is based on Christ’s words that a man and wife are to be regarded as a single organism— for that is what the words ‘one flesh’ would be in modern English
+  - And the Christians believe that when He said this He was not expressing a sentiment but stating a fact—just as one is stating a fact when one says that a lock and its key are one mechanism, or that a violin and a bow are one musical instrument [restatement]
+  - The monstrosity of sexual intercourse outside marriage is that those who indulge in it are trying to isolate one kind of union (the sexual) from all the other kinds of union which were intended to go along with it and make up the total union [restatement]
+    - The Christian attitude does not mean that there is anything wrong about sexual pleasure, any more than about the pleasure of eating [restatement]
+      - It means that you must not isolate that pleasure and try to get it by itself, any more than you ought to try to get the pleasures of taste without swallowing and digesting, by chewing things and spitting them out again. [restatement]
+- The inventor of the human machine was telling us that its two halves, the male and the female, were made to be combined together in pairs, not simply on the sexual level, but totally combined
+- As a consequence, Christianity teaches that marriage is for life
+  - It is a great pity that Christians should disagree about such a question; but for an ordinary layman the thing to notice is that the Churches all agree with one another about marriage a great deal more than any of them agrees with the outside world [restatement]
+  - I mean, they all regard divorce as something like cutting up a living body, as a kind of surgical operation [restatement]
+    - Some of them think the operation so violent that it cannot be done at all; others admit it as a desperate remedy in extreme cases [restatement]
+      - They are all agreed that it is more like having both your legs cut off than it is like dissolving a business partnership or even deserting a regiment [restatement]
+- There is, of course, a difference here between different Churches: some do not admit divorce at all; some allow it reluctantly in very special cases
+- What they all disagree with is the modern view that it is a simple readjustment of partners, to be made whenever people feel they are no longer in love with one another, or when either of them falls in love with someone else.
+- Before we consider this modern view in its relation to chastity, we must not forget to consider it in relation to another virtue, namely justice
+  - Justice, as I said before, includes the keeping of promises [restatement]
+  - If, as modern people are always telling us, the sexual impulse is just like all our other impulses, then it ought to be treated like all our other impulses; and as their indulgence is controlled by our promises, so should its be [qualification]
+  - If, as I think, it is not like all our other impulses, but is morbidly inflamed, then we should be specially careful not to let it lead us into dishonesty. [qualification]
+- Now everyone who has been married in a church has made a public, solemn promise to stick to his (or her) partner till death
+- The duty of keeping that promise has no special connection with sexual morality: it is in the same position as any other promise
+- To this someone may reply that he regarded the promise made in church as a mere formality and never intended to keep it
+  - Whom, then, was he trying to deceive when he made it [restatement]
+  - That was really very unwise [restatement]
+  - That was not very much wiser [restatement]
+  - That was treacherous [restatement]
+  - They wanted the respectability that is attached to marriage without intending to pay the price: that is, they were impostors, they cheated [restatement]
+  - If they are still contented cheats, I have nothing to say to them: who would urge the high and hard duty of chastity on people who have not yet wished to be merely honest [qualification]
+  - If they have now come to their senses and want to be honest, their promise, already made, constrains them [qualification]
+    - And this, you will see, comes under the heading of justice, not that of chastity [restatement]
+  - If people do not believe in permanent marriage, it is perhaps better that they should live together unmarried than that they should make vows they do not mean to keep [qualification]
+  - It is true that by living together without marriage they will be guilty (in Christian eyes) of fornication [concession]
+  - But one fault is not mended by adding another: unchastity is not improved by adding perjury. [contrast]
+- God
+- Himself
+- The bride, or bridegroom, or the ‘in-laws’
+- More often, I think, the couple (or one of them) hoped to deceive the public
+- The idea that ‘being in love’ is the only reason for remain-ing married really leaves no room for marriage as a contract or promise at all
+  - If love is the whole thing, then the promise can add nothing; and if it adds nothing, then it should not be made [qualification]
+    - The curious thing is that lovers themselves, while they remain really in love, know this better than those who talk about love [restatement]
+      - As Chesterton pointed out, those who are in love have a natural inclination to bind themselves by promises [restatement]
+  - Love songs all over the world are full of vows of eternal constancy [restatement]
+    - The Christian law is not forcing upon the passion of love something which is foreign to that passion’s own nature: it is demanding that lovers should take seriously something which their passion of itself impels them to do. [restatement]
+- And, of course, the promise, made when I am in love and because I am in love, to be true to the beloved as long as I live, commits me to being true even if I cease to be in love
+  - A promise must be about things that I can do, about actions: no one can promise to go on feeling in a certain way [restatement]
+    - He might as well promise never to have a headache or always to feel hungry [restatement]
+  - But what, it may be asked, is the use of keeping two people together if they are no longer in love [contrast]
+  - But there is also another reason of which I am very sure, though I find it a little hard to explain. [contrast]
+- There are several sound, social reasons; to provide a home for their children, to protect the woman (who has probably sacrificed or damaged her own career by getting married) from being dropped whenever the man is tired of her
+- It is hard because so many people cannot be brought to realise that when B is better than C, A may be even better than B. They like thinking in terms of good and bad, not of good, better, and best, or bad, worse and worst
+  - They want to know whether you think patriotism a good thing: if you reply that it is, of course, far better than individual selfishness, but that it is inferior to universal charity and should always give way to universal charity when the two conflict, they think you are being evasive [restatement]
+    - They ask what you think of duelling [restatement]
+  - If you reply that it is far better to forgive a man than to fight a duel with him, but that even a duel might be better than a lifelong enmity which expresses itself in secret efforts to ‘do the man down’, they go away complaining that you would not give them a straight answer [qualification]
+- I hope no one will make this mistake about what I am now going to say.
+- What we call ‘being in love’ is a glorious state, and, in several ways, good for us
+  - It helps to make us generous and courageous, it opens our eyes not only to the beauty of the beloved but to all beauty, and it subordinates (especially at first) our merely animal sexuality; in that sense, love is the great conqueror of lust [restatement]
+    - No one in his senses would deny that being in love is far better than either common sensuality or cold self-centredness [restatement]
+  - But, as I said before, ‘the most dangerous thing you can do is to take any one impulse of our own nature and set it up as the thing you ought to follow at all costs’ [contrast]
+    - Being in love is a good thing, but it is not the best thing [restatement]
+  - It is a noble feeling, but it is still a feeling [restatement]
+    - Now no feeling can be relied on to last in its full intensity, or even to last at all [restatement]
+      - Knowledge can last, principles can last, habits can last; but feelings come and go [restatement]
+  - And in fact, whatever people say, the state called ‘being in love’ usually does not last [restatement]
+  - If the old fairy-tale ending ‘They lived happily ever after’ is taken to mean ‘They felt for the next fifty years exactly as they felt the day before they were married’, then it says what probably never was nor ever would be true, and would be highly undesirable if it were [qualification]
+    - Who could bear to live in that excitement for even five years [restatement]
+  - But, of course, ceasing to be ‘in love’ need not mean ceasing to love [contrast]
+    - Love in this second sense—love as distinct from ‘being in love’—is not merely a feeling [restatement]
+      - It is a deep unity, maintained by the will and deliberately strengthened by habit; reinforced by (in Christian marriages) the grace which both partners ask, and receive, from God [restatement]
+  - They can have this love for each other even at those moments when they do not like each other; as you love yourself even when you do not like yourself [restatement]
+    - They can retain this love even when each would easily, if they allowed themselves, be ‘in love’ with someone else [restatement]
+      - ‘Being in love’ first moved them to promise fidelity: this quieter love enables them to keep the promise [restatement]
+  - It is on this love that the engine of marriage is run: being in love was the explosion that started it. [restatement]
+- There are many things below it, but there are also things above it
+- You cannot make it the basis of a whole life
+- What would become of your work, your appetite, your sleep, your friendships
+- If you disagree with me, of course, you will say, ‘He knows nothing about it, he is not married
+  - But before you say that, make quite sure that you are judging me by what you really know from your own experience and from watching the lives of your friends, and not by ideas you have derived from novels and films [contrast]
+    - This is not so easy to do as people think [restatement]
+- You may quite possibly be right
+- Our experience is coloured through and through by books and plays and the cinema, and it takes patience and skill to disentangle the things we have really learned from life for ourselves.
+- People get from books the idea that if you have married the right person you may expect to go on ‘being in love’ for ever
+  - As a result, when they find they are not, they think this proves they have made a mistake and are entitled to a change—not realising that, when they have changed, the glamour will presently go out of the new love just as it went out of the old one [restatement]
+  - The sort of thrill a boy has at the first idea of flying will not go on when he has joined the R.A.F. and is really learning to fly [restatement]
+    - The thrill you feel on first seeing some delightful place dies away when you really go to live there [restatement]
+      - Does this mean it would be better not to learn to fly and not to live in the beautiful place [restatement]
+- In this department of life, as in every other, thrills come at the beginning and do not last
+- By no means
+- In both cases, if you go through with it, the dying away of the first thrill will be compensated for by a quieter and more lasting kind of interest
+- What is more (and I can hardly find words to tell you how important I think this), it is just the people who are ready to submit to the loss of the thrill and settle down to the sober interest, who are then most likely to meet new thrills in some quite different direction
+- The man who has learned to fly and become a good pilot will suddenly discover music; the man who has settled down to live in the beauty spot will discover gardening.
+- This is, I think, one little part of what Christ meant by saying that a thing will not really live unless it first dies
+  - It is simply no good trying to keep any thrill: that is the very worst thing you can do [restatement]
+    - Let the thrill go—let it die away—go on through that period of death into the quieter interest and happiness that follow—and you will find you are living in a world of new thrills all the time [restatement]
+  - But if you decide to make thrills your regular diet and try to prolong them artificially, they will all get weaker and weaker, and fewer and fewer, and you will be a bored, disillusioned old man for the rest of your life [contrast]
+    - It is because so few people understand this that you find many middle-aged men and women maundering about their lost youth, at the very age when new horizons ought to be appear-ing and new doors opening all round them [restatement]
+      - It is much better fun to learn to swim than to go on endlessly (and hopelessly) trying to get back the feeling you had when you first went paddling as a small boy. [restatement]
+- Another notion we get from novels and plays is that ‘falling in love’ is something quite irresistible; something that just happens to one, like measles
+  - And because they believe this, some married people throw up the sponge and give in when they find themselves attracted by a new acquaintance [restatement]
+  - But I am inclined to think that these irresistible passions are much rarer in real life than in books, at any rate when one is grown up [contrast]
+  - When we meet someone beautiful and clever and sympathetic, of course we ought, in one sense, to admire and love these good qualities [qualification]
+  - But is it not very largely in our own choice whether this love shall, or shall not, turn into what we call ‘being in love’ [contrast]
+  - No doubt, if our minds are full of novels and plays and sentimental songs, and our bodies full of alcohol, we shall turn any love we feel into that kind of love: just as if you have a rut in your path all the rainwater will run into that rut, and if you wear blue spectacles everything you see will turn blue [concession]
+  - But that will be our own fault. [contrast]
+- Before leaving the question of divorce, I should like to distinguish two things which are very often confused
+  - The Christian conception of marriage is one: the other is the quite different question—how far Christians, if they are voters or Members of Parliament, ought to try to force their views of marriage on the rest of the community by embodying them in the divorce laws [restatement]
+    - A great many people seem to think that if you are a Christian yourself you should try to make divorce difficult for every one [restatement]
+      - I do not think that [restatement]
+  - At least I know I should be very angry if the Mohammedans tried to prevent the rest of us from drinking wine [restatement]
+- My own view is that the Churches should frankly recognise that the majority of the British people are not Christians and, therefore, cannot be expected to live Christian lives
+- There ought to be two distinct kinds of marriage: one governed by the State with rules enforced on all citizens, the other governed by the Church with rules enforced by her on her own members
+- The distinction ought to be quite sharp, so that a man knows which couples are married in a Christian sense and which are not.
+- So much for the Christian doctrine about the permanence of marriage
+  - Christian wives promise to obey their husbands [restatement]
+    - In Christian marriage the man is said to be the ‘head’ [restatement]
+- Something else, even more unpopular, remains to be dealt with
+- Two questions obviously arise here
+- (1) Why should there be a head at all—why not equality
+- (2) Why should it be the man?
+- (1) The need for some head follows from the idea that marriage is permanent
+  - Of course, as long as the husband and wife are agreed, no question of a head need arise; and we may hope that this will be the normal state of affairs in a Christian marriage [concession]
+  - But when there is a real disagreement, what is to happen [contrast]
+  - They cannot decide by a majority vote, for in a council of two there can be no majority [restatement]
+    - Surely, only one or other of two things can happen: either they must separate and go their own ways or else one or other of them must have a casting vote [restatement]
+  - If marriage is permanent, one or other party must, in the last resort, have the power of deciding the family policy [qualification]
+    - You cannot have a permanent association without a constitution. [restatement]
+- Talk it over, of course; but I am assuming they have done that and still failed to reach agreement
+- What do they do next
+- (2) If there must be a head, why the man
+  - As I have said, I am not married myself, but as far as I can see, even a woman who wants to be the head of her own house does not usually admire the same state of things when she finds it going on next door [restatement]
+    - She is much more likely to say ‘Poor Mr X [restatement]
+      - Why he allows that appalling woman to boss him about the way she does is more than I can imagine [restatement]
+  - There must be something unnatural about the rule of wives over husbands, because the wives themselves are half ashamed of it and despise the husbands whom they rule [restatement]
+  - But there is also another reason; and here I speak quite frankly as a bachelor, because it is a reason you can see from outside even better than from inside [contrast]
+    - The relations of the family to the outer world—what might be called its foreign policy—must depend, in the last resort, upon the man, because he always ought to be, and usually is, much more just to the outsiders [restatement]
+      - A woman is primarily fighting for her own children and husband against the rest of the world [restatement]
+  - She is the special trustee of their interests [restatement]
+    - The function of the husband is to see that this natural preference of hers is not given its head [restatement]
+      - He has the last word in order to protect other people from the intense family patriotism of the wife [restatement]
+  - If anyone doubts this, let me ask a simple question [qualification]
+  - If your dog has bitten the child next door, or if your child has hurt the dog next door, which would you sooner have to deal with, the master of that house or the mistress [qualification]
+- Well, firstly is there any very serious wish that it should be the woman
+- I do not think she is even very flattered if anyone mentions the fact of her own ‘headship’
+- Naturally, almost, in a sense, rightly, their claims override, for her, all other claims
+- Or, if you are a married woman, let me ask you this question
+- Much as you admire your husband, would you not say that his chief failing is his tendency not to stick up for his rights and yours against the neighbours as vigorously as you would like
+- A bit of an Appeaser?

@@ -1,0 +1,37 @@
+# Foreword
+
+- This is a book that begs to be seen in its historical context, as a bold act of storytelling and healing in a world gone mad
+  - Now it was ordinary citizens who suffered, as their small island nation was bombarded by four hundred planes a night, in the infamous “blitz”1 that changed the face of war, turning civilians and their cities into the front lines. [restatement]
+- In 1942, just twenty-four years after the end of a brutal war that had destroyed an entire generation of its young men, Great Britain was at war again
+- As a young man, C. S. Lewis had served in the awful trenches of World War I, and in 1940, when the bombing of Britain began, he took up duties as an air raid warden and gave talks to men in the Royal Air Force, who knew that after just thirteen bombing missions, most of them would be declared dead or missing
+  - Their situation prompted Lewis to speak about the problems of suffering, pain, and evil, work that resulted in his being invited by the BBC to give a series of wartime broadcasts on Christian faith [restatement]
+- Delivered over the air from 1942 to 1944, these speeches eventually were gathered into the book we know today as Mere Christianity.
+- This book, then, does not consist of academic philosophical musings
+- Rather, it is a work of oral literature, addressed to people at war
+- How strange it must have seemed to turn on the radio, which was every day bringing news of death and unspeakable destruction, and hear one man talking, in an intelligent, good-humored, and probing tone, about decent and humane behavior, fair play, and the importance of knowing right from wrong
+- Asked by the BBC to explain to his fellow Britons what Christians believe, C. S. Lewis proceeded with the task as if it were the simplest thing in the world, and also the most important.
+- We can only wonder about the metaphors that connected so deeply with this book’s original audience; images of our world as enemy-occupied territory, invaded by powerful evils bent on destroying all that is good, still seem very relevant today
+  - And the easy answers: blaming technology, or, for that matter, the world’s religions, have not solved the problem [restatement]
+    - The problem, C. S. Lewis insists, is us [restatement]
+      - And the crooked and perverse generation of which the psalmists and prophets spoke many thousands of years ago is our own, whenever we submit to systemic and individual evils as if doing so were our only alternative. [restatement]
+- All of our notions of modernity and progress and all our advances in technological expertise have not brought an end to war
+- Our declaring the notion of sin to be obsolete has not diminished human suffering
+- C. S. Lewis, who was once described by a friend as a man in love with the imagination, believed that a complacent acceptance of the status quo reflects more than a failure of nerve
+  - In Mere Christianity, no less than in his more fantastical works, the Narnia stories and science fiction novels, Lewis betrays a deep faith in the power of the human imagination to reveal the truth about our condition and bring us to hope. [restatement]
+- “The longest way round is the shortest way home”2 is the logic of both fable and of faith.
+- Speaking with no authority but that of experience, as a layman and former atheist, C. S. Lewis told his radio audience that he had been selected for the job of describing Christianity to a new generation precisely because he was not a specialist but “an amateur . . . and a beginner, not an old hand.”3 He told friends that he had accepted the task because he believed that England, which had come to consider itself part of a “post-Christian” world, had never in fact been told in basic terms what the religion is about
+  - Like Søren Kierkegaard before him and his contemporary Dietrich Bonhoeffer, Lewis seeks in Mere Christianity to help us see the religion with fresh eyes, as a radical faith whose adherents might be likened to an underground group gathering in a war zone, a place where evil seems to have the upper hand, to hear messages of hope from the other side. [analogy]
+- The “mere” Christianity of C. S. Lewis is not a philosophy or even a theology that may be considered, argued, and put away in a book on a shelf
+  - It is a way of life, one that challenges us always to remember, as Lewis once stated, that “there are no ordinary people” and that “it is immortals whom we joke with, work with, marry, snub, and exploit.”4 Once we tune ourselves to this reality, Lewis believes, we open ourselves to imaginatively transform our lives in such a way that evil diminishes and good prevails [restatement]
+    - It is what Christ asked of us in taking on our humanity, sanctifying our flesh, and asking us in turn to reveal God to one another. [restatement]
+- If the world would make this seem a hopeless task, Lewis insists that it is not
+  - The Christianity Lewis espouses is humane, but not easy: it asks us to recognize that the great religious struggle is not fought on a spectacular battleground, but within the ordinary human heart, when every morning we awake and feel the pressures of the day crowding in on us, and we must decide what sort of immortals we wish to be [restatement]
+    - Perhaps it helps us, as surely it helped the war-weary British people who first heard these talks, to remember that God plays a great joke on those who would seek after power at any cost [restatement]
+      - As Lewis reminds us, with his customary humor and wit, “How monotonously alike all the great tyrants and conquerors have been: how gloriously different the saints.”6 Kathleen Norris 1 Information on the blitz and Royal Air Force pilots by William Griffin, Clive Staples Lewis: A Dramatic Life; sections on the years 1941 & 1942 [restatement]
+- Even someone he envisions as “poisoned by a wretched upbringing in some house full of vulgar jealousies and senseless quarrels”5 can be assured that God is well aware of “what a wretched machine you are trying to drive,” and asks only that you “keep on, [doing] the best you can
+- Holt & Rinehart, 1986.
+- 2 “The longest way round,” quoted from Mere Christianity.
+- 3 “An amateur,” from January 11, 1942, radio broadcast; cited in Clive Staples Lewis: A Dramatic Life.
+- 4 “There are no ordinary people,” quoted from “The Weight of Glory,” a C. S. Lewis sermon delivered June 8, 1941.
+- 5 “Poisoned by a wretched upbringing,” quoted from Mere Christianity.
+- 6 “How monotonously alike,” quoted from Mere Christianity.

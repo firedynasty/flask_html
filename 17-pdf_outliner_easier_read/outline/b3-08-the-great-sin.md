@@ -1,0 +1,123 @@
+# The Great Sin
+
+- I now come to that part of Christian morals where they differ most sharply from all other morals
+  - I do not think I have ever heard anyone who was not a Christian accuse himself of this vice [restatement]
+    - And at the same time I have very seldom met anyone, who was not a Christian, who showed the slightest mercy to it in others [restatement]
+  - And the more we have it ourselves, the more we dislike it in others. [restatement]
+- There is one vice of which no man in the world is free; which every one in the world loathes when he sees it in someone else; and of which hardly any people, except Christians, ever imagine that they are guilty themselves
+- I have heard people admit that they are bad-tempered, or that they cannot keep their heads about girls or drink, or even that they are cowards
+- There is no fault which makes a man more unpopular, and no fault which we are more unconscious of in ourselves
+- The vice I am talking of is Pride or Self-Conceit: and the virtue opposite to it, in Christian morals, is called Humility
+  - You may remember, when I was talking about sexual morality, I warned you that the centre of Christian morals did not lie there [restatement]
+    - Well, now, we have come to the centre [restatement]
+      - According to Christian teachers, the essential vice, the utmost evil, is Pride. [restatement]
+- Unchastity, anger, greed, drunkenness, and all that, are mere fleabites in comparison: it was through Pride that the devil became the devil: Pride leads to every other vice: it is the complete anti-God state of mind.
+- Does this seem to you exaggerated
+  - If so, think it over [qualification]
+  - In fact, if you want to find out how proud you are the easiest way is to ask yourself, ‘How much do I dislike it when other people snub me, or refuse to take any notice of me, or shove their oar in, or patronise me, or show off [evidence]
+  - It is because I wanted to be the big noise at the party that I am so annoyed at someone else being the big noise [restatement]
+  - They are proud of being richer, or cleverer, or better-looking than others [restatement]
+  - If everyone else became equally rich, or clever, or good-looking there would be nothing to be proud about [qualification]
+    - It is the comparison that makes you proud: the pleasure of being above the rest [restatement]
+  - That is why I say that Pride is essentially competitive in a way the other vices are not [consequence]
+  - But that is only by accident; they might just as likely have wanted two different girls [contrast]
+  - But a proud man will take your girl from you, not because he wants her, but just to prove to himself that he is a better man than you [contrast]
+    - Greed may drive men into competition if there is not enough to go round; but the proud man, even when he has got more than he can possibly want, will try to get still more just to assert his power [restatement]
+      - Nearly all those evils in the world which people put down to greed or selfishness are really far more the result of Pride. [restatement]
+- I pointed out a moment ago that the more pride one had, the more one disliked pride in others
+- The point is that each person’s pride is in competition with every one else’s pride
+- Two of a trade never agree
+- Now what you want to get clear is that Pride is essentially competitive—is competitive by its very nature—while the other vices are competitive only, so to speak, by accident
+- Pride gets no pleasure out of having something, only out of having more of it than the next man
+- We say that people are proud of being rich, or clever, or good-looking, but they are not
+- Once the element of competition has gone, pride has gone
+- The sexual impulse may drive two men into competition if they both want the same girl
+- Take it with money
+  - Greed will certainly make a man want money, for the sake of a better house, better holidays, better things to eat and drink [restatement]
+  - But only up to a point [contrast]
+  - It is not the greed for more pleasure. £10,000 will give all the luxuries that any man can really enjoy [restatement]
+    - It is Pride—the wish to be richer than some other rich man, and (still more) the wish for power [restatement]
+  - For, of course, power is what Pride really enjoys: there is nothing makes a man feel so superior to others as being able to move them about like toy soldiers [evidence]
+    - What makes a pretty girl spread misery wherever she goes by collecting admirers [restatement]
+  - Certainly not her sexual instinct: that kind of girl is quite often sexually frigid [concession]
+    - It is Pride [restatement]
+  - If I am a proud man, then, as long as there is one man in the whole world more powerful, or richer, or cleverer than I, he is my rival and my enemy. [qualification]
+- What is it that makes a man with £10,000 a year anxious to get £20,000 a year
+- What is it that makes a political leader or a whole nation go on and on, demanding more and more
+- Pride again
+- Pride is competitive by its very nature: that is why it goes on and on
+- The Christians are right: it is Pride which has been the chief cause of misery in every nation and every family since the world began
+  - But pride always means enmity—it is enmity [contrast]
+    - And not only enmity between man and man, but enmity to God. [restatement]
+- Other vices may sometimes bring people together: you may find good fellowship and jokes and friendliness among drunken people or unchaste people
+- In God you come up against something which is in every respect immeasurably superior to yourself
+  - Unless you know God as that—and, therefore, know yourself as nothing in comparison—you do not know God at all [qualification]
+  - As long as you are proud you cannot know God [qualification]
+    - A proud man is always looking down on things and people: and, of course, as long as you are looking down, you cannot see something that is above you. [restatement]
+- That raises a terrible question
+  - They theoretically admit themselves to be nothing in the presence of this phantom God, but are really all the time imagining how He approves of them and thinks them far better than ordinary people: that is, they pay a pennyworth of imaginary humility to Him and get out of it a pound’s worth of Pride towards their fellow-men [restatement]
+  - And any of us may at any moment be in this death-trap [restatement]
+  - Whenever we find that our religious life is making us feel that we are good—above all, that we are better than someone else—I think we may be sure that we are being acted on, not by God, but by the devil [qualification]
+  - It is better to forget about yourself altogether. [restatement]
+- How is it that people who are quite obviously eaten up with Pride can say they believe in God and appear to themselves very religious
+- I am afraid it means they are worshipping an imaginary God
+- I suppose it was of those people Christ was thinking when He said that some would preach about Him and cast out devils in His name, only to be told at the end of the world that He had never known them
+- Luckily, we have a test
+- The real test of being in the presence of God is, that you either forget about yourself altogether or see yourself as a small, dirty object
+- It is a terrible thing that the worst of all the vices can smuggle itself into the very centre of our religious life
+  - But you can see why [contrast]
+    - The other, and less bad, vices come from the devil working on us through our animal nature [restatement]
+  - But this does not come through our animal nature at all [contrast]
+    - It comes direct from Hell [restatement]
+      - It is purely spiritual: consequently it is far more subtle and deadly [restatement]
+  - For the same reason, Pride can often be used to beat down the simpler vices [evidence]
+    - Teachers, in fact, often appeal to a boy’s Pride, or, as they call it, his self-respect, to make him behave decently: many a man has overcome cowardice, or lust, or ill-temper, by learning to think that they are beneath his dignity—that is, by Pride [restatement]
+  - He is perfectly content to see you becoming chaste and brave and self-controlled provided, all the time, he is setting up in you the Dictatorship of Pride—just as he would be quite content to see your chilblains cured if he was allowed, in return, to give you cancer [restatement]
+  - For Pride is spiritual cancer: it eats up the very possibility of love, or contentment, or even common sense. [evidence]
+- The devil laughs
+- Before leaving this subject I must guard against some possible misunderstandings: (1) Pleasure in being praised is not Pride
+  - The child who is patted on the back for doing a lesson well, the woman whose beauty is praised by her lover, the saved soul to whom Christ says ‘Well done,’ are pleased and ought to be [restatement]
+  - For here the pleasure lies not in what you are but in the fact that you have pleased someone you wanted (and rightly wanted) to please [evidence]
+    - The trouble begins when you pass from thinking, ‘I have pleased him; all is well,’ to thinking, ‘What a fine person I must be to have done it [restatement]
+  - When you delight wholly in yourself and do not care about the praise at all, you have reached the bottom [qualification]
+  - That is why vanity, though it is the sort of Pride which shows most on the surface, is really the least bad and most pardonable sort [consequence]
+  - It is a fault, but a child-like and even (in an odd way) a humble fault [restatement]
+    - It shows that you are not yet completely contented with your own admiration [restatement]
+  - The real black, diabolical Pride, comes when you look down on others so much that you do not care what they think of you [restatement]
+  - Of course, it is very right, and often our duty, not to care what people think of us, if we do so for the right reason; namely, because we care so incomparably more what God thinks [concession]
+  - But the Proud man has a different reason for not caring [contrast]
+    - He says ‘Why should I care for the applause of that rabble as if their opinion were worth anything [restatement]
+      - And even if their opinions were of value, am I the sort of man to blush with pleasure at a compliment like some chit of a girl at her first dance [restatement]
+  - If the mob like it, let them [qualification]
+    - They’re nothing to me [restatement]
+      - In this way real thoroughgoing pride may act as a check on vanity; for, as I said a moment ago, the devil loves ‘curing’ a small fault by giving you a great one [restatement]
+  - We must try not to be vain, but we must never call in our Pride to cure our vanity. [restatement]
+- The more you delight in yourself and the less you delight in the praise, the worse you are becoming
+- The vain person wants praise, applause, admiration, too much and is always angling for it
+- You value other people enough to want them to look at you
+- You are, in fact, still human
+- No, I am an integrated, adult personality
+- All I have done has been done to satisfy my own ideals—or my artistic conscience—or the traditions of my family—or, in a word, because I’m That Kind of Chap
+- (2) We say in English that a man is ‘proud’ of his son, or his father, or his school, or regiment, and it may be asked whether ‘pride’ in this sense is a sin
+  - I think it depends on what, exactly, we mean by ‘proud of’ [restatement]
+    - Very often, in such sentences, the phrase ‘is proud of’ means ‘has a warm-hearted admiration for’ [restatement]
+      - Such an admiration is, of course, very far from being a sin [restatement]
+  - But it might, perhaps, mean that the person in question gives himself airs on the ground of his distinguished father, or because he belongs to a famous regiment [contrast]
+    - This would, clearly, be a fault; but even then, it would be better than being proud simply of himself [restatement]
+- To love and admire anything outside yourself is to take one step away from utter spiritual ruin; though we shall not be well so long as we love and admire anything more than we love and admire God.
+- (3) We must not think Pride is something God forbids because He is offended at it, or that Humility is something He demands as due to His own dignity—as if God Himself was proud
+  - He is not in the least worried about His dignity [restatement]
+    - The point is, He wants you to know Him: wants to give you Himself [restatement]
+      - And He and you are two things of such a kind that if you really get into any kind of touch with Him you will, in fact, be humble—delightedly humble, feeling the infinite relief of having for once got rid of all the silly nonsense about your own dignity which has made you restless and unhappy all your life [restatement]
+  - He is trying to make you humble in order to make this moment possible: trying to take off a lot of silly, ugly, fancy-dress in which we have all got ourselves up and are strutting about like the little idiots we are [restatement]
+    - I wish I had got a bit further with humility myself: if I had, I could probably tell you more about the relief, the comfort, of taking the fancy-dress off—getting rid of the false self, with all its ‘Look at me’ and ‘Aren’t I a good boy?’ and all its posing and posturing [restatement]
+- To get even near it, even for a moment, is like a drink of cold water to a man in a desert.
+- (4) Do not imagine that if you meet a really humble man he will be what most people call ‘humble’ nowadays: he will not be a sort of greasy, smarmy person, who is always telling you that, of course, he is nobody
+  - Probably all you will think about him is that he seemed a cheerful, intelligent chap who took a real interest in what you said to him [restatement]
+  - If you do dislike him it will be because you feel a little envious of anyone who seems to enjoy life so easily [qualification]
+    - He will not be thinking about humility: he will not be thinking about himself at all. [restatement]
+- If anyone would like to acquire humility, I can, I think, tell him the first step
+  - The first step is to realise that one is proud [restatement]
+    - And a biggish step, too [restatement]
+  - If you think you are not conceited, it means you are very conceited indeed. [qualification]
+- At least, nothing whatever can be done before it

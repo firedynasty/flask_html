@@ -1,0 +1,133 @@
+# Verbatim Logical-Structure Outliner — Claude Code Prompt
+
+Paste everything below the line into Claude Code, with the PDF in the working directory.
+
+---
+
+## Task
+
+I have a book-length PDF. I want each chapter reformatted as a Markdown outline that exposes the
+author's **logical structure**, using **only the author's own words**. This is a restructuring task,
+not a writing task. You are not summarizing, explaining, or improving anything.
+
+Input file: `./BOOK.pdf`
+Output directory: `./outline/`
+
+Work in four phases. Do not skip the verification phase.
+
+---
+
+## Phase 1 — Extract and clean
+
+Extract the text (`pdftotext -layout` or PyMuPDF, your call). Then write a cleaning script that
+handles the following. Write it as a script I can inspect and re-run, not as ad-hoc edits.
+
+1. **De-hyphenation.** Justified typesetting breaks words across lines. Join `(\w+)-\n(\w+)` when
+   the joined form is a real word; keep the hyphen when the compound is genuine (`self-evident`,
+   `well-meaning`). Use a dictionary check, not a blanket rule — getting this wrong silently
+   corrupts the "verbatim" guarantee that the whole technique rests on.
+2. **Running heads and page numbers.** Detect lines that repeat across many pages (book title,
+   chapter title, bare numerals) and strip them.
+3. **Ligatures and smart punctuation.** Normalize `ﬁ ﬂ ﬀ ﬃ` to their letter pairs. Leave curly
+   quotes and em dashes as they are — just make them consistent.
+4. **Paragraph reflow.** Join lines within a paragraph into single lines. Preserve paragraph breaks.
+   Preserve the indentation cue that marks a new paragraph if the source uses one.
+5. **Front and back matter.** Separate preface, contents, index, and notes from the body chapters.
+   Keep the preface — it's usually where the author states their aims — but mark it as its own unit.
+
+Emit `./clean/00-preface.txt`, `./clean/01-<chapter-slug>.txt`, etc.
+
+Then **stop and show me** a random 40-line sample from the middle of one chapter so I can eyeball
+the cleaning before you process the whole book.
+
+---
+
+## Phase 2 — Chunk
+
+One chapter = one unit. Do **not** split mid-argument to fit a size limit; if a chapter is genuinely
+too long, split at a section break the author himself marks, and note the split in the output.
+
+Process **one chunk per model call.** Do not batch several chapters into one context — structural
+judgment degrades across a long context, and the failure is invisible because the words stay correct.
+
+---
+
+## Phase 3 — Outline
+
+For each chunk, produce a Markdown outline under these rules.
+
+### Verbatim rules (non-negotiable)
+
+- Use **only words that appear in the source chunk**, in their original form.
+- You may split a sentence at clause boundaries to place clauses at different depths.
+- Keep connectives (`but`, `however`, `because`, `therefore`, `which means`) attached to the clause
+  they govern — they *are* the logical signal you're exposing.
+- Mark any omitted words with `[…]`.
+- Do **not** paraphrase, compress, modernize, correct, add transitions, or add headings of your own
+  invention. Do not fix what looks like an error. Do not smooth anything.
+- Every sentence in the source must appear somewhere in the output.
+
+### Structure rules
+
+- Bullet notation (`- `), max **4** levels deep.
+- Each child bullet is prefixed with its logical relation to its parent, in square brackets:
+
+  | Tag | Use when the child… |
+  |---|---|
+  | `[evidence]` | supports the parent with fact, data, or citation |
+  | `[definition]` | fixes the meaning of a term in the parent |
+  | `[qualification]` | narrows, hedges, or bounds the parent |
+  | `[example]` | instantiates the parent concretely |
+  | `[analogy]` | argues by likeness to something outside the subject |
+  | `[concession]` | states a view the author does not hold, or grants a point |
+  | `[consequence]` | follows from the parent |
+  | `[contrast]` | sets against the parent |
+  | `[restatement]` | says the parent again in other words |
+
+- Top-level bullets are the chapter's load-bearing claims and take no tag.
+- `[concession]` matters more than it looks. Authors who argue by setting up an opponent's position
+  will produce a tree that reads as though they believe it, unless conceded material is tagged.
+
+### The unplaced bucket
+
+End every file with:
+
+```
+## Unplaced
+```
+
+Put any sentence you could not confidently attach under it, verbatim, with a one-line note on why.
+**An outline with orphans is more useful to me than a tidy one.** Forcing a sentence into a slot you
+aren't sure about is the main failure mode here — it produces a confident-looking structure with no
+signal that anything went wrong. Err heavily toward the bucket.
+
+Output to `./outline/<same-slug>.md`.
+
+---
+
+## Phase 4 — Verify
+
+For each chapter, run an automated check and write the result to `./outline/_report.md`:
+
+1. Strip all Markdown syntax, relation tags, and `[…]` markers from the outline.
+2. Normalize whitespace and case in both the stripped outline and the source chunk.
+3. Compare token multisets. Report: coverage %, tokens present in the outline but absent from the
+   source (these are **insertions and are bugs**), and tokens in the source absent from the outline
+   (these are **droppped content**).
+4. Flag any chapter under 98% coverage for manual review.
+
+Insertions are the serious failure. If a chapter shows any, show me the diff rather than
+auto-correcting it.
+
+Also report per chapter: node count, max depth, tag distribution, unplaced count.
+
+---
+
+## Ground rules
+
+- Run **one chapter end-to-end first** and show me the result before touching the rest.
+- Never edit files in `./clean/` from the outlining phase — the source of truth stays untouched so
+  verification means something.
+- If a passage resists structuring — a narrative stretch, a list, an extended quotation — say so and
+  leave it as a flat sequence of bullets rather than imposing hierarchy that isn't there.
+- Prefer under-structuring to over-structuring throughout.

@@ -1,0 +1,129 @@
+# Let's Pretend
+
+- May I once again start by putting two pictures, or two stories rather, into your minds
+  - And she did [restatement]
+    - She kissed it as if it were a man [restatement]
+      - And then, much to her relief, it really turned into a man and all went well [restatement]
+  - The other story is about someone who had to wear a mask; a mask which made him look much nicer than he really was [restatement]
+    - He had to wear it for years [restatement]
+      - And when he took it off he found his own face had grown to fit it [restatement]
+  - He was now really beautiful [restatement]
+  - I think both these stories may (in a fanciful way, of course) help to illustrate what I have to say in this chapter [restatement]
+  - It can start making a difference tonight [restatement]
+  - If you are interested enough to have read thus far you are probably interested enough to make a shot at saying your prayers: and, whatever else you say, you will probably say the Lord’s Prayer. [qualification]
+- One is the story you have all read called Beauty and the Beast
+- The girl, you remember, had to marry a monster for some reason
+- What had begun as disguise had become a reality
+- Up till now, I have been trying to describe facts—what God is and what He has done
+- Now I want to talk about practice—what do we do next
+- What difference does all this theology make
+- Its very first words are Our Father
+  - Do you now see what those words mean [restatement]
+    - They mean quite frankly, that you are putting yourself in the place of a son of God [restatement]
+  - If you like, you are pretending [qualification]
+  - Because, of course, the moment you realise what the words mean, you realise that you are not a son of God [evidence]
+    - You are not a being like The Son of God, whose will and interests are at one with those of the Father: you are a bundle of self-centred fears, hopes, greeds, jealousies, and self-conceit, all doomed to death [restatement]
+  - So that, in a way, this dressing up as Christ is a piece of outrageous cheek [consequence]
+  - But the odd thing is that He has ordered us to do it. [contrast]
+- To put it bluntly, you are dressing up as Christ
+- Why
+  - But there is also a good kind, where the pretence leads up to the real thing [contrast]
+  - When you are not feeling particularly friendly but know you ought to be, the best thing you can do, very often, is to put on a friendly manner and behave as if you were a nicer person than you actually are [qualification]
+    - And in a few minutes, as we have all noticed, you will be really feeling friendlier than you were [restatement]
+  - That is why children’s games are so important [consequence]
+    - They are always pretending to be grownups—playing soldiers, playing shop [restatement]
+  - But all the time, they are hardening their muscles and sharpening their wits so that the pretence of being grown-up helps them to grow up in earnest. [contrast]
+- What is the good of pretending to be what you are not
+- Well, even on the human level, you know, there are two kinds of pretending
+- There is a bad kind, where the pretence is there instead of the real thing; as when a man pretends he is going to help you instead of really helping you
+- Very often the only way to get a quality in reality is to start behaving as if you had it already
+- Now, the moment you realise ‘Here I am, dressing up as Christ,’ it is extremely likely that you will see at once some way in which at that very moment the pretence could be made less of a pretence and more of a reality
+  - You will find several things going on in your mind which would not be going on there if you were really a son of God [restatement]
+  - Or you may realise that, instead of saying your prayers, you ought to be downstairs writing a letter, or helping your wife to wash-up [restatement]
+- Well, stop them
+- Well, go and do it.
+- You see what is happening
+  - This is not merely a fancy way of saying that your conscience is telling you what to do [restatement]
+  - If you simply ask your conscience, you get one result; if you remember that you are dressing up as Christ, you get a different one [qualification]
+    - There are lots of things which your conscience might not call definitely wrong (specially things in your mind) but which you will see at once you cannot go on doing if you are seriously trying to be like Christ [restatement]
+  - For you are no longer thinking simply about right and wrong; you are trying to catch the good infection from a Person [evidence]
+    - It is more like painting a portrait than like obeying a set of rules [restatement]
+      - And the odd thing is that while in one way it is much harder than keeping rules, in another way it is far easier. [restatement]
+- The Christ Himself, the Son of God who is man (just like you) and God (just like His Father) is actually at your side and is already at that moment beginning to turn your pretence into a reality
+- The real Son of God is at your side
+  - He is beginning to turn you into the same kind of thing as Himself [restatement]
+    - He is beginning, so to speak, to ‘inject’ His kind of life and thought, His Zoe, into you; beginning to turn the tin soldier into a live man [restatement]
+- The part of you that does not like it is the part that is still tin.
+- Some of you may feel that this is very unlike your own experience
+  - You may say ‘I’ve never had the sense of being helped by an invisible Christ, but I often have been helped by other human beings [concession]
+  - That is rather like the woman in the first war who said that if there were a bread shortage it would not bother her house because they always ate toast [restatement]
+  - If there is no bread there will be no toast [qualification]
+  - If there were no help from Christ, there would be no help from other human beings [qualification]
+    - He works on us in all sorts of ways: not only through what we think our ‘religious life’ [restatement]
+      - He works through Nature, through our own bodies, through books, sometimes through experiences which seem (at the time) anti-Christian [restatement]
+  - When a young man who has been going to church in a routine way honestly realises that he does not believe in Christianity and stops going—provided he does it for honesty’s sake and not just to annoy his parents— the spirit of Christ is probably nearer to him then than it ever was before [qualification]
+  - But above all, He works on us through each other. [contrast]
+- Men are mirrors, or ‘carriers’ of Christ to other men
+  - Sometimes unconscious carriers [restatement]
+    - This ‘good infection’ can be carried by those who have not got it themselves [restatement]
+      - People who were not Christians themselves helped me to Christianity [restatement]
+  - But usually it is those who know Him that bring Him to others [contrast]
+  - That is why the Church, the whole body of Christians showing Him to one another, is so important [consequence]
+    - You might say that when two Christians are following Christ together there is not twice as much Christianity as when they are apart, but sixteen times as much. [restatement]
+- But do not forget this
+  - It is equally natural for us to see the man who helps us without seeing Christ behind him [restatement]
+  - But we must not remain babies [contrast]
+    - We must go on to recognise the real Giver [restatement]
+      - It is madness not to [restatement]
+  - Because, if we do not, we shall be relying on human beings [evidence]
+    - And that is going to let us down [restatement]
+  - But never, never pin your whole faith on any human being: not if he is the best and wisest in the whole world [contrast]
+- At first it is natural for a baby to take its mother’s milk without knowing its mother
+- The best of them will make mistakes; all of them will die
+- We must be thankful to all the people who have helped us, we must honour them and love them
+- There are lots of nice things you can do with sand: but do not try building a house on it.
+- And now we begin to see what it is that the New Testament is always talking about
+  - It talks about Christians ‘being born again’; it talks about them ‘putting on Christ’; about Christ ‘being formed in us’; about our coming to ‘have the mind of Christ’. [restatement]
+- Put right out of your head the idea that these are only fancy ways of saying that Christians are to read what Christ said and try to carry it out—as a man may read what Plato or Marx said and try to carry it out
+  - They mean something much more than that [restatement]
+    - They mean that a real Person, Christ, here and now, in that very room where you are saying your prayers, is doing things to you [restatement]
+      - It is not a question of a good man who died two thousand years ago [restatement]
+  - It is a living Man, still as much a man as you, and still as much God as He was when He created the world, really coming and interfering with your very self; killing the old natural self in you and replacing it with the kind of self He has [restatement]
+    - At first, only for moments [restatement]
+  - Then for longer periods [consequence]
+  - Finally, if all goes well, turning you permanently into a different sort of thing; into a new little Christ, a being which, in its own small way, has the same kind of life as God; which shares in His power, joy, knowledge and eternity [restatement]
+  - And soon we make two other discoveries. [consequence]
+- (1) We begin to notice, besides our particular sinful acts, our sinfulness; begin to be alarmed not only about what we do, but about what we are
+  - This may sound rather difficult, so I will try to make it clear from my own case [restatement]
+  - When I come to my evening prayers and try to reckon up the sins of the day, nine times out of ten the most obvious one is some sin against charity; I have sulked or snapped or sneered or snubbed or stormed [qualification]
+    - And the excuse that immediately springs to my mind is that the provocation was so sudden and unexpected; I was caught off my guard, I had not time to collect myself [restatement]
+      - Now that may be an extenuating circumstance as regards those particular acts: they would obviously be worse if they had been deliberate and premeditated [restatement]
+  - On the other hand, surely what a man does when he is taken off his guard is the best evidence for what sort of a man he is [contrast]
+    - Surely what pops out before the man has time to put on a disguise is the truth [restatement]
+  - If there are rats in a cellar you are most likely to see them if you go in very suddenly [qualification]
+  - But the suddenness does not create the rats: it only prevents them from hiding [contrast]
+  - In the same way the suddenness of the provocation does not make me an ill-tempered man; it only shows me what an ill-tempered man I am [analogy]
+  - Now that cellar is out of reach of my conscious will [restatement]
+    - I can to some extent control my acts: I have no direct control over my temperament [restatement]
+      - And if (as I said before) what we are matters even more than what we do—if, indeed, what we do matters chiefly as evidence of what we are—then it follows that the change which I most need to undergo is a change that my own direct, voluntary efforts cannot bring about [restatement]
+  - And this applies to my good actions too [restatement]
+  - But I cannot, by direct moral effort, give myself new motives [contrast]
+    - After the first few steps in the Christian life we realise that everything which really needs to be done in our souls can be done only by God [restatement]
+      - And that brings us to something which has been very misleading in my language up to now. [restatement]
+- The rats are always there in the cellar, but if you go in shouting and noisily they will have taken cover before you switch on the light
+- Apparently the rats of resentment and vindictiveness are always there in the cellar of my soul
+- How many of them were done for the right motive
+- How many for fear of public opinion, or a desire to show off
+- How many from a sort of obstinacy or sense of superiority which, in different circumstances, might equally have led to some very bad act
+- (2) I have been talking as if it were we who did everything
+  - In reality, of course, it is God who does everything [restatement]
+  - But He says ‘Let us pretend that this is not a mere creature, but our Son [contrast]
+    - It is like Christ in so far as it is a Man, for He became Man [restatement]
+      - Let us pretend that it is also like Him in Spirit [restatement]
+- We, at most, allow it to be done to us
+- In a sense you might even say it is God who does the pretending
+- The Three-Personal God, so to speak, sees before Him in fact a self-centred, greedy, grumbling, rebellious human animal
+- Let us treat it as if it were what in fact it is not
+- Let us pretend in order to make the pretence into a reality
+- God looks at you as if you were a little Christ: Christ stands beside you to turn you into one
+- I daresay this idea of a divine make-believe sounds rather strange at

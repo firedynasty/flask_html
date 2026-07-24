@@ -1,0 +1,99 @@
+# Good Infection
+
+- I begin this chapter by asking you to get a certain picture clear in your minds
+  - Imagine two books lying on a table one on top of the other [analogy]
+  - It is because of the underneath book that the top one is resting, say, two inches from the surface of the table instead of touching the table [restatement]
+    - Let us call the underneath book A and the top one B. The position of A is causing the position of B. That is clear [restatement]
+      - Now let us imagine—it could not really happen, of course, but it will do for an illustration— let us imagine that both books have been in that position for ever and ever [restatement]
+  - In that case B’s position would always have been resulting from A’s position [consequence]
+  - But all the same, A’s position would not have existed before B’s position [contrast]
+  - In other words the result does not come after the cause [restatement]
+  - Of course, results usually do: you eat the cucumber first and have the indigestion afterwards [concession]
+  - But it is not so with all causes and results [contrast]
+- Obviously the bottom book is keeping the other one up—supporting it
+- You will see in a moment why I think this important.
+- I said a few pages back that God is a Being which contains three Persons while remaining one Being, just as a cube contains six squares while remaining one body
+  - But as soon as I begin trying to explain how these Persons are connected I have to use words which make it sound as if one of them was there before the others [contrast]
+  - But unfortunately it suggests that He is there first—just as a human father exists before his son [contrast]
+  - But that is not so [contrast]
+  - And that is why I think it important to make clear how one thing can be the source, or cause, or origin, of another without being there before it [restatement]
+- The First Person is called the Father and the Second the Son
+- We say that the First begets or produces the second; we call it begetting, not making, because what He produces is of the same kind as Himself
+- In that way the word Father is the only word to use
+- There is no before and after about it
+- The Son exists because the Father exists: but there never was a time before the Father produced the Son.
+- Perhaps the best way to think of it is this
+  - That is, you made an act of imagination and as a result you had a mental picture [restatement]
+    - Quite obviously your act of imagining was the cause and the mental picture the result [restatement]
+  - But that does not mean that you first did the imagining and then got the picture [contrast]
+    - The moment you did it, the picture was there [restatement]
+      - Your will was keeping the picture before you all the time [restatement]
+  - Yet that act of will and the picture began at exactly the same moment and ended at the same moment [contrast]
+  - If there were a Being who had always existed and had always been imagining one thing, his act would always have been producing a mental picture; but the picture would be just as eternal as the act. [qualification]
+- I asked you just now to imagine those two books, and probably most of you did
+- In the same way we must think of the Son always, so to speak, streaming forth from the Father, like light from a lamp, or heat from a fire, or thoughts from a mind
+  - He is the self-expression of the Father—what the Father has to say [restatement]
+    - And there never was a time when He was not saying it [restatement]
+  - But have you noticed what is happening [contrast]
+    - All these pictures of light or heat are making it sound as if the Father and Son were two things instead of two Persons [restatement]
+  - So that after all, the New Testament picture of a Father and a Son turns out to be much more accurate than anything we try to substitute for it [consequence]
+  - That is what always happens when you go away from the words of the Bible [restatement]
+    - It is quite right to go away from them for a moment in order to make some special point clear [restatement]
+  - But you must always go back [contrast]
+  - He knows that Father and Son is more like the relation between the First and Second Persons than anything else we can think of [restatement]
+    - Much the most important thing to know is that it is a relation of love [restatement]
+      - The Father delights in His Son; the Son looks up to His Father. [restatement]
+- Naturally God knows how to describe Himself much better than we know how to describe Him
+- Before going on, notice the practical importance of this
+  - But they seem not to notice that the words ‘God is love’ have no real meaning unless God contains at least two Persons [contrast]
+    - Love is something that one person has for another person [restatement]
+  - If God was a single person, then before the world was made, He was not love [qualification]
+  - Of course, what these people mean when they say that God is love is often something quite different: they really mean ‘Love is God’ [concession]
+    - They really mean that our feelings of love, however and wherever they arise, and whatever results they produce, are to be treated with great respect [restatement]
+      - Perhaps they are: but that is something quite different from what Christians mean by the statement ‘God is love’ [restatement]
+  - They believe that the living, dynamic activity of love has been going on in God forever and has created everything else. [restatement]
+- All sorts of people are fond of repeating the Christian statement that ‘God is love’
+- And that, by the way, is perhaps the most important difference between Christianity and all other religions: that in Christianity God is not a static thing—not even a person—but a dynamic, pulsating activity, a life, almost a kind of drama
+  - Almost, if you will not think me irreverent, a kind of dance [restatement]
+    - The union between the Father and the Son is such a live concrete thing that this union itself is also a Person [restatement]
+  - I know this is almost inconceivable, but look at it thus [concession]
+    - You know that among human beings, when they get together in a family, or a club, or a trade union, people talk about the ‘spirit’ of that family, or club, or trade union [restatement]
+      - They talk about its ‘spirit’ because the individual members, when they are together, do really develop particular ways of talking and behaving which they would not have if they were apart.* It is as if a sort of communal personality came into existence [restatement]
+  - Of course, it is not a real person: it is only rather like a person [concession]
+  - But that is just one of the differences between God and us [contrast]
+    - What grows out of the joint life of the Father and Son is a real Person, is in fact the Third of the three Persons who are God. [restatement]
+- This third Person is called, in technical language, the Holy Ghost or the ‘spirit’ of God
+- Do not be worried or surprised if you find it (or Him) rather vaguer or more shadowy in your mind than the other two
+- I think there is a reason why that * This corporate behaviour may, of course, be either better or worse than their individual behaviour.
+- must be so
+  - He is always acting through you [restatement]
+  - If you think of the Father as something ‘out there’, in front of you, and of the Son as someone standing at your side, helping you to pray, trying to turn you into another son, then you have to think of the third Person as something inside you, or behind you [qualification]
+    - Perhaps some people might find it easier to begin with the third Person and work backwards [restatement]
+  - But this spirit of love is, from all eternity, a love going on between the Father and the Son. [contrast]
+- In the Christian life you are not usually looking at Him
+- God is love, and that love works through men—especially through the whole community of Christians
+- And now, what does it all matter
+  - It matters more than anything else in the world [restatement]
+  - If you want to get warm you must stand near the fire: if you want to be wet you must get into the water [qualification]
+  - If you want joy, power, peace, eternal life, you must get close to, or even into, the thing that has them [qualification]
+    - They are not a sort of prize which God could, if He chose, just hand out to anyone [restatement]
+      - They are a great fountain of energy and beauty spurting up at the very centre of reality [restatement]
+  - If you are close to it, the spray will wet you: if you are not, you will remain dry [qualification]
+- The whole dance, or drama, or pattern of this three-Personal life is to be played out in each one of us: or (putting it the other way round) each one of us has got to enter that pattern, take his place in that dance
+- There is no other way to the happiness for which we were made
+- Good things as well as bad, you know, are caught by a kind of infection
+- Once a man is united to God, how could he not live forever
+- Once a man is separated from God, what can he do but wither and die?
+- But how is he to be united to God
+- How is it possible for us to be taken into the three-Personal life?
+- You remember what I said in Chapter I about begetting and making
+  - If we do, we shall then be sharing a life which was begotten, not made, which always has existed and always will exist [qualification]
+  - If we share in this kind of life we also shall be sons of God [qualification]
+    - We shall love the Father as He does and the Holy Ghost will arise in us [restatement]
+      - He came to this world and became a man in order to spread to other men the kind of life He has—by what I call ‘good infection’ [restatement]
+- We are not begotten by God, we are only made by Him: in our natural state we are not sons of God, only (so to speak) statues
+- We have not got Zoe or spiritual life: only Bios or biological life which is presently going to run down and die
+- Now the whole offer which Christianity makes is this: that we can, if we let God have His way, come to share in the life of Christ
+- Christ is the Son of God
+- Every Christian is to become a little Christ
+- The whole purpose of becoming a Christian is simply nothing else.

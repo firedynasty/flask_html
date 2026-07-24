@@ -1,0 +1,56 @@
+# Hope
+
+- Hope is one of the Theological virtues
+  - This means that a continual looking forward to the eternal world is not (as some modern people think) a form of escapism or wishful thinking, but one of the things a Christian is meant to do [restatement]
+    - It does not mean that we are to leave the present world as it is [restatement]
+  - If you read history you will find that the Christians who did most for the present world were just those who thought most of the next [qualification]
+  - It is since Christians have largely ceased to think of the other world that they have become so ineffective in this [restatement]
+  - It seems a strange rule, but something like it can be seen at work in other matters [restatement]
+    - Health is a great blessing, but the moment you make health one of your main, direct objects you start becoming a crank and imagining there is something wrong with you [restatement]
+      - You are only likely to get health provided you want other things more—food, games, work, fun, open air [restatement]
+  - In the same way, we shall never save civilisation as long as civilisation is our main object [analogy]
+- The Apostles themselves, who set on foot the conversion of the Roman Empire, the great men who built up the Middle Ages, the English Evangelicals who abolished the Slave Trade, all left their mark on Earth, precisely because their minds were occupied with Heaven
+- Aim at Heaven and you will get earth ‘thrown in’: aim at earth and you will get neither
+- We must learn to want something else even more.
+- Most of us find it very difficult to want ‘Heaven’ at all— except in so far as ‘Heaven’ means meeting again our friends who have died
+  - Another reason is that when the real want for Heaven is present in us, we do not recognise it [restatement]
+    - Most people, if they had really learned to look into their own hearts, would know that they do want, and want acutely, something that cannot be had in this world [restatement]
+      - There are all sorts of things in this world that offer to give it to you, but they never quite keep their promise [restatement]
+  - The wife may be a good wife, and the hotels and scenery may have been excellent, and chemistry may be a very interesting job: but something has evaded us [restatement]
+- One reason for this difficulty is that we have not been trained: our whole education tends to fix our minds on this world
+- The longings which arise in us when we first fall in love, or first think of some foreign country, or first take up some subject that excites us, are longings which no marriage, no travel, no learning, can really satisfy
+- I am not now speaking of what would be ordinarily called unsuccessful marriages, or holidays, or learned careers
+- I am speaking of the best possible ones
+- There was something we grasped at, in that first moment of longing, which just fades away in the reality
+- I think everyone knows what I mean
+- Now there are two wrong ways of dealing with this fact, and one right one.
+- (1) The Fool’s Way—He puts the blame on the things themselves
+  - He goes on all his life thinking that if only he tried another woman, or went for a more expensive holiday, or whatever it is, then, this time, he really would catch the mysterious something we are all after [restatement]
+  - They spend their whole lives trotting from woman to woman (through the divorce courts), from continent to continent, from hobby to hobby, always thinking that the latest is ‘the Real Thing’ at last, and always disappointed. [restatement]
+- Most of the bored, discontented, rich people in the world are of this type
+- (2) The Way of the Disillusioned ‘Sensible Man’—He soon decides that the whole thing was moonshine
+  - ‘Of course,’ he says, ‘one feels like that when one’s young [concession]
+  - But by the time you get to my age you’ve given up chasing the rainbow’s end [contrast]
+  - And so he settles down and learns not to expect too much and represses the part of himself which used, as he would say, ‘to cry for the moon’ [consequence]
+    - This is, of course, a much better way than the first, and makes a man much happier, and less of a nuisance to society [restatement]
+      - It tends to make him a prig (he is apt to be rather superior towards what he calls ‘adolescents’), but, on the whole, he rubs along fairly comfortably [restatement]
+  - It would be the best line we could take if man did not live for ever [restatement]
+  - But supposing infinite happiness really is there, waiting for us [contrast]
+    - Supposing one really can reach the rainbow’s end [restatement]
+  - In that case it would be a pity to find out too late (a moment after death) that by our supposed ‘common sense’ we had stifled in ourselves the faculty of enjoying it. [consequence]
+- (3) The Christian Way—The Christian says, ‘Creatures are not born with desires unless satisfaction for those desires exists
+  - If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world [qualification]
+  - If none of my earthly pleasures satisfy it, that does not prove that the universe is a fraud [qualification]
+    - Probably earthly pleasures were never meant to satisfy it, but only to arouse it, to suggest the real thing [restatement]
+  - If that is so, I must take care, on the one hand, never to despise, or be unthankful for, these earthly blessings, and on the other, never to mistake them for the something else of which they are only a kind of copy, or echo, or mirage [qualification]
+    - I must keep alive in myself the desire for my true country, which I shall not find till after death; I must never let it get snowed under or turned aside; I must make it the main object of life to press on to that other country and to help others to do the same.’ [restatement]
+- A baby feels hunger: well, there is such a thing as food
+- A duckling wants to swim: well, there is such a thing as water
+- Men feel sexual desire: well, there is such a thing as sex
+- There is no need to be worried by facetious people who try to make the Christian hope of ‘Heaven’ ridiculous by saying they do not want ‘to spend eternity playing harps’
+  - All the scriptural imagery (harps, crowns, gold, etc.) is, of course, a merely symbolical attempt to express the inexpressible [restatement]
+  - Crowns are mentioned to suggest the fact that those who are united with God in eternity share His splendour and power and joy [restatement]
+    - Gold is mentioned to suggest the timelessness of Heaven (gold does not rust) and the preciousness of it [restatement]
+- The answer to such people is that if they cannot understand books written for grown-ups, they should not talk about them
+- Musical instruments are mentioned because for many people (not all) music is the thing known in the present life which most strongly suggests ecstasy and infinity
+- People who take these symbols literally might as well think that when Christ told us to be like doves, He meant that we were to lay eggs.

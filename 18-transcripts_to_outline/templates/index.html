@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>paste → outline</title>
+<style>
+  :root { --ink:#2b2b2b; --dim:#777; --line:#e3e0d8; --accent:#7a5c2e; }
+  * { box-sizing:border-box; }
+  body { font-family: Georgia, 'Times New Roman', serif; color:var(--ink);
+         margin:0; background:#faf8f3; }
+  main { max-width:860px; margin:0 auto; padding:32px 28px 80px; }
+  h1 { font-size:22px; margin:0 0 4px; }
+  .sub { color:var(--dim); font-size:13px; margin-bottom:20px; }
+  textarea { width:100%; min-height:140px; font-family:monospace; font-size:13px;
+             line-height:1.5; padding:12px; border:1px solid var(--line);
+             border-radius:4px; background:#fff; color:var(--ink);
+             resize:vertical; }
+  .row { display:flex; gap:18px; align-items:flex-start; margin:16px 0;
+         flex-wrap:wrap; }
+  fieldset { border:1px solid var(--line); border-radius:4px;
+             padding:10px 16px 12px; margin:0; }
+  legend { font-size:13px; color:var(--dim); padding:0 6px; }
+  fieldset label { display:block; font-size:14px; margin:4px 0; }
+  fieldset .hint { color:var(--dim); font-size:11.5px; margin-left:22px; }
+  .opts { padding-top:2px; font-size:14px; }
+  .opts label { display:block; margin:4px 0; }
+  .opts .hint { color:var(--dim); font-size:11.5px; margin-left:22px; }
+  input[type=text] { font:inherit; padding:7px 9px; border:1px solid var(--line);
+                     border-radius:4px; background:#fff; width:340px; }
+  button { font:inherit; padding:9px 26px; background:var(--accent); color:#fff;
+           border:none; border-radius:4px; cursor:pointer; }
+  button:hover { opacity:.88; }
+  button.ghost { background:#fff; color:var(--accent);
+                 border:1px solid var(--accent); }
+  .err:empty { display:none; }
+  .err { color:#a03a3a; font-size:14px; margin-bottom:12px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Paste → outline</h1>
+  <div class="sub">verbatim sentence outline with relation tags — nothing is stored</div>
+  {% if error %}<div class="err">{{ error }}</div>{% endif %}
+  <form method="post" action="{{ url_for('outline') }}" id="paste-form">
+    <textarea name="text" id="paste-text" placeholder="Paste an article or chapter here…"></textarea>
+    <div class="row">
+      <fieldset>
+        <legend>mode</legend>
+        <label><input type="radio" name="mode" value="theology" checked> theology</label>
+        <div class="hint">dense prose — concession / evidence / qualification tags</div>
+        <label><input type="radio" name="mode" value="general"> general</label>
+        <div class="hint">nonfiction / op-eds / books — Gutenberg, Kindle, Medium; chapters auto-split</div>
+        <label><input type="radio" name="mode" value="economy"> economy</label>
+        <div class="hint">WSJ-style reported news — what moved, claims + backing</div>
+        <label><input type="radio" name="mode" value="seeking-alpha"> seeking alpha</label>
+        <div class="hint">opinion pieces — author position, speculation, grades</div>
+      </fieldset>
+      <div class="opts">
+        <label><input type="checkbox" name="cleanup" value="1">
+          clean up hard line breaks</label>
+        <div class="hint">for text pasted from a PDF or Project Gutenberg</div>
+      </div>
+    </div>
+    <div class="row">
+      <input type="text" name="title" placeholder="title (optional — defaults to first words)">
+      <button type="submit">outline it</button>
+      <button type="button" id="paste-run" class="ghost">paste &amp; outline</button>
+    </div>
+    <div class="err" id="clip-err"></div>
+  </form>
+</main>
+<script>
+  document.getElementById('paste-run').addEventListener('click', function () {
+    var err = document.getElementById('clip-err');
+    err.textContent = '';
+    navigator.clipboard.readText().then(function (text) {
+      if (!text.trim()) { err.textContent = 'clipboard is empty'; return; }
+      var ta = document.getElementById('paste-text');
+      ta.value = '';
+      ta.value = text;
+      document.getElementById('paste-form').submit();
+    }).catch(function () {
+      err.textContent = 'clipboard blocked — click the page first, allow access, or paste with Cmd+V';
+    });
+  });
+</script>
+</body>
+</html>

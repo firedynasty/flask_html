@@ -1,0 +1,102 @@
+# The Shocking Alternative
+
+- Christians, then, believe that an evil power has made himself for the present the Prince of this World
+  - And, of course, that raises problems [restatement]
+  - If it is, He is a strange God, you will say: and if it is not, how can anything happen contrary to the will of a being with absolute power? [qualification]
+- Is this state of affairs in accordance with God’s will, or not
+- But anyone who has been in authority knows how a thing can be in accordance with your will in one way and not in another
+  - It may be quite sensible for a mother to say to the children, ‘I’m not going to go and make you tidy the schoolroom every night [restatement]
+    - You’ve got to learn to keep it tidy on your own [restatement]
+  - Then she goes up one night and finds the Teddy bear and the ink and the French Grammar all lying in the grate [consequence]
+  - That is against her will [restatement]
+    - She would prefer the children to be tidy [restatement]
+  - But on the other hand, it is her will which has left the children free to be untidy [contrast]
+    - The same thing arises in any regiment, or trade union, or school [restatement]
+  - That is not what you willed, but your will has made it possible. [restatement]
+- You make a thing voluntary and then half the people do not do it
+- It is probably the same in the universe
+  - That means creatures which can go either wrong or right [restatement]
+  - Some people think they can imagine a creature which was free but had no possibility of going wrong; I cannot [concession]
+  - If a thing is free to be good it is also free to be bad [qualification]
+    - And free will is what has made evil possible [restatement]
+      - Why, then, did God give them free will [restatement]
+  - Because free will, though it makes evil possible, is also the only thing that makes possible any love or goodness or joy worth having [evidence]
+    - A world of automata—of creatures that worked like machines—would hardly be worth creating [restatement]
+      - The happiness which God designs for His higher creatures is the happiness of being freely, voluntarily united to Him and to each other in an ecstasy of love and delight compared with which the most rapturous love between a man and a woman on this earth is mere milk and water [restatement]
+  - And for that they must be free. [restatement]
+- God created things which had free will
+- Of course God knew what would happen if they used their freedom the wrong way: apparently He thought it worth the risk
+  - But there is a difficulty about disagreeing with God [contrast]
+    - He is the source from which all your reasoning power comes: you could not be right and He wrong any more than a stream can rise higher than its own source [restatement]
+  - When you are arguing against Him you are arguing against the very power that makes you able to argue at all: it is like cutting off the branch you are sitting on [qualification]
+  - If God thinks this state of war in the universe a price worth paying for free will—that is, for making a live world in which creatures can do real good or harm and something of real importance can happen, instead of a toy world which only moves when He pulls the strings—then we may take it it is worth paying. [qualification]
+- Perhaps we feel inclined to disagree with Him
+- When we have understood about free will, we shall see how silly it is to ask, as somebody once asked me: ‘Why did God make a creature of such rotten stuff that it went wrong
+  - The better stuff a creature is made of—the cleverer and stronger and freer it is—then the better it will be if it goes right, but also the worse it will be if it goes wrong [restatement]
+    - A cow cannot be very good or very bad; a dog can be both better and worse; a child better and worse still; an ordinary man, still more so; a man of genius, still more so; a superhuman spirit best—or worst—of all. [restatement]
+- How did the Dark Power go wrong
+  - A reasonable (and traditional) guess, based on our own experiences of going wrong, can, however, be offered [restatement]
+  - That was the sin of Satan: and that was the sin he taught the human race [restatement]
+  - Some people think the fall of man had something to do with sex, but that is a mistake [concession]
+    - (The story in the Book of Genesis rather suggests that some corruption in our sexual nature followed the fall and was its result, not its cause [restatement]
+  - And out of that hopeless attempt has come nearly all that we call human history—money, poverty, ambition, war, prostitution, classes, empires, slavery—the long terrible story of man trying to find something other than God which will make him happy. [restatement]
+- Here, no doubt, we ask a question to which human beings cannot give an answer with any certainty
+- The moment you have a self at all, there is a possibility of putting yourself first—wanting to be the centre—wanting to be God, in fact
+- What Satan put into the heads of our remote ancestors was the idea that they could ‘be like gods’— could set up on their own as if they had created themselves— be their own masters—invent some sort of happiness for themselves outside God, apart from God
+- The reason why it can never succeed is this
+  - He Himself is the fuel our spirits were designed to burn, or the food our spirits were designed to feed on [restatement]
+  - That is why it is just no good asking God to make us happy in our own way without bothering about religion [consequence]
+- God made us: invented us as a man invents an engine
+- A car is made to run on petrol, and it would not run properly on anything else
+- Now God designed the human machine to run on Himself
+- There is no other
+- God cannot give us a happiness and peace apart from Himself, because it is not there
+- There is no such thing.
+- That is the key to history
+  - In fact, the machine conks [evidence]
+    - It seems to start up all right and runs a few yards, and then it breaks down [restatement]
+      - They are trying to run it on the wrong juice [restatement]
+  - That is what Satan has done to us humans. [restatement]
+- Terrific energy is expended— civilisations are built up—excellent institutions devised; but each time something goes wrong
+- Some fatal flaw always brings the selfish and cruel people to the top and it all slides back into misery and ruin
+- And what did God do
+  - Secondly, He sent the human race what I call good dreams: I mean those queer stories scattered all through the heathen religions about a god who dies and comes to life again and, by his death, has somehow given new life to men [restatement]
+  - Thirdly, He selected one particular people and spent several centuries hammering into their heads the sort of God He was—that there was only one of Him and that He cared about right conduct [restatement]
+    - Those people were the Jews, and the Old Testament gives an account of the hammering process. [restatement]
+- First of all He left us conscience, the sense of right and wrong: and all through history there have been people trying (some of them very hard) to obey it
+- None of them ever quite succeeded
+- Then comes the real shock
+  - He claims to forgive sins [restatement]
+    - He says He has always existed [restatement]
+      - He says He is coming to judge the world at the end of time [restatement]
+  - But this man, since He was a Jew, could not mean that kind of God [contrast]
+  - And when you have grasped that, you will see that what this man said was, quite simply, the most shocking thing that has ever been uttered by human lips. [restatement]
+- Among these Jews there suddenly turns up a man who goes about talking as if He was God
+- Now let us get this clear
+- Among Pantheists, like the Indians, anyone might say that he was a part of God, or one with God: there would be nothing very odd about it
+- God, in their language, meant the Being outside the world, who had made it and was infinitely different from anything else
+- One part of the claim tends to slip past us unnoticed because we have heard it so often that we no longer see what it amounts to
+  - I mean the claim to forgive sins: any sins [restatement]
+  - Now unless the speaker is God, this is really so preposterous as to be comic [qualification]
+  - But what should we make of a man, himself unrobbed and untrodden on, who announced that he forgave you for treading on other men’s toes and stealing other men’s money [contrast]
+  - Yet this is what Jesus did [contrast]
+    - He told people that their sins were forgiven, and never waited to consult all the other people whom their sins had undoubtedly injured [restatement]
+      - He unhesitatingly behaved as if He was the party chiefly concerned, the person chiefly offended in all offences [restatement]
+  - This makes sense only if He really was the God whose laws are broken and whose love is wounded in every sin [restatement]
+    - In the mouth of any speaker who is not God, these words would imply what I can only regard as a silliness and conceit unrivalled by any other character in history. [restatement]
+- We can all understand how a man forgives offences against himself
+- You tread on my toes and I forgive you, you steal my money and I forgive you
+- Asinine fatuity is the kindest description we should give of his conduct
+- Yet (and this is the strange, significant thing) even His enemies, when they read the Gospels, do not usually get the impression of silliness and conceit
+  - Still less do unprejudiced readers [contrast]
+- Christ says that He is ‘humble and meek’ and we believe Him; not noticing that, if He were merely a man, humility and meekness are the very last characteristics we could attribute to some of His sayings.
+- I am trying here to prevent anyone saying the really foolish thing that people often say about Him: ‘I’m ready to accept Jesus as a great moral teacher, but I don’t accept His claim to be God
+  - That is the one thing we must not say [restatement]
+    - A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher [restatement]
+      - He would either be a lunatic—on a level with the man who says he is a poached egg—or else he would be the Devil of Hell [restatement]
+  - Either this man was, and is, the Son of God: or else a madman or something worse [restatement]
+  - But let us not come with any patronising nonsense about His being a great human teacher [contrast]
+    - He has not left that open to us [restatement]
+      - He did not intend to. [restatement]
+- You must make your choice
+- You can shut Him up for a fool, you can spit at Him and kill Him as a demon; or you can fall at His feet and call Him Lord and God

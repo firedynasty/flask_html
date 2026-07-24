@@ -1,0 +1,95 @@
+# Faith
+
+- I must talk in this chapter about what the Christians call Faith
+  - Roughly speaking, the word Faith seems to be used by Christians in two senses or on two levels, and I will take them in turn [restatement]
+  - That is fairly simple [restatement]
+  - But what does puzzle people—at least it used to puzzle me—is the fact that Christians regard faith in this sense as a virtue [contrast]
+    - I used to ask how on earth it can be a virtue—what is there moral or immoral about believing or not believing a set of statements [restatement]
+      - Obviously, I used to say, a sane man accepts or rejects any statement, not because he wants to or does not want to, but because the evidence seems to him good or bad [restatement]
+  - If he were mistaken about the goodness or badness of the evidence that would not mean he was a bad man, but only that he was not very clever [qualification]
+    - And if he thought the evidence bad but tried to force himself to believe in spite of it, that would be merely stupid. [restatement]
+- In the first sense it means simply Belief—accepting or regarding as true the doctrines of Christianity
+- Well, I think I still take that view
+  - But what I did not see then—and a good many people do not see still—was this [contrast]
+  - In fact, I was assuming that the human mind is completely ruled by reason [evidence]
+  - But that is not so [contrast]
+  - For example, my reason is perfectly convinced by good evidence that anaesthetics do not smother me and that properly trained surgeons do not start operating until I am unconscious [example]
+  - But that does not alter the fact that when they have me down on the table and clap their horrible mask over my face, a mere childish panic begins inside me [contrast]
+  - In other words, I lose my faith in anaesthetics [restatement]
+    - It is not reason that is taking away my faith: on the contrary, my faith is based on reason [restatement]
+      - It is my imagination and emotions [restatement]
+  - The battle is between faith and reason on one side and emotion and imagination on the other. [restatement]
+- I was assuming that if the human mind once accepts a thing as true it will automatically go on regarding it as true, until some real reason for reconsidering it turns up
+- I start thinking I am going to choke, and I am afraid they will start cutting me up before I am properly under
+- When you think of it you will see lots of instances of this
+  - His reason knows perfectly well that an unsupported human body will not necessarily sink in water: he has seen dozens of people float and swim [restatement]
+  - But the whole question is whether he will be able to go on believing this when the instructor takes away his hand and leaves him unsupported in the water—or whether he will suddenly cease to believe it and get in a fright and go down. [contrast]
+- A man knows, on perfectly good evidence, that a pretty girl of his acquaintance is a liar and cannot keep a secret and ought not to be trusted: but when he finds himself with her his mind loses its faith in that bit of knowledge and he starts thinking, ‘Perhaps she’ll be different this time,’ and once more makes a fool of himself and tells her something he ought not to have told her
+- His senses and emotions have destroyed his faith in what he really knows to be true
+- Or take a boy learning to swim
+- Now just the same thing happens about Christianity
+  - I am not asking anyone to accept Christianity if his best reasoning tells him that the weight of the evidence is against it [restatement]
+  - That is not the point at which Faith comes in [restatement]
+  - But supposing a man’s reason once decides that the weight of the evidence is for it [contrast]
+  - Or else there will come a moment when he wants a woman, or wants to tell a lie, or feels very pleased with himself, or sees a chance of making a little money in some way that is not perfectly fair: some moment, in fact, at which it would be very convenient if Christianity were not true [restatement]
+    - And once again his wishes and desires will carry out a blitz [restatement]
+      - I am not talking of moments at which any real new rea-sons against Christianity turn up [restatement]
+  - Those have to be faced and that is a different matter [restatement]
+- I can tell that man what is going to happen to him in the next few weeks
+- There will come a moment when there is bad news, or he is in trouble, or is living among a lot of other people who do not believe it, and all at once his emotions will rise up and carry out a sort of blitz on his belief
+- I am talking about moments when a mere mood rises up against it.
+- Now Faith, in the sense in which I am here using the word, is the art of holding on to things your reason has once accepted, in spite of your changing moods
+  - For moods will change, whatever view your reason takes [evidence]
+  - I know that by experience [concession]
+    - Now that I am a Christian I do have moods in which the whole thing looks very improbable: but when I was an atheist I had moods in which Christianity looked terribly probable [restatement]
+      - This rebellion of your moods against your real self is going to come anyway [restatement]
+  - That is why Faith is such a necessary virtue: unless you teach your moods ‘where they get off’, you can never be either a sound Christian or even a sound atheist, but just a creature dithering to and fro, with its beliefs really dependent on the weather and the state of its digestion [consequence]
+  - Consequently one must train the habit of Faith. [consequence]
+- The first step is to recognise the fact that your moods change
+  - The next is to make sure that, if you have once accepted Christianity, then some of its main doctrines shall be deliberately held before your mind for some time every day [restatement]
+  - That is why daily prayers and religious readings and churchgoing are necessary parts of the Christian life [consequence]
+  - Neither this belief nor any other will automatically remain alive in the mind [restatement]
+    - It must be fed [restatement]
+      - And as a matter of fact, if you examined a hundred people who had lost their faith in Christianity, I wonder how many of them would turn out to have been reasoned out of it by honest argument [restatement]
+- We have to be continually reminded of what we believe
+- Do not most people simply drift away?
+- Now I must turn to Faith in the second or higher sense: and this is the most difficult thing I have tackled yet
+  - This is an obvious lie [restatement]
+  - Only those who try to resist temptation know how strong it is [qualification]
+  - After all, you find out the strength of the German army by fighting against it, not by giving in [evidence]
+    - You find out the strength of a wind by trying to walk against it, not by lying down [restatement]
+  - That is why bad people, in one sense, know very little about badness [consequence]
+    - They have lived a sheltered life by always giving in [restatement]
+  - If there was any idea that God had set us a sort of exam. and that we might get good marks by deserving them, that has to be wiped out [qualification]
+  - If there was any idea of a sort of bargain—any idea that we could perform our side of the contract and thus put God in our debt so that it was up to Him, in mere justice, to perform His side—that has to be wiped out. [qualification]
+- I want to approach it by going back to the subject of Humility
+- You may remember I said that the first step towards humility was to realise that one is proud
+- I want to add now that the next step is to make some serious attempt to practise the Christian virtues
+- A week is not enough
+- Things often go swimmingly for the first week
+- Try six weeks
+- By that time, having, as far as one can see, fallen back completely or even fallen lower than the point one began from, one will have discovered some truths about oneself
+- No man knows how bad he is till he has tried very hard to be good
+- A silly idea is current that good people do not know what temptation means
+- A man who gives in to temptation after five minutes simply does not know what it would have been like an hour later
+- We never find out the strength of the evil impulse inside us until we try to fight it: and Christ, because He was the only man who never yielded to temptation, is also the only man who knows to the full what temptation means—the only complete realist
+- Very well, then
+- The main thing we learn from a serious attempt to practise the Christian virtues is that we fail
+- I think every one who has some vague belief in God, until he becomes a Christian, has the idea of an exam. or of a bargain in his mind
+  - The first result of real Christianity is to blow that idea into bits [restatement]
+  - When they find it blown into bits, some people think this means that Christianity is a failure and give up [qualification]
+    - They seem to imagine that God is very simple-minded [restatement]
+  - In fact, of course, He knows all about this [evidence]
+    - One of the very things Christianity was designed to do was to blow this idea to bits [restatement]
+      - God has been waiting for the moment at which you discover that there is no question of earning a pass mark in this exam. or putting Him in your debt. [restatement]
+- Then comes another discovery
+  - If you devoted every moment of your whole life exclusively to His service you could not give Him anything that was not in a sense His own already [qualification]
+  - So that when we talk of a man doing anything for God or giving anything to God, I will tell you what it is really like [consequence]
+    - It is like a small child going to its father and saying, ‘Daddy, give me sixpence to buy you a birthday present [restatement]
+  - Of course, the father does, and he is pleased with the child’s present [concession]
+    - It is all very nice and proper, but only an idiot would think that the father is sixpence to the good on the transaction [restatement]
+  - When a man has made these two discoveries God can really get to work [qualification]
+    - It is after this that real life begins [restatement]
+- Every faculty you have, your power of thinking or of moving your limbs from moment to moment, is given you by God
+- The man is awake now
+- We can now go on to talk of Faith in the second sense.

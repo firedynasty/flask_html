@@ -1,0 +1,49 @@
+# XVII Can We rightly term Supplications," "Prayers," "Intercessions," and "Thanksgivings," parts of Prayer?
+
+- XVII
+- Can We rightly term Supplications," "Prayers," "Intercessions," and "Thanksgivings," parts of Prayer?
+- The Apostle says to Timothy[254]: I desire therefore first of all that supplications, prayers, intercessions, and thanksgivings be made by all men.
+- For prayer three things are required: first of all, that he who prays come nigh to God; and this is signified by the name prayer, for prayer is "the uplifting of the mind towards God
+  - Secondly, petition is required, and is signified by the word postulation; now a petition may be set forth in definite terms—and this some term postulation, properly so called; or it may be set forth in no express terms, as when a man asks for God's help, and this some call supplication; or, again, the fact in question may be simply narrated, as in S. John[255]: He whom Thou lovest is sick, and this some call insinuation [restatement]
+    - And thirdly, there is required a reason for asking for what we pray for, and this reason may be either on the part of God or on the part of the petitioner [restatement]
+  - The reason for asking on the part of God is His holiness, by reason of which we ask to be heard: Incline Thine ear and hear ... for Thine own sake, O my God;[256] to this belongs obsecration—namely, an appeal to sacred things, as when we say: By Thy Nativity, deliver us, O Lord [evidence]
+  - But the reason for asking on the part of the petitioner is thankfulness, for by giving thanks for benefits already received we merit to receive still greater ones, as is set forth in the Church's Collect.[257] [contrast]
+  - Hence the Gloss[258] says that in the Mass "Obsecrations are the prayers which precede the Consecration," for in them we commemorate certain sacred things; "in the Consecration itself we have prayers," for then the mind is especially uplifted towards God; "but in the subsequent petitions we have postulations, and at the close thanksgivings [consequence]
+    - These four parts of prayer may be noticed in many of the Church's Collects: thus in the Collect for Trinity Sunday, the words Almighty and Everlasting God signify the uplifting of the soul in prayer to God; the words: Who hast granted to Thy servants to acknowledge in their profession of the true faith the glory of the Eternal Trinity, and in the Power of Its Majesty to adore Its Unity, signify giving of thanks; the words: Grant, we beseech Thee, that by perseverance in this same faith we may be ever defended from all adversities, signify postulation; while the closing words: Through our Lord Jesus Christ, etc., signify obsecration. [restatement]
+- In the Conferences of the Fathers, however,[259] we read: "Obsecration is imploring pardon for sin; prayer is when we make vows to God; postulation is when we make petition for others; giving of thanks, those ineffable outpourings by which the mind renders thanks to God
+  - But the former explanation is preferable. [contrast]
+- Some, however, object to these divisions of prayer, thus:
+- 1. Obsecration is apparently to swear by someone, whereas Origen remarks[260]: "A man who desires to live in accordance with the Gospel must not swear by anyone, for if it is not allowed to swear, neither is it allowed to swear by anyone."
+- But it is sufficient to remark that obsecration is not a swearing by, or adjuring of God, as though to compel Him, for this is forbidden, but to implore His mercy.
+- 2. Again, S. John Damascene says[261] that prayer is "the asking God for things that are fitting
+  - Hence it is not exact to distinguish prayers from postulations. [consequence]
+- But prayer, generally considered, embraces all the above-mentioned parts; when, however, we distinguish one part against another, prayer, properly speaking, means the uplifting of the mind to God.
+- 3. Lastly, giving of thanks refers to the past, whereas the other parts of prayer refer to the future
+  - Hence giving of thanks should not be placed after the rest. [consequence]
+- But whereas in things which are different from one another the past precedes the future, in one and the same thing the future precedes the past
+  - Hence giving of thanks for benefits already received precedes petition; yet those same benefits were first asked for, and then, when they had been received, thanks were offered for them [consequence]
+    - Prayer, however, precedes petition, for by it we draw nigh to God to Whom we make petition [restatement]
+      - And obsecration precedes prayer, for it is from dwelling upon the Divine Goodness that we venture to approach to Him. [restatement]
+- Cajetan: We might be asked how the mind can be especially elevated to God at the moment of consecration
+  - For in the consecration the priest has to express distinctly the words of consecration, and consequently cannot have his mind uplifted towards God at that moment [evidence]
+    - Indeed, the more his mind is uplifted to God, the less he thinks of inferior things, words, and so forth. [restatement]
+- But in the consecration of the Holy Eucharist—in which the priest in a sense brings God down upon earth—the very greatness of our uplifting of mind towards the Divine Goodness Which has thus deigned to come amongst us is the very reason for our attention to the words in the act of consecration, and makes the priest pronounce them distinctly and reverently
+  - Some scrupulous folk, however, concentrate their whole attention on being intent and attentive; but this is really a distraction, and not attention, for its object is precisely the being attentive [restatement]
+    - The uplifting, then, of our minds to God in the consecration has indeed to be the very greatest, not, indeed, intensively and by abstraction from the things of sense, but objectively and concentrated—though always within the limits compatible with attention—on the endeavour to say the words as they should be said (on 2 [restatement]
+- 2
+- 83
+- 17.)
+- S. Augustine: And David went in and sat before the Lord[262]; and Elias, casting himself down upon the earth, put his face between his knees.[263]
+  - For we pray standing, as it is written: The Publican standing afar off [evidence]
+    - We pray, too, on our knees, as we read in the Acts of the Apostles;[264] and we pray sitting, as in the case of David and Elias [restatement]
+      - And unless it were lawful to pray lying down, it would not be said in the Psalms[265]: Every night I will wash my bed, I will water my couch with my tears [restatement]
+  - When, then, a man desires to pray, he settles himself in any position that serves at the time for the stirring up of his soul [qualification]
+  - When, on the other hand, we have no definite intention of praying, but the wish to pray suddenly occurs to us—when, that is, there comes of a sudden into our mind something which rouses the desire to pray "with unspeakable groanings"—then, in whatsoever position such a feeling may find us, we are not to put off our prayer; we are not to look about for some place whither we can withdraw, for some place in which to stand or in which to make prostration [qualification]
+  - For the very intention of the mind begets a solitude, and we often forget to which quarter of the heavens we were looking, or in what bodily position the occasion found us (Of Divers Questions, iv.). [evidence]
+- By examples such as these we are taught that there is no prescribed position of the body in prayer provided the soul states its intention in the presence of God
+- "Hear, O God, my prayer, and despise not my supplication; be attentive to me and hear me
+  - For they have cast iniquities upon me, and in wrath they were troublesome to me [evidence]
+    - My heart is troubled within me, and the fear of death is fallen upon me [restatement]
+      - Fear and trembling are come upon me, and darkness hath covered me [restatement]
+  - And I said: Who will give me wings like a dove, and I will fly and be at rest?"[266] [restatement]
+- I am grieved in my exercise; and am troubled at the voice of the enemy, and at the tribulation of the sinner

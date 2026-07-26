@@ -1,0 +1,233 @@
+# INTRODUCTION
+
+- INTRODUCTION
+- The pages which follow call for little introduction
+  - No such synthesis has been attempted here [restatement]
+  - When occasion offered we have added to each portion appropriate passages from S. Augustine, S. Thomas's master, and more rarely from the Commentary on the Summa by the illustrious Cardinal Cajetan. [qualification]
+- S. Thomas has left us no formal treatise on Mystical Theology, though his teachings on this subject have been collected from his various works and combined to form such a treatise
+- Especially noteworthy is the work of the Spanish Dominican Valgornera.[2]
+- We have simply taken from the Summa Theologica the treatises on Religion, on Devotion, Prayer, and the Contemplative Life, and presented them in an English dress
+- And we have been led to do this for several reasons
+  - But prayer and contemplation, though simple in themselves, are yet fraught with difficulties and dangers unless we be wisely guided [contrast]
+    - And as Father Faber shrewdly says: when we ask for instruction in these things, let us by all means make appeal to those whose names begin with S—let us, in other words, go to God's Saints [restatement]
+      - And the reason is simple: these Saints are no mere idle sign-posts who point the way but stand still themselves; they themselves have been where they would have us go; they speak from no mere theoretical knowledge; they themselves have tasted and seen that the Lord is sweet! [restatement]
+- The Mystical life is the life of union with God, and it is based essentially on Prayer and Contemplation
+- Further, it would have been easy to cull from S. Thomas's writings the salient points of his teaching on these points, and to have presented them in an attractive form
+  - But had we done so the teachings of the Saint would have lost much of their force, and readers might well have doubted at times whether they really had before them the mind of S. Thomas or that of the translator [contrast]
+    - It is preferable to read the Bible than what men have said about the Bible [restatement]
+      - Unfortunately, it is the fashion nowadays to consider S. Thomas's writings "out of date" [restatement]
+  - If the perusal of these pages shall have induced some few at least to go to the original and study it for themselves they will have more than fulfilled the translator's desires. [qualification]
+- Another reason which has weighed much with the translator and encouraged him to undertake this task has been the suddenly awakened interest in Mysticism and Mystical studies during the last decade
+  - It has become the fashion to talk about Mysticism, even to pose as Mystics, and—need it be said?—those who talk the most on such subjects are those who know the least [restatement]
+  - For those who have entered into the secret of the King are ever the most reticent on such matters [evidence]
+  - At the same time we may welcome this recent development, if only as a set-off against the Spiritualism and occultism which have played such havoc with souls during a space of over fifty years [contrast]
+  - Now those who are familiar with the Summa Theologica are aware that Union with God is its keynote, or rather is the dominant note which rings out clear again and again with its ever-repeated Sursum Corda [restatement]
+    - It is this that gives such special value to the treatises here presented on Prayer and the Contemplative Life [restatement]
+      - They flow from the pen of one who was literally steeped in God and Divine things, and who is speaking to us of things which he had himself tasted and seen [restatement]
+  - It is this that gives such simplicity and charm to the whole of his teaching [restatement]
+    - He is not experimenting; he is not speaking of theories; he is portraying to us what was his everyday life. [restatement]
+- The human soul, "naturally Christian," as Tertullian would say, is also naturally Divine in the sense that, as S. Augustine so often insists, no rest is possible for it save in God
+- Perhaps one of the commonest errors regarding the Spiritual life is the confusion between the ordinary and the extraordinary ways of God
+  - For how many does not the Contemplative Life mean the life of ecstasy and vision with which we are familiar in the lives of the Saints [evidence]
+  - For S. Thomas, on the contrary, the Contemplative Life is but the natural life of a man who is serving God and who devotes a certain portion of his time to the study and contemplation of Divine things [evidence]
+  - They occupy a sphere apart [restatement]
+    - They belong to God's extraordinary dealings with favoured souls, and while they presuppose prayer and contemplation on the part of those so visited they themselves form no integral part of the Contemplative Life; indeed, they are the exception [restatement]
+  - Hence in these pages we shall find nought touching Supernatural manifestations, such as visions, ecstasies, and revelations; but we shall find what is of far greater use to us—a Catechism on Devotion, Prayer, and Contemplation. [consequence]
+- Ecstasy and vision he treats of in another place
+- The main features of the Life of S. Thomas of Aquin are known to most of those who are likely to read this book
+  - His life at first sight seems of such an even tenor that there is but little to record [restatement]
+  - Yet when we penetrate beneath the surface we realize that he lived in stirring days, and that his short span of fifty years was passed in the full light of the world of the thirteenth century [contrast]
+    - Thomas was born in the beginning of the year 1225 in the castle of Rocca-Secca, the ancestral home of the Counts of Aquino, in the kingdom of Sicily [restatement]
+- His future glory was foretold to his mother, the Countess Theodora, by a hermit of that neighbourhood who also foretold that his parents would endeavour to make him a monk in the Benedictine Abbey of Monte Cassino, but that God had other designs for him, since he was to be a Friar Preacher, a member of the Order of the great S. Dominic who had just gone to his reward
+- The prophecy was fulfilled to the letter
+- At the early age of five years he was sent to the Abbey to be educated among the young nobles of the day, as was then the custom
+- Even thus early he showed a remarkable maturity of character, and his biographer, William of Tocco, dwells with delight on the calm reserve of his childish days and on that eager seeking after God which was to be his future glory.[3]
+- From Monte Cassino Thomas passed to Naples to complete his studies
+  - Here he became conscious of his vocation, and offered himself to the Dominicans [restatement]
+    - The Prior of the convent at Naples at that time was Father John of S. Julian, who later became Patriarch of Jerusalem[4]; he gave the habit of the Order to Thomas, who was then but fourteen years of age [restatement]
+  - Fearing their recourse to the violent methods then so common, the Dominicans sent Thomas to the convent of Santa Sabina at Rome [restatement]
+  - But S. Thomas's brothers, at their mother's bidding, seized upon the young man and carried him off in his religious habit to his mother who kept him imprisoned for nearly two years.[5] [contrast]
+  - It was at this time that the diabolical attempt upon his virtue was made—an attempt which the Saint resisted effectually; in reward for his constancy he was miraculously girded with a cincture by two Angels from Heaven.[6] [restatement]
+    - Failing in their attempt to shake his determination, his brothers permitted him to escape, and he returned to the convent at Naples in 1245 [restatement]
+  - But his extraordinary talents could not long remain hid [contrast]
+    - The post of Bachelor in the famous House of Studies at Paris was vacant, and at the suggestion of Cardinal Hugo à S. Caro, himself a Dominican, S. Thomas was appointed by the Master-General of the Order to the vacant post [restatement]
+      - This was a blow to the Saint's humility, but he accepted it under obedience [restatement]
+  - This novelty in method was evidently remarkable, but, while provoking the attacks of some, it attracted an immense crowd to his lectures, and this not simply by reason of the novelty which characterized them, but by reason of the supereminent sanctity of the teacher [restatement]
+- His parents were indignant at this step, and did all in their power to shake his determination
+- During this time of anxiety nothing disturbed the Saint's equanimity, and he made good use of his time by studying the Bible, the Book of the Sentences—the Theological Manual of those days—and also Aristotle's philosophical treatises
+- Thence he was sent by his superiors to Rome, and shortly afterwards to Paris and Cologne to study under Blessed Albert the Great
+- At Cologne he led the life of a simple student, a life of recollection, prayer, and study
+- The impression made by his teaching was extraordinary, and the words of William of Tocco on this point are worth transcribing: "Erat enim novos in sua lectione movens articulos, novum modum et clarum determinandi inveniens, et novas reducens in determinationibus rationes: ut nemo qui ipsum audisset nova docere, et novis rationibus dubia definire dubitaret, quod eum Deus novi luminis radiis illustrasset, qui statim tam certi c[oe]pisset esse judicii, ut non dubitaret novas opiniones docere et scribere, quas Deus dignatus esset noviter inspirare
+- "Dilectus Deo!" cries out his biographer
+- "Qui scientiam tribuit; et acceptus hominibus, quibus quasi novis radiis veritatis illuxit."[7]
+- In 1253 or 1254 Thomas was, again much against his will, created Master in Sacred Theology, and the remaining twenty years of his life were wholly devoted to teaching, studying, and preaching, whether at Paris or at Naples
+  - He felt that his vocation was to study and teach [restatement]
+    - And since his teaching was to be of things Divine, he felt that he must needs be absorbed in such things, and that his life must be wholly spent with God [restatement]
+      - This feature of his life is insisted on by his biographers: "Men ever saw him of joyful mien, gentle and sweet, not occupying himself with worldly affairs, but ever given to study, to reading, to writing, and to prayer for the enlightening of the faithful."[8] [restatement]
+  - Thus we are told that when Brother Reginald, who had been Blessed Thomas's companion, returned from Fossa Nuova to Naples after the Master's death to resume the lectures he had been giving there, he burst into tears as he stood before the Brethren, and said: "Brothers, I was forbidden by my Master to reveal during his life the marvels I had seen [consequence]
+    - One of those marvels was that his knowledge, which so wondrously surpassed that of other men, was not due to any human skill, but to the merits of his prayers [restatement]
+  - For whenever he would study, or dispute, or read, or write, or dictate, he would first betake himself to prayer in secret, and there with many tears would implore light wherewith to search rightly into the secret things of God [evidence]
+    - And by the merits of such prayer it came to pass that, whereas previous to his prayer he had been in doubt about the subject of his study, he always returned from it illumined [restatement]
+      - And when any doubtful point occurred to him before he had had recourse to prayer, he went to pray, and what had previously been obscure was then Divinely made clear to him."[9] [restatement]
+- Dignities and honours were frequently offered him, but he succeeded in avoiding them all
+- Truly characteristic of our Saint are those three petitions he was wont to make: that he might never learn to love things of earth; that he might never change his state of life; that God would reveal to him the state of his brother Reginald, who had been put to death, unjustly, as Thomas thought, by the Emperor Frederic
+  - All three petitions were granted, two of them, as he himself told Brother Reginald on his deathbed, by the Blessed Virgin herself [restatement]
+    - "She appeared to him," says William of Tocco, "and assured him regarding his life and his knowledge, promised him, too, that God would grant him whatsoever he should ask through her intercession, and told him, moreover, that he would never change his state of life."[10] [restatement]
+- The following story is well known, but is too illustrative of the Saint's character to be omitted: A dispute had arisen in the University of Paris regarding the Accidents of the Holy Eucharist, and the Doctors of the University decided to leave the decision with S. Thomas
+  - The responsibility was great, but the Saint according to his custom betook himself to prayer and then wrote his answer to the difficulty [restatement]
+  - "But since he would not dare," says William of Tocco, "to expound his opinion in the Schools before the Masters of the University without first consulting Him of Whom he was treating and to Whom he had prayed that he might teach correctly, he came to the altar and there spread out the pages he had written before Him; then, lifting up his hands to the Crucifix, he prayed and said: 'O Lord Jesus Christ, Who art most truly contained in this wondrous Sacrament and Who as Supreme Artificer ever wondrously workest, I seek to understand Thee in this Sacrament and to teach truly concerning Thee [contrast]
+    - Wherefore I humbly pray Thee that if what I have written spring from Thee, and be true concerning Thee, then Thou wouldest enable me to declare it and clearly expound it [restatement]
+  - But if I have written ought which is not in harmony with Thy Faith and which accords not with the Mysteries of this Sacrament, then I pray Thee that nought may proceed from my mouth which deviates from the Catholic Faith.' Then those who watched saw on a sudden Christ standing before the Saint and on the paper he had written, and they heard Him say: 'Well hast thou written of Me in this Sacrament of My Body, and well and truly hast thou answered the question put to thee, as far, that is, as it can be understood by man in this life, or expressed in human words.'"[11] [contrast]
+- And it was ever the same throughout his life: in God he sought God
+  - Hence his incessant meditation on the Holy Scriptures; hence his diligent study of the writings of the Fathers of the Church [consequence]
+  - And with a Saint's simplicity he replied: "Far rather would I have the Homilies of Chrysostom on S. Matthew [restatement]
+  - For if this city were mine then the task of governing it would take me away from the contemplation of things Divine and deprive my soul of its consolations!"[12] [evidence]
+- "Master," said a band of his students to him as they looked on Paris spread before them—"Master, see what a lovely city Paris is
+- Would you not like to be its owner
+- And his companion Reginald has told us how he studied to know the things of God
+  - For he tells us that when the Saint was occupied with his Commentary on Isaias and could not arrive at any satisfactory explanation of a certain passage he gave himself up to fasting and prayer [evidence]
+  - Then one night Reginald heard voices in the Saint's cell, and whilst he wondered what this might mean at that hour, S. Thomas came to him and said: "Reginald, get up, light a candle, and take the book in which you have been writing upon Isaias and make ready to write once more [consequence]
+  - Then Reginald wrote whilst the Saint dictated as though he were reading out of a book, with such facility did he speak [consequence]
+    - And then, at Reginald's insistent petition, he said to him: "My son, you have seen the affliction under which I have been of late owing to this passage of Isaias which I have just been expounding, and you know how I besought God with tears that I might understand it [restatement]
+  - How gladly would one know what passage of Isaias it was which was thus Divinely interpreted! [restatement]
+- God, then, this very night had pity upon me, and sent His Blessed Apostles Peter and Paul whom I had prayed to intercede for me, and they have most fully explained it all!"[13]
+- And so this truly marvellous life went on till the end drew near
+  - His ecstasies became more frequent, and in one of these he was told that the close of his life was at hand [restatement]
+  - For it was at San Severino, not far from Salerno, that he fell into so prolonged an ecstasy that his sister who was present appealed to Reginald to know what had happened to her brother [evidence]
+    - Even Reginald was astonished [restatement]
+      - "He is frequently rapt in spirit," he said, "but never before have I seen him thus abstracted [restatement]
+  - "Then," says William of Tocco, "Master Reginald went to him, and, plucking him by the cloak, roused him from this deep sleep of contemplation [consequence]
+  - But he sighed and said: 'My son Reginald, I tell thee in secret, and I forbid thee to reveal it to anyone during my life, the close of my writing has come; for such things have been revealed to me that all I have written and taught seems to me of small account [contrast]
+  - Hence I hope in my God that as there is an end to my writing, so too will speedily come the end of my life.'"[14] [consequence]
+- Day by day he ascended the steps of the altar, his face bathed in tears; day by day he returned to his work more and more illumined regarding the Mysterium Fidei, and with his soul still more closely knit to its Maker
+- And S. Thomas was ready for the end, for not long previously, when he was in the convent at Naples and was praying in the Church, there appeared to him Brother Romanus, whom he had left teaching at Paris
+  - Brother Thomas said to him: "Welcome [restatement]
+  - But Romanus said to him: "I have passed from this life, and I am allowed to come to thee by reason of thy merits [contrast]
+  - Then Brother Thomas, summoning up his courage, for he had been much disturbed by the sudden apparition, said to him: "If it be pleasing to God, I adjure you by God to answer my questions [consequence]
+    - First: How does it stand with me? and are my works pleasing to God [restatement]
+      - And the other answered: "Thou art in a good state, and thy works are pleasing to God [restatement]
+  - Then the Master continued: "And what of thyself [consequence]
+    - And Romanus answered: "I am in Eternal Life, but I was in Purgatory sixteen days because of some negligence of which I was guilty in the affair of a will which the Bishop of Paris entrusted to me for speedy execution; but I, through mine own fault, was tardy in executing it [restatement]
+      - Lastly S. Thomas asked: "What about that question we have so often discussed together: Do the habits we have acquired here abide with us when we are in our Fatherland [restatement]
+  - But the other replied: "Brother Thomas, I see God, and you must ask me nought further on that question [contrast]
+  - But Thomas at once said: "Since you see God, tell me whether you see Him with or without any intermediate image [contrast]
+  - But Romanus replied: "As we have heard, so we have seen in the City of our God,"[15] and forthwith disappeared [contrast]
+  - But the Master remained astonished at that marvellous and unwonted apparition, and filled with joy at his favourable replies [contrast]
+    - "O Blessed Teacher!" ejaculates William of Tocco, who has left us this account, "to whom Heaven's secrets were thus familiar, to whom Heaven's citizens came with such sweet familiarity to lead him to those heavenly shores!"[16] [restatement]
+- Whence dost thou come
+- Nor was this the only warning
+  - For just as in earlier years at Paris he had received Divine commendation for his writings, so now again at Naples [evidence]
+  - For Brother Dominic of Caserta tells us that at Naples he watched S. Thomas praying at night [evidence]
+    - He saw him, he says, absorbed in prayer, and then lifted up into the air about the height of two cubits from the ground [restatement]
+      - And whilst for a long space he marvelled at this, he suddenly heard this voice from the Crucifix: "Thomas, well hast thou written of Me [restatement]
+  - What reward wilt thou have from Me for all thy labour [restatement]
+  - But he replied: "Lord, none save Thyself [contrast]
+  - But after arriving at that point he wrote but little more by reason of the marvels that God had wondrously revealed to him.[17] [contrast]
+- At that time the Saint was engaged upon the Third Part of the Summa, and was treating of the Passion and Resurrection of Christ
+- Since his soul, then, was thus united to God it is small wonder the Brethren saw him rapt in ecstasy and with his face bathed in tears as he stood in choir and sang the Antiphon wont to be sung according to the Dominican Office for Compline during Lent: "Ne projicias nos in tempore senectutis: cum defecerit virtus nostra, ne derelinquas nos Domine."[18]
+- In the year 1274 the Saint was summoned by Pope Gregory X. to the Council about to be held at Lyons
+  - He set out, taking with him his Treatise against the Errors of the Greek Schismatics, for the great question which the Pope had at heart was the settlement of the Schism between the East and the West [restatement]
+  - But the Council was never to see Thomas, for he fell ill when traversing the Campagna, and though he was able to reach the Cistercian Abbey of Fossa Nuova he reached it only to die [contrast]
+    - "This is my rest for ever and ever," he said as he entered the gates [restatement]
+  - And here, as he lay dying, he expounded to the monks who stood round that most sublime of all the Books of the Bible, the Canticle of Canticles: "Behold, my Beloved speaketh to me: Arise, make haste, my love, my dove, my beautiful one, and come [restatement]
+    - I sleep, and my heart watcheth; the voice of my Beloved Who is knocking [restatement]
+      - My Beloved to me and I to Him Who feedeth among the lilies: till the Day break and the shadows retire!" [restatement]
+- "Here will I dwell, for I have chosen it
+- As the time of his summons drew on he asked for the Holy Viaticum
+  - And, in the words of William of Tocco, "when It was brought with devout reverence by the Abbot and the monks, he prostrated himself on the ground, weak indeed in body but mighty in spirit, and so came to meet his Lord with tears." [restatement]
+- And when the priest asked him—as it is the custom to ask all Christians at death touching their faith in this mighty Sacrament—whether he believed that That Consecrated Host was the True Son of God, Who came forth from the Virgin's womb, Who hung upon the tree of the Cross, Who died for us and rose again on the third day:—with clear voice, with full attention, and with tears, he replied: "If fuller knowledge than that of faith could be had in this life touching this Sacrament, in that knowledge I reply that I believe it to be true, and that I know for certain that This is True God and Man, the Son of God the Father and of the Virgin Mother: so I believe in my heart and so I confess in word
+  - After some other devout expressions he received the Sacred Host, and then said: "I receive Thee, the Price of my soul's redemption, for love of Whom I have studied, watched, and toiled; Thee have I preached and taught; nought contrary to Thee have I ever said, neither do I obstinately hold to any opinion of mine own [restatement]
+  - If, however, I have said ought wrongly concerning this Sacrament, I submit it all to the correction of the Holy Roman Church in Whose obedience I now pass from this life [qualification]
+    - "O Blessed Teacher! who ran so swiftly in the race, who fought so manfully in the strife, who could so well say with the Apostle: 'I have fought a good fight, I have finished my course, I have kept the faith; as for the rest there is laid up for me a crown of justice'; and such indeed had he truly won by his study of inspired doctrine."[19] [restatement]
+- No one who is at all familiar with the writings of S. Thomas can be surprised to find many extracts from S. Augustine in the following pages
+  - For Augustine and Thomas are one [evidence]
+  - Cardinal Aguirre has well said: "Owing to the clearness and acuteness of his angelic mind S. Thomas sheds a flood of light on many most obscure matters, and brings out very clearly even the most profound teachings contained in the works of the Fathers, especially in those of S. Augustine [restatement]
+    - I speak simply from my own experience, but I am certain that many another has felt the same: in controverted matters, if we look merely at the text of S. Augustine, we are brought face to face with a flood of difficulties which seem well-nigh insoluble; but the difficulty disappears and the solution becomes clear the moment we set to work to find out what was S. Thomas's teaching on the question; for he is the surest and the easiest interpreter of S. Augustine."[20] [restatement]
+- Their respective styles are different, but their thoughts and teachings are the same on the great essential points of theological teaching
+- And indeed Augustine is a deep well
+  - "Man shall come to a deep heart!" he was fond of saying, and those words of the Psalmist might stand for a motto at the head of his works [restatement]
+    - Traditionary art represents him with his heart in his hand, and the sentiment is true, for "great-hearted" is the epithet which best suits him, and those who use these pages for meditation or spiritual reading will find that whereas S. Thomas teaches how we ought to pray, S. Augustine makes us pray; not in vain had he studied and taught rhetoric for so many years! [restatement]
+- This likeness between the two great Saints forms the theme of one of the Responsories for the Office for S. Thomas in the Dominican Breviary
+  - It is based on a famous vision [restatement]
+  - And this latter bore on his head a golden crown; round his neck he wore two rings, one of silver, the other of gold; and on his breast he had an immense precious stone, which filled the church with light [restatement]
+    - His cloak, too, was sewn with precious stones, and his tunic and his hood were of snowy white [restatement]
+      - And the one who wore the mitre said to me: 'Brother Albert, why art thou thus filled with wonder [restatement]
+  - Thy prayers are heard; for—listen: I am Augustine, the Doctor of the Church, and I am sent to thee to tell thee of the doctrine and of the glory of Brother Thomas of Aquin who is here with me [restatement]
+  - For he is my son; he in all things has followed my doctrine and that of the Apostles, and by his teaching he has illumined the Church of God [evidence]
+    - This is signified by the precious stones which you see, and especially by the one he carries on his breast, for it signifies the upright intention which he ever had in view in his defence of the faith and which he showed in his words [restatement]
+      - These precious stones, then, and especially that great one, signify the many books and works that he wrote, and they show that he is equal to me in glory save only that in the aureola of Virginity he surpasseth me.'"[21] [restatement]
+- "There appeared to me as I watched in prayer," said Brother Albert of Brescia in his deposition, "two revered personages clothed in wondrous splendour
+- One of them wore a mitre on his head, the other was clad in the habit of the Friars Preachers
+- Cardinal Cajetan, from whose famous Commentary on the Summa we have occasionally quoted, is unfortunately too little known
+  - But his was a bold and independent mind, and he was not afraid to advance views which, though now commonly accepted, brought his works into a certain disfavour [contrast]
+    - This is especially to be regretted in the case of his Commentaries on the Bible [restatement]
+  - Here, however, we are concerned with the devotional rather than with the critical aspect of his writings, and the reader will gain from some of Cajetan's terse and pithy comments a very great deal of instruction. [restatement]
+- Born in 1469, and dying in 1534, he was the contemporary of Luther and the Reformers, and, as was to be expected, their most formidable opponent
+- A great student, a man of prayer as well as a man of action, his was the striking figure of the early portion of the sixteenth century
+- A thorough Greek scholar, possessing no mean acquaintance with Hebrew, he deserves, by reason of the clearness and precision of his thought, the title of "Prince of Commentators
+- In conclusion, a few words may be desirable regarding the method of S. Thomas.
+- S. Thomas divides his Summa Theologica into three main parts
+  - It is subdivided into two portions, known as the Prima Secundæ and the Secunda Secundæ respectively, or as the First and Second portions of the Second part [restatement]
+    - In the Prima Secundæ the Saint treats of the principles of Morals—namely, of man's ultimate end and of the habits, acts, and principles by which he attains it [restatement]
+      - In the Secunda Secundæ, after having laid in the Prima Secundæ the foundations of Moral Theology, he proceeds to treat of the individual virtues, firstly of the Theological Virtues, Faith, Hope, and Charity; then of the Cardinal Virtues, Prudence, Justice, Fortitude, and Temperance [restatement]
+  - He then treats of Devotion, Question LXXXII., and then of Prayer, Question LXXXIII [restatement]
+    - These three Questions we here present in an English dress. [restatement]
+- The First Part treats of God, the Exemplar.[22]
+- The Second, of man made to the image of God;[23] the Third, of God Incarnate, of His Sacraments by which we attain to union with Him in this life, and of Eternal Life to which we attain ultimately by our resurrection
+- Here we are solely concerned with the Second part.[24]
+- Under each of these heads he treats of the Gifts corresponding to each Virtue, of the vices opposed to them, and of the Precepts regarding them.[25]
+- Apropos of the Cardinal Virtue of Justice, he treats of the Moral Virtue of Religion, which is comprised under Justice, since Religion may be defined as the offering to God the worship which is His due, Question LXXXI
+- After these Treatises on individual virtues, he passes to the consideration of those virtues which concern, not men as a whole, but only certain classes of men.[26]
+  - And first of all he treats of those Gifts which are bestowed upon certain men not so much for their own benefit as for the good of others—viz., of Prophecy, of Ecstasy, of the Gift of Tongues, and of the Gift of Miracles [restatement]
+    - He then discusses the two kinds of operations or "lives"—the active, namely, and the contemplative—which find a place in the Mystical Body of Christ, which is the Church [restatement]
+      - These treatises in reality constitute a commentary on 1 Cor. xii [restatement]
+- 4-11
+- Question CLXXIX., On the Division of Life into the Active and the Contemplative, is here given; as also Question CLXXX., On the Contemplative Life; Question CLXXXI., On the Active Life; Question CLXXXII., On the Comparison of the Active with the Contemplative Life.
+- S. Thomas then proceeds to treat of various states of life—viz., of the state of perfection, of the Episcopal and of the Religious state
+  - Only one question raised in this connection concerns us here: Whether, namely, Contemplative Religious Orders are superior to Active Orders [qualification]
+    - (Question CLXXXVIII [restatement]
+- 6).
+- Each Question is, as will be seen from the Table of Contents, divided into Articles.
+- The framework of what is termed an "article" of the Summa is familiar to those who use that work, but it may not be amiss to explain S. Thomas's method in brief fashion
+  - Each "article" is couched in the form of a question, thus: Has contemplation its joys [restatement]
+    - And the Saint at once sets forth in succession three, sometimes more, arguments which seem to militate against the view he himself holds [restatement]
+      - These are commonly known as the objections [restatement]
+  - He then gives us a short paragraph opening with the words: Sed contra, or But on the contrary; and in this paragraph he gives some authority, generally that of Holy Scripture or one of the Fathers, for the view he is going to hold [restatement]
+    - This paragraph is generally known from its opening words as the Sed contra; there is no argument in it save from authority [restatement]
+      - He then proceeds to discuss the question from the standpoint of pure reason [restatement]
+  - This portion is known as the Corpus articuli, or Body of the Article, and in it the Saint presents his reasoning in clear, precise fashion [restatement]
+    - It will be apparent, of course, that many questions cannot be answered with a categoric yes or no, but the precise sense in which certain terms in the discussion are to be used has to be clearly ascertained; according to the diverse ways in which they may be understood the answer will be affirmative or negative [restatement]
+      - It is important for those not familiar with S. Thomas' works to grasp this point; they must not, for instance, presume that because the opening "objections" seem to uphold one point of view S. Thomas is therefore going to hold the precise opposite [restatement]
+  - A good example of this will be found in the Article: Ought we to pray to God alone? [restatement]
+- In the Treatises here presented the argument, though clear and precise, is hardly what we should call subtle, and this for the simple reason that the subject-matter does not call for subtle treatment
+  - But what cannot fail to strike the most cursory reader is the tone of submission to authority and to the teachings of the Fathers which characterizes every page: "Summe veneratus est sacros Doctores," says Cajetan, "ideo intellectum omnium quodammodo sortitus est."[27] [contrast]
+    - And the natural corollary of this is the complete self-effacement of the Saint [restatement]
+      - The first person is conspicuous by its absence all through the Summa, though the reader of the following pages will find one exception to this rule. [restatement]
+- And the more we study these Articles of S. Thomas the more we marvel; the thought is so concentrated and yet so limpid in its expression, that as we read it it seems as though no one could ever have thought otherwise
+  - But read it, and then try to reformulate the line of argument which you have been following with such ease—and your mind halts, your tongue stammers [contrast]
+    - It is one thing to understand the thought when expressed, quite another to think such thoughts and express them [restatement]
+  - Hence the declaration made by Pope John XXII. when the question of the holy Doctor's canonization was brought forward: "Such teaching," he exclaimed, "could only have been due to miracle [consequence]
+    - And on the following day in the Consistory: "He has brought greater light to the Church than all other Doctors; by one year's study of his writings a man may make greater profit than if he spend his whole life studying the writings of others!"[28] [restatement]
+- The reader will sometimes feel inclined to smile at the quaint etymologies which occur now and again
+  - But he must remember that these are given by the Saint for what they are worth [contrast]
+    - It was not a philological age, and S. Thomas made use of the Book of Etymologies drawn up in the seventh century by S. Isidore of Seville. [restatement]
+- Besides the writings of S. Augustine, two Patristic works are cited with considerable frequency by S. Thomas in these pages: the Opus Imperfectum of S. Chrysostom on S. Matthew's Gospel, and the works of Denis the Areopagite
+  - The former is almost certainly not the work of S. Chrysostom, but rather of an Arian writer towards the close of the sixth century.[29] [restatement]
+    - The writer known as Denis the Areopagite, owing to his being traditionally identified with S. Paul's convert at Athens, probably wrote about the close of the fifth century [restatement]
+      - Few works of Mystical Theology exercised a greater influence on the writers of the Middle Ages.[30] [restatement]
+  - A word must also be said about the Gloss to which S. Thomas so often refers, and which he quotes as an authority [restatement]
+    - The term "Gloss" was applied to the brief running commentaries on the Bible which were in vogue in the Middle Ages [restatement]
+      - These brief paraphrases were also known as Postillæ, and they were frequently written in between the lines of the text of the Bible, whence the name Interlinear Gloss; or in the margins, whence the name Marginal Gloss [restatement]
+  - The Glossa Ordinaria, as it is called, is the best known of these commentaries [restatement]
+    - It is usually attributed to Walafrid Strabo, a monk of the Abbey of S. Gall, who died in 849; but it is probable that Strabo took down his Commentary from the lips of Rabanus Maurus, a monk of the Abbey of Fulda, and afterwards its abbot [restatement]
+      - Rabanus was a most prolific writer, and has left Commentaries on nearly all the Books of the Bible [restatement]
+  - Another Biblical scholar to whom the Glossa Ordinaria of S. Thomas's time apparently owed much, was Hugo à S. Caro, the Dominican Provincial in France, and afterwards Cardinal-Priest of S. Sabina [restatement]
+    - It was under his direction that the first Concordance of the Bible was formed, in which task he is said to have had the assistance of five hundred Friars.[32] [restatement]
+      - He owes his title of Glossator to his well-known Postillæ, or Brief Commentaries on the whole Bible [restatement]
+  - Another famous Glossator was Nicolas de Lyra, a Franciscan who died in 1340—some sixty-six years, that is, subsequent to S. Thomas [restatement]
+  - Lastly, we should mention Peter the Lombard, commonly known as The Master of the Sentences, from his four books of Sentences, in which he presented the theological teaching of the Fathers in Scholastic fashion [restatement]
+    - This treatise became the Scholastic manual of the age [restatement]
+      - To him is due a Gloss on the Psalter and on Job, as well as a series of brief notes on the Epistles of S. Paul taken from the writings of the chief Fathers, S. Ambrose, S. Jerome, S. Augustine, etc [restatement]
+  - And the authority accorded to these Glosses in general is due to the fact that they constituted a running Commentary taken from the writings of the Fathers and Doctors of the Church. [restatement]
+- Even when Abbot he reserved to himself the Chair of Scripture;[31] he had had the great advantage of living for a time in Palestine
+- The Glossa Interlinearis is due to Anselm, a Canon of Laudun, who died in 1117

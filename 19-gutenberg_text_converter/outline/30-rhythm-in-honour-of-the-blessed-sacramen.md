@@ -1,0 +1,5 @@
+# Rhythm in Honour of the Blessed Sacrament, said to have been composed by S. Thomas on his Death-Bed.
+
+- Rhythm in Honour of the Blessed Sacrament, said to have been composed by S. Thomas on his Death-Bed.[188]
+- (An Indulgence of 100 days for the recitation of this rhythm
+- S. Congr. of Indulgences, December 20, 1884.)

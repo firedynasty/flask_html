@@ -1,2 +1,4 @@
 .DS_Store
 __pycache__/
+# 44 MB source epub — regenerable from Project Gutenberg (PG996); outputs are committed
+19-gutenberg_text_converter/quixote/*.epub

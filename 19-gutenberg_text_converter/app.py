@@ -1,5 +1,5 @@
 """
-Gutenberg EPUB -> per-chapter txt files + web reader.
+Gutenberg EPUB -> per-chapter txt files + verbatim outlines + web reader.
 
 Same shape as 17-pdf_outliner's pipeline, but the chapter map comes from the
 EPUB's own table of contents — no page-offset arithmetic, no hardcoded
@@ -7,18 +7,25 @@ chapter list. EPUB parsing is done by the vendored @gxl/epub-parser library
 (./epub-parser, compiled to lib/); dump_sections.js drives it and cuts each
 section's text at toc anchor boundaries (several toc entries point inside
 the same xhtml file). This app merges the slices into reading units, writes
-clean/<slug>.txt + chapters.json, and serves index / prev / next navigation.
+clean/<slug>.txt + chapters.json, outlines each unit into outline/<slug>.md
+(see outliner.py — the same heuristic engine as 17-CS_Lewis) with a token
+coverage report, and serves index / read / outline navigation.
 
 Requires: node; `npm install --ignore-scripts && npx tsc` inside epub-parser/
 (has been run once already — lib/ is committed state on this machine).
 
 Usage:
-    python app.py            # builds clean/ + chapters.json on first run
-    python app.py --rebuild  # force re-run
+    python app.py [bookdir]            # builds clean/ + outline/ on first run
+    python app.py [bookdir] --rebuild  # force re-run
     open http://localhost:5005
+
+bookdir defaults to this directory (the Aquinas epub); pass e.g. `quixote`
+to convert/serve quixote/pg996-images-3.epub — outputs land in <bookdir>/
+(clean/, outline/, chapters.json), so books don't clobber each other.
 """
 
 import collections
+import glob
 import json
 import os
 import re
@@ -27,11 +34,20 @@ import sys
 
 from flask import Flask, Response, abort, redirect, render_template, url_for
 
+import outliner
+
 BASE = os.path.dirname(os.path.abspath(__file__))
-EPUB_PATH = os.path.join(BASE, "pg22295-images-3 (1).epub")
+BOOK_DIR = BASE
+for a in sys.argv[1:]:
+    if not a.startswith("--"):
+        BOOK_DIR = os.path.join(BASE, a)
+_epubs = sorted(glob.glob(os.path.join(BOOK_DIR, "*.epub")))
+EPUB_PATH = _epubs[0] if _epubs else os.path.join(BOOK_DIR, "book.epub")
 DUMP_JS = os.path.join(BASE, "dump_sections.js")
-CLEAN_DIR = os.path.join(BASE, "clean")
-CHAPTERS_JSON = os.path.join(BASE, "chapters.json")
+CLEAN_DIR = os.path.join(BOOK_DIR, "clean")
+OUTLINE_DIR = os.path.join(BOOK_DIR, "outline")
+REPORT_JSON = os.path.join(OUTLINE_DIR, "_report.json")
+CHAPTERS_JSON = os.path.join(BOOK_DIR, "chapters.json")
 
 app = Flask(__name__)
 
@@ -57,6 +73,11 @@ def build():
     if not os.path.exists(EPUB_PATH):
         raise SystemExit(f"epub not found: {EPUB_PATH}")
     os.makedirs(CLEAN_DIR, exist_ok=True)
+    os.makedirs(OUTLINE_DIR, exist_ok=True)
+    # stale outputs from a previous epub in the same bookdir would linger
+    for stale in glob.glob(os.path.join(CLEAN_DIR, "*.txt")) + \
+            glob.glob(os.path.join(OUTLINE_DIR, "*.md")):
+        os.remove(stale)
     data = parse_epub()
     info = data.get("info") or {}
     book_title, book_author = info.get("title"), info.get("author")
@@ -100,6 +121,7 @@ def build():
         units.append((unit, s))
 
     out = []
+    report = []
     for i, (unit, s) in enumerate(units):
         slug = f"{i:02d}-{slugify(unit['title'])[:40]}".strip("-")
         unit["slug"] = slug
@@ -108,13 +130,57 @@ def build():
                   encoding="utf-8") as f:
             f.write(unit["title"] + "\n\n" + body + "\n")
         out.append(unit)
+
+        paras = [p for p in body.split("\n\n") if p.strip()]
+        roots = outliner.outline_chapter(paras)
+        md = outliner.render_markdown(unit["title"], roots)
+        with open(os.path.join(OUTLINE_DIR, slug + ".md"), "w",
+                  encoding="utf-8") as f:
+            f.write(md)
+        coverage, inserted, dropped_ct = outliner.verify_chapter(md, body)
+        n_nodes, maxd, tags, n_unplaced = outliner.chapter_stats(roots)
+        report.append({
+            "slug": slug, "title": unit["title"], "group": unit["group"],
+            "coverage": round(coverage * 100, 2),
+            "inserted": dict(inserted.most_common(20)),
+            "n_inserted": sum(inserted.values()),
+            "n_dropped": sum(dropped_ct.values()),
+            "dropped_sample": dict(dropped_ct.most_common(15)),
+            "nodes": n_nodes, "max_depth": maxd, "tags": tags,
+            "unplaced": n_unplaced, "paragraphs": len(paras),
+            "flagged": coverage < 0.98 or sum(inserted.values()) > 0,
+        })
     captured = sum(u["words"] for u in out)
 
     with open(CHAPTERS_JSON, "w", encoding="utf-8") as f:
         json.dump({"book_title": book_title, "book_author": book_author,
                    "units": out}, f, indent=1)
+    with open(REPORT_JSON, "w", encoding="utf-8") as f:
+        json.dump(report, f, indent=1)
+    write_report_md(report)
     return {"units": out, "captured": captured, "total": total_words,
             "dropped": dropped, "contents": contents_words}
+
+
+def write_report_md(report):
+    lines = ["# Verification report", "",
+             "| unit | coverage % | inserted | dropped | nodes | depth | unplaced | tags |",
+             "|---|---|---|---|---|---|---|---|"]
+    for r in report:
+        flag = " **!**" if r["flagged"] else ""
+        tags = ", ".join(f"{k}:{v}" for k, v in sorted(r["tags"].items()))
+        lines.append(f"| {r['slug']} | {r['coverage']}{flag} | {r['n_inserted']} | "
+                     f"{r['n_dropped']} | {r['nodes']} | {r['max_depth']} | "
+                     f"{r['unplaced']} | {tags} |")
+    lines.append("")
+    ins = [r for r in report if r["n_inserted"]]
+    if ins:
+        lines += ["## Insertions (tokens in outline, absent from source)", ""]
+        for r in ins:
+            lines.append(f"- **{r['slug']}**: {r['inserted']}")
+        lines.append("")
+    with open(os.path.join(OUTLINE_DIR, "_report.md"), "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
 
 
 # ---------------------------------------------------------------------------
@@ -125,6 +191,13 @@ def load_units():
     if not os.path.exists(CHAPTERS_JSON):
         return None
     with open(CHAPTERS_JSON, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def load_report():
+    if not os.path.exists(REPORT_JSON):
+        return None
+    with open(REPORT_JSON, encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -169,6 +242,21 @@ def unit(slug):
         next_slug=units[i + 1]["slug"] if i + 1 < len(units) else None)
 
 
+@app.route("/outline/<slug>")
+def outline_view(slug):
+    report = load_report() or []
+    meta = next((r for r in report if r["slug"] == slug), None)
+    md_path = os.path.join(OUTLINE_DIR, slug + ".md")
+    if meta is None or not os.path.exists(md_path):
+        abort(404)
+    roots = outliner.parse_outline_md(md_path)
+    idx = [r["slug"] for r in report].index(slug)
+    prev_slug = report[idx - 1]["slug"] if idx > 0 else None
+    next_slug = report[idx + 1]["slug"] if idx + 1 < len(report) else None
+    return render_template("outline.html", meta=meta, roots=roots,
+                           prev_slug=prev_slug, next_slug=next_slug)
+
+
 @app.route("/txt/<slug>")
 def txt(slug):
     path = os.path.join(CLEAN_DIR, slug + ".txt")
@@ -185,7 +273,8 @@ def rebuild():
 
 
 if __name__ == "__main__":
-    if "--rebuild" in sys.argv or not os.path.exists(CHAPTERS_JSON):
+    if "--rebuild" in sys.argv or not os.path.exists(CHAPTERS_JSON) \
+            or not os.path.exists(REPORT_JSON):
         print("Parsing epub ...")
         rep = build()
         pct = 100.0 * rep["captured"] / max(1, rep["total"])
@@ -195,4 +284,11 @@ if __name__ == "__main__":
               f"{rep['contents']} contents-page words")
         if pct < 95:
             print("  ! coverage below 95% — check the toc anchors")
+        report = load_report() or []
+        bad = [r for r in report if r["flagged"]]
+        print(f"  outlined; {len(bad)} units flagged for review "
+              f"(coverage < 98% or insertions)")
+        for r in bad:
+            print(f"   ! {r['slug']}: coverage={r['coverage']} "
+                  f"inserted={r['n_inserted']}")
     app.run(port=5005, debug=True)

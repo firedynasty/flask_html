@@ -1,0 +1,44 @@
+# Footnotes
+
+- FOOTNOTES:
+- [267] xiv
+- 21.
+- [268] Moralia in Job, xii
+- 14.
+- [269] Dialogue, li
+- 35.
+- [270] Contra Vigilant., vi.
+- [271] S. Augustine: Of the Trinity, xiii
+- 5.
+- [272] Of the Heavenly Hierarchy, iii.
+- [273] lxiii
+- 16.
+- [274] De Cura Mortuorum, 13, 14, 15.
+- [275] S. Matt, xviii
+- 10.
+- [276] Of the Heavenly Hierarchy, vii.; and Of the Ecclesiastical Hierarchy, vi.
+- [277] v
+- 1.
+- [278] Moralia in Job, v
+- 30.
+- [279] Rom. xv
+- 30.
+- [280] Of the Ecclesiastical Hierarchy, v.
+- [281] Dan. ix
+- 14.
+- [282] Ep. contra Vigilantium, vi.
+- [283] Apoc. vi
+- 11.
+- [284] vi
+- 10.
+- [285] xv
+- 1.
+- [286] S. Matt. xxii
+- 30.
+- [287] x
+- 12-13.
+- [288] Moralia on Job, xvii
+- 12.
+- [289] De Dono Perseverantiæ, xxii.
+- [290] i
+- 8.

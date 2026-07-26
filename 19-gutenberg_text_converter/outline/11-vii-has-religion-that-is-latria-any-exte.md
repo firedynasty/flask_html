@@ -1,0 +1,38 @@
+# VII Has Religion, That is Latria, any External Acts?
+
+- VII
+- Has Religion, That is Latria,[65] any External Acts?
+- In Ps. lxxxiii
+  - It appears, then, that God is to be worshipped by exterior as well as by interior acts. [restatement]
+- 3 it is said: My heart and my flesh have rejoiced in the living God
+- Now interior acts belong to the heart, and in the same way exterior acts are referred to the members of the body
+- We do not show reverence and honour to God for His own sake—for He in Himself is filled with glory to which nought can be added by any created thing—but for our own sakes
+  - For by the fact that we reverence and honour God our minds are subjected to Him, and in that their perfection lies; for all things are perfected according as they are subjected to that which is superior to them—the body, for instance, when vivified by the soul, the air when illumined by the sun [evidence]
+  - Hence in the Divine worship it is necessary to make use of certain corporal acts, so that by their means, as by certain signs, man's mind may be stirred up to those spiritual acts whereby it is knit to God [consequence]
+  - Consequently religion has certain interior acts which are its chief ones and which essentially belong to it; but it has also external acts which are secondary and which are subordinated to the interior acts. [consequence]
+- Now the human mind needs—if it would be united to God—the guidance of the things of sense; for, as the Apostle says to the Romans[66]: The invisible things of Him are clearly seen, being understood by the things that are made
+- Some deny, however, that exterior acts belong to religion or latria, thus:
+- 1. In S. John iv
+  - Consequently religion, which comprises adoration, has no exterior acts, but only interior. [consequence]
+- 24 we read: For God is a Spirit, and they that adore Him must adore Him in spirit and in truth
+- External acts belong, however, rather to the body than to the spirit
+- But here the Lord speaks only of that which is chiefest and which is essentially intended in Divine worship.
+- 2. The end of religion is to show reverence and honour to God
+  - But it is not reverent to offer to a superexcellent person what properly belongs to inferiors [contrast]
+  - Since, then, what a man offers by bodily acts seems more in accordance with men's needs and with that respect which we owe to inferior created beings, it does not appear that it can fittingly be made use of in order to show reverence to God. [evidence]
+- But such external acts are not offered to God as though He needed them, as He says in the Psalm: Shall I eat the flesh of bullocks
+  - Or shall I drink the blood of goats?[67] [restatement]
+  - But such acts are offered to God as signs of those interior and spiritual works which God accepts for their own sakes [contrast]
+  - Hence S. Augustine says: "The visible sacrifice is the sacrament—that is, the visible sign—of the invisible sacrifice."[68] [consequence]
+- 3. Lastly, S. Augustine praises Seneca[69] for his condemnation of those men who offered to their idols what they were wont to offer to men: on the ground, namely, that what belongs to mortal men is not fittingly offered to the immortals
+  - Still less, then, can such things be fittingly offered to the True God Who is above all gods.[70] [contrast]
+  - Therefore to worship God by means of bodily acts seems to be reprehensible [consequence]
+    - And consequently religion does not include bodily acts. [restatement]
+- But idolaters are so called because they offer to their idols things belonging to men, and this not as outward signs which may excite in them spiritual affections, but as being acceptable by those idols for their own sake
+  - And especially because they offered them empty and vile things. [restatement]
+- S. Augustine: When men pray, they, as becomes suppliants, make use of their bodily members, for they bend the knee, they stretch forth their hands, they even prostrate on the ground and perform other visible acts
+  - Yet all the while their invisible will and their heart's intention are known to God [contrast]
+    - He needs not these signs for the human soul to be laid bare before Him [restatement]
+  - But man by so doing stirs himself up to pray and groan with greater humility and fervour [contrast]
+  - I know not how it is that whereas such bodily movements can only be produced by reason of some preceding act on the part of the soul, yet when they are thus visibly performed the interior invisible movement which gave them birth is thereby itself increased, and the heart's affections—which must have preceded, else such acts would not have been performed—are thereby themselves increased. [concession]
+- Yet none the less, if a man be in some sort hindered so that he is not at liberty to make use of such external acts, the interior man does not therefore cease to pray; in the secret chamber of his heart, where lies compunction, he lies prostrate before the eyes of God (Of Care for the Dead, v.).

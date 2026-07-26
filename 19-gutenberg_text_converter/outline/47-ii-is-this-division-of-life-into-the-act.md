@@ -1,0 +1,45 @@
+# II Is this division of Life into the Active and the Contemplative a sufficient one?
+
+- II
+- Is this division of Life into the Active and the Contemplative a sufficient one?
+- These two kinds of life are signified by the two wives of Jacob—namely, the active life by Lia, the contemplative by Rachel
+  - They are also signified by those two women who afforded hospitality to the Lord: the contemplative, namely, by Mary, the active by Martha, as S. Gregory says.[302] [restatement]
+  - But if there were more than two kinds of life, these significations would not be fitting. [contrast]
+- As we have said above, the division in question concerns human life regarded as intellectual
+  - And the intellect itself is divided into the contemplative and the active, for the aim of intellectual knowledge is either the actual knowledge of the truth—and this belongs to the contemplative intellect, or it is some external action—and this concerns the practical or active intellect [restatement]
+  - Hence life is quite sufficiently divided into the active and the contemplative. [consequence]
+- But some argue that this division is not a sufficient one, thus:
+- 1. The Philosopher[303] says that there are three specially excellent kinds of life: the pleasurable, the civil—which seems to be identified with the active—and the contemplative.
+- But the pleasurable life makes its end consist in the pleasures of that body which we have in common with the brute creation
+  - Hence, as the Philosopher says in the same place, this is a bestial life [consequence]
+  - Consequently it is not comprised in our division of life into the active and the contemplative. [consequence]
+- 2. Again, S. Augustine[304] speaks of three different kinds of life: the life of leisure, which is referred to the contemplative; the busy life, which is referred to the active life; and he adds a third composed of these two.
+- But things which hold a middle course are compounded of the extremes, and hence are virtually contained in them, as the tepid in the hot and the cold, the pallid in the white and the black
+  - And similarly, under the active and the contemplative lives is comprised that kind of life which is compounded of them both [restatement]
+  - But just as in every mixture one of the simple elements predominates, so in this mixed kind of life now the contemplative, now the active predominates. [contrast]
+- 3. Lastly, men's lives are diversified according to their various occupations
+  - But there are more than two classes of human occupations. [contrast]
+- But all classes of human occupations are, if they are concerned with the necessities of this present life, and in accordance with right reason, comprised under the active life which, by properly regulated acts, takes heed for the needs of the present life
+  - But if these actions minister to our concupiscences, then they fall under the voluptuous life which is not comprised in the active life [contrast]
+  - But human occupations which are directed to the consideration of the truth are comprised under the contemplative life. [contrast]
+- S. Augustine: Your life is hid with Christ in God
+  - When Christ shall appear, Who is your life, then you also shall appear with Him in glory;[305] but until that shall come to pass we see now through a glass in a dark manner—that is, in images as it were—but then face to face.[306] [qualification]
+    - This, indeed, is the contemplation that is promised to us, the goal of all our actions, the eternal perfection of all our joys [restatement]
+  - For we are the sons of God, and it hath not yet appeared what we shall be; we know that when He shall appear we shall be like Him, for we shall see Him as He is.[307] [evidence]
+    - And as He said to His servant Moses: I am Who am ... thus shalt thou say to the children of Israel: He Who is hath sent me to you,[308] even that shall we contemplate when we live in eternity [restatement]
+  - Thus, too, He says: This is eternal life, that they may know Thee, the only True God, and Jesus Christ Whom Thou hast sent.[309] [consequence]
+    - And this shall be when the Lord shall come and bring to light the hidden things of darkness,[310] when the gloom of our mortal corruption shall have passed away [restatement]
+  - Then will be our "morning," that "morning" of which the Psalmist says: In the morning I will stand before Thee and I will see.[311] [consequence]
+  - Then, too, will come to pass that which is written: Thou shall fill me with joy with Thy countenance.[312] [consequence]
+    - Beyond that joy we shall seek for nothing, for there is naught further to be sought [restatement]
+  - Such contemplation, indeed, is the reward of faith, and for this reward's sake are our hearts purified by faith, as it is written: Purifying their hearts by faith[314] (De Trinitate, I., viii [restatement]
+- The Father will be shown to us, and that will suffice for us
+- Well did Philip understand this when he said to the Lord: Show us the Father, and it is enough for us![313]
+- 17).
+- "Remember, O Lord, Thy bowels of compassion; and Thy mercies that are from the beginning of the world
+  - The sins of my youth and my ignorances do not remember [restatement]
+    - According to Thy mercy remember Thou me; for Thy goodness' sake, O Lord [restatement]
+      - The Lord is sweet and righteous; therefore He will give a law to sinners in the way [restatement]
+  - He will guide the mild in judgment; He will teach the meek His ways [restatement]
+    - All the ways of the Lord are mercy and truth to them that seek after His covenant and His testimonies [restatement]
+  - For Thy Name's sake, O Lord, Thou wilt pardon my sin; for it is great."[315] [evidence]

@@ -1,0 +1,73 @@
+# INTRODUCTION — PREFARATORY
+
+- INTRODUCTION
+- PREFARATORY
+- It was with considerable reluctance that I abandoned in favour of the present undertaking what had long been a favourite project: that of a new edition of Shelton’s “Don Quixote,” which has now become a somewhat scarce book
+  - There are some—and I confess myself to be one—for whom Shelton’s racy old version, with all its defects, has a charm that no modern translation, however skilful or correct, could possess [restatement]
+    - Shelton had the inestimable advantage of belonging to the same generation as Cervantes; “Don Quixote” had to him a vitality that only a contemporary could feel; it cost him no dramatic effort to see things as Cervantes saw them; there is no anachronism in his language; he put the Spanish of Cervantes into the English of Shakespeare [restatement]
+      - Shakespeare himself most likely knew the book; he may have carried it home with him in his saddle-bags to Stratford on one of his last journeys, and under the mulberry tree at New Place joined hands with a kindred genius in its pages. [restatement]
+- But it was soon made plain to me that to hope for even a moderate popularity for Shelton was vain
+  - His translation of the First Part was very hastily made and was never revised by him [restatement]
+    - It has all the freshness and vigour, but also a full measure of the faults, of a hasty production [restatement]
+      - It is often very literal—barbarously literal frequently—but just as often very loose [restatement]
+  - He had evidently a good colloquial knowledge of Spanish, but apparently not much more [restatement]
+    - It never seems to occur to him that the same translation of a word will not suit in every case. [restatement]
+- His fine old crusted English would, no doubt, be relished by a minority, but it would be only by a minority
+- His warmest admirers must admit that he is not a satisfactory representative of Cervantes
+- It is often said that we have no satisfactory translation of “Don Quixote
+  - To those who are familiar with the original, it savours of truism or platitude to say so, for in truth there can be no thoroughly satisfactory translation of “Don Quixote” into English or any other language [restatement]
+    - It is not that the Spanish idioms are so utterly unmanageable, or that the untranslatable words, numerous enough no doubt, are so superabundant, but rather that the sententious terseness to which the humour of the book owes its flavour is peculiar to Spanish, and can at best be only distantly imitated in any other tongue. [restatement]
+- The history of our English translations of “Don Quixote” is instructive
+  - This of course was only the First Part [restatement]
+    - It has been asserted that the Second, published in 1620, is not the work of Shelton, but there is nothing to support the assertion save the fact that it has less spirit, less of what we generally understand by “go,” about it than the first, which would be only natural if the first were the work of a young man writing currente calamo, and the second that of a middle-aged man writing for a bookseller [restatement]
+  - On the other hand, it is closer and more literal, the style is the same, the very same translations, or mistranslations, occur in it, and it is extremely unlikely that a new translator would, by suppressing his name, have allowed Shelton to carry off the credit. [contrast]
+- Shelton’s, the first in any language, was made, apparently, about 1608, but not published till 1612
+- In 1687 John Phillips, Milton’s nephew, produced a “Don Quixote” “made English,” he says, “according to the humour of our modern language
+  - His “Quixote” is not so much a translation as a travesty, and a travesty that for coarseness, vulgarity, and buffoonery is almost unexampled even in the literature of that day. [restatement]
+- Ned Ward’s “Life and Notable Adventures of Don Quixote, merrily translated into Hudibrastic Verse” (1700), can scarcely be reckoned a translation, but it serves to show the light in which “Don Quixote” was regarded at the time.
+- A further illustration may be found in the version published in 1712 by Peter Motteux, who had then recently combined tea-dealing with literature
+  - It is described as “translated from the original by several hands,” but if so all Spanish flavour has entirely evaporated under the manipulation of the several hands [restatement]
+    - The flavour that it has, on the other hand, is distinctly Franco-cockney [restatement]
+  - It is, to be sure, more decent and decorous, but it treats “Don Quixote” in the same fashion as a comic book that cannot be made too comic. [restatement]
+- Anyone who compares it carefully with the original will have little doubt that it is a concoction from Shelton and the French of Filleau de Saint Martin, eked out by borrowings from Phillips, whose mode of treatment it adopts
+- To attempt to improve the humour of “Don Quixote” by an infusion of cockney flippancy and facetiousness, as Motteux’s operators did, is not merely an impertinence like larding a sirloin of prize beef, but an absolute falsification of the spirit of the book, and it is a proof of the uncritical way in which “Don Quixote” is generally read that this worse than worthless translation—worthless as failing to represent, worse than worthless as misrepresenting—should have been favoured as it has been.
+- It had the effect, however, of bringing out a translation undertaken and executed in a very different spirit, that of Charles Jervas, the portrait painter, and friend of Pope, Swift, Arbuthnot, and Gay
+  - Jervas has been allowed little credit for his work, indeed it may be said none, for it is known to the world in general as Jarvis’s [restatement]
+    - It was not published until after his death, and the printers gave the name according to the current pronunciation of the day [restatement]
+      - It has been the most freely used and the most freely abused of all the translations [restatement]
+  - It has seen far more editions than any other, it is admitted on all hands to be by far the most faithful, and yet nobody seems to have a good word to say for it or for its author [restatement]
+    - Jervas no doubt prejudiced readers against himself in his preface, where among many true words about Shelton, Stevens, and Motteux, he rashly and unjustly charges Shelton with having translated not from the Spanish, but from the Italian version of Franciosini, which did not appear until ten years after Shelton’s first volume [restatement]
+      - A suspicion of incompetence, too, seems to have attached to him because he was by profession a painter and a mediocre one (though he has given us the best portrait we have of Swift), and this may have been strengthened by Pope’s remark that he “translated ‘Don Quixote’ without understanding Spanish [restatement]
+  - He has been also charged with borrowing from Shelton, whom he disparaged [restatement]
+  - It is true that in a few difficult or obscure passages he has followed Shelton, and gone astray with him; but for one case of this sort, there are fifty where he is right and Shelton wrong [concession]
+    - As for Pope’s dictum, anyone who examines Jervas’s version carefully, side by side with the original, will see that he was a sound Spanish scholar, incomparably a better one than Shelton, except perhaps in mere colloquial Spanish [restatement]
+      - He was, in fact, an honest, faithful, and painstaking translator, and he has left a version which, whatever its shortcomings may be, is singularly free from errors and mistranslations. [restatement]
+- The charge against it is that it is stiff, dry—“wooden” in a word,—and no one can deny that there is a foundation for it
+  - But it may be pleaded for Jervas that a good deal of this rigidity is due to his abhorrence of the light, flippant, jocose style of his predecessors [contrast]
+    - He was one of the few, very few, translators that have shown any apprehension of the unsmiling gravity which is the essence of Quixotic humour; it seemed to him a crime to bring Cervantes forward smirking and grinning at his own good things, and to this may be attributed in a great measure the ascetic abstinence from everything savouring of liveliness which is the characteristic of his translation [restatement]
+- In most modern editions, it should be observed, his style has been smoothed and smartened, but without any reference to the original Spanish, so that if he has been made to read more agreeably he has also been robbed of his chief merit of fidelity.
+- Smollett’s version, published in 1755, may be almost counted as one of these
+  - At any rate it is plain that in its construction Jervas’s translation was very freely drawn upon, and very little or probably no heed given to the original Spanish. [restatement]
+- The later translations may be dismissed in a few words
+  - George Kelly’s, which appeared in 1769, “printed for the Translator,” was an impudent imposture, being nothing more than Motteux’s version with a few of the words, here and there, artfully transposed; Charles Wilmot’s (1774) was only an abridgment like Florian’s, but not so skilfully executed; and the version published by Miss Smirke in 1818, to accompany her brother’s plates, was merely a patchwork production made out of former translations [restatement]
+- On the latest, Mr
+- A. J. Duffield’s, it would be in every sense of the word impertinent in me to offer an opinion here
+- I had not even seen it when the present undertaking was proposed to me, and since then I may say vidi tantum, having for obvious reasons resisted the temptation which Mr
+- Duffield’s reputation and comely volumes hold out to every lover of Cervantes.
+- From the foregoing history of our translations of “Don Quixote,” it will be seen that there are a good many people who, provided they get the mere narrative with its full complement of facts, incidents, and adventures served up to them in a form that amuses them, care very little whether that form is the one in which Cervantes originally shaped his ideas
+  - On the other hand, it is clear that there are many who desire to have not merely the story he tells, but the story as he tells it, so far at least as differences of idiom and circumstances permit, and who will give a preference to the conscientious translator, even though he may have acquitted himself somewhat awkwardly. [contrast]
+- But after all there is no real antagonism between the two classes; there is no reason why what pleases the one should not please the other, or why a translator who makes it his aim to treat “Don Quixote” with the respect due to a great classic, should not be as acceptable even to the careless reader as the one who treats it as a famous old jest-book
+  - It is not a question of caviare to the general, or, if it is, the fault rests with him who makes so [restatement]
+    - The method by which Cervantes won the ear of the Spanish people ought, mutatis mutandis, to be equally effective with the great majority of English readers [restatement]
+      - At any rate, even if there are readers to whom it is a matter of indifference, fidelity to the method is as much a part of the translator’s duty as fidelity to the matter [restatement]
+  - If he can please all parties, so much the better; but his first duty is to those who look to him for as faithful a representation of his author as it is in his power to give them, faithful to the letter so long as fidelity is practicable, faithful to the spirit so far as he can make it. [qualification]
+- My purpose here is not to dogmatise on the rules of translation, but to indicate those I have followed, or at least tried to the best of my ability to follow, in the present instance
+  - One which, it seems to me, cannot be too rigidly followed in translating “Don Quixote,” is to avoid everything that savours of affectation [restatement]
+  - For this reason, I think, any temptation to use antiquated or obsolete language should be resisted [evidence]
+    - It is after all an affectation, and one for which there is no warrant or excuse [restatement]
+      - Spanish has probably undergone less change since the seventeenth century than any language in Europe, and by far the greater and certainly the best part of “Don Quixote” differs but little in language from the colloquial Spanish of the present day [restatement]
+  - Except in the tales and Don Quixote’s speeches, the translator who uses the simplest and plainest everyday language will almost always be the one who approaches nearest to the original. [restatement]
+- The book itself is, indeed, in one sense a protest against it, and no man abhorred it more than Cervantes
+- Seeing that the story of “Don Quixote” and all its characters and incidents have now been for more than two centuries and a half familiar as household words in English mouths, it seems to me that the old familiar names and phrases should not be changed without good reason
+  - Of course a translator who holds that “Don Quixote” should receive the treatment a great classic deserves, will feel himself bound by the injunction laid upon the Morisco in Chap [concession]
+- IX not to omit or add anything.

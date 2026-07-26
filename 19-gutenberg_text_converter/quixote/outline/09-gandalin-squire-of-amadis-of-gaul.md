@@ -1,0 +1,11 @@
+# GANDALIN, SQUIRE OF AMADIS OF GAUL,
+
+- GANDALIN, SQUIRE OF AMADIS OF GAUL,
+- To Sancho Panza, squire of Don Quixote
+- SONNET
+- All hail, illustrious man
+  - Excellent Sancho! hail to thee again [restatement]
+    - To thee alone the Ovid of our Spain Does homage with the rustic kiss and cuff. [restatement]
+- Fortune, when she Bound thee apprentice to the esquire trade, Her care and tenderness of thee displayed, Shaping thy course from misadventure free
+- No longer now doth proud knight-errantry Regard with scorn the sickle and the spade; Of towering arrogance less count is made Than of plain esquire-like simplicity
+- I envy thee thy Dapple, and thy name, And those alforjas thou wast wont to stuff With comforts that thy providence proclaim

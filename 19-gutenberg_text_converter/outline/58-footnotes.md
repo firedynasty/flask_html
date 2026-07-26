@@ -1,0 +1,182 @@
+# Footnotes
+
+- FOOTNOTES:
+- [316] Moralia in Job, vi
+- 18.
+- [317] Hom
+- XIV., On Ezechiel.
+- [318] Metaphysics, ii
+- 3.
+- [319] Moralia in Job, vi
+- 18; and Hom
+- XIV., On Ezechiel.
+- [320] On Ezechiel, loc. cit.
+- [321] Hom
+- XIV., On Ezechiel.
+- [322] Isa. xxxiii
+- 13-17.
+- [323] Ps. xli
+- 1-6.
+- [324] Moralia in Job, vi
+- 18.
+- [325] Ethics, II., iv
+- 3.
+- [326] Ibid., X., viii
+- 1.
+- [327] Hom
+- XIV., On Ezechiel.
+- [328] Rom. xiii
+- 10.
+- [329] S. Matt. v
+- 8.
+- [330] Heb. xii
+- 14.
+- [331] Isa. xxxii
+- 17.
+- [332] Hom
+- XIV., On Ezechiel.
+- [333] Gen. xxix
+- 17.
+- [334] De Officiis, i
+- 43, 45, 46.
+- [335] Wisd. viii
+- 2.
+- [336] Soliloquies, i
+- 10.
+- [337] Jer. xiv
+- 8, 9.
+- [338] Of the Divine Names, vii
+- 2.
+- [339] On Contemplation, i
+- 3 and 4.
+- [340] De Trinitate, xiv
+- 7.
+- [341] De Consideratione, ii
+- 2.
+- [342] De Anima, II., i
+- 2.
+- [343] Loc. cit., i
+- 4.
+- [344] 2 Cor. iii
+- 18.
+- [345] De Trinitate, xv
+- 8.
+- [346] De Consideratione, v
+- 14.
+- [347] De Fide Orthodoxa, ii
+- 15.
+- [348] S. Luke x
+- 39.
+- [349] Wisd. vii
+- 7.
+- [350] 2 Cor. v
+- 6-7.
+- [351] Hab. ii
+- 4.
+- [352] Ps. cxliii
+- 15.
+- [353] 1 Tim. i
+- 5.
+- [354] Ps. lxxii
+- 21-28.
+- [355] Moralia in Job, vi
+- 28.
+- [356] On the Trinity, i
+- 8.
+- [357] Ethics, X., vii
+- 2.
+- [358] Rom. i
+- 20.
+- [359] De Vera Religione, xxix.
+- [360] Ps. cxlii
+- 5, 6.
+- [361] De Consideratione, v
+- 14.
+- [362] Of Contemplation, i
+- 6.
+- [363] 1 John iii
+- 2.
+- [364] Ps. xxvi
+- 4.
+- [365] Ps. xxxv
+- 9, 10.
+- [366] Phil. iv
+- 7; Rom. viii
+- 26.
+- [367] Isa. xxv
+- 8, 9.
+- [368] Hom
+- XIV., On Ezechiel.
+- [369] De Genesi ad Litt., xii
+- 27.
+- [370] Gen. xxxii
+- 30.
+- [371] Epistola I., to Caius the Monk.
+- [372] Hom
+- XIV., On Ezechiel.
+- [373] The Glossa Ordinaria, taken from S. Gregory's Moralia in Job, xxiv
+- 5.
+- [374] Moralia, vi
+- 27.
+- [375] De Anima, III., vii
+- 3.
+- [376] Dialogues, ii
+- 35.
+- [377] Isa. xxvi
+- 3, 4, 8, 9.
+- [378] Of the Divine Names, IV., i
+- 7.
+- [379] De Anima, III., vii
+- 1 and 2.
+- [380] Physica, VIII., vii
+- 2.
+- [381] viii
+- 16.
+- [382] Of Contemplation, i
+- 5.
+- [383] Job xvi
+- 20, 23.
+- [384] Hom
+- XIV., On Ezechiel.
+- [385] Ps. xxxiii
+- 9.
+- [386] Hom
+- XIV., On Ezechiel.
+- [387] Ibid.
+- [388] Conf., viii
+- 3.
+- [389] Wisd. ix
+- 15.
+- [390] Rom. vii
+- 24.
+- [391] Hom
+- XIV., On Ezechiel.
+- [392] Ethics, X., iv
+- 6.
+- [393] 1 Cor. xiii, 12.
+- [394] Ps. xxxv
+- 9.
+- [395] De Partibus Animalium, i
+- 5.
+- [396] xxxii
+- 30-32.
+- [397] Hom
+- XIV., On Ezechiel.
+- [398] Ps. xxxiii
+- 9.
+- [399] S. Luke x
+- 42.
+- [400] Topics, I., xiii
+- 5.
+- [401] Ethics, X., vii
+- 2.
+- [402] 1 Cor. xiii
+- 8.
+- [403] Conf., x
+- 40.
+- [404] Of the Divine Names, IV., i
+- 7; and Of the Heavenly Hierarchy, iii.
+- [405] Ethics, X., vii
+- 8.
+- [406] Isa. xii
+- 1-6.

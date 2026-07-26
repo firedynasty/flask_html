@@ -1,0 +1,90 @@
+# Footnotes
+
+- FOOTNOTES:
+- [33] De invent
+- Rhetor., ii
+- 53.
+- [34] Etymolog., x. sub litt
+- R.
+- [35] Of the City of God, x
+- 3.
+- [36] Of the True Religion, lv.
+- [37] St
+- Jas. i
+- 27.
+- [38] Of the City of God, x
+- 1.
+- [39] Of the City of God, x
+- 1.
+- [40] Gal. v
+- 13.
+- [41] The objection and its solution turn upon the Latin words cultus and colere, which cannot be consistently rendered in English; "reverence" is perhaps the most appropriate translation here.
+- [42] Of the City of God, x
+- 1.
+- [43] Gal. iv
+- 14.
+- [44] Rom. viii
+- 31.
+- [45] Ps. xv
+- 5.
+- [46] Ps. lxxvi
+- 1.
+- [47] Of the Nature of Good, iii.
+- [48] Fear is one of the "Gifts" of the Holy Ghost.
+- [49] S. Jerome, Ep
+- LIV., alias X., ad Furiam.
+- [50] II., vi
+- 15.
+- [51] iv
+- 5-6.
+- [52] i
+- 6.
+- [53] The Latin word ordinare means "to set in due order"; there is no precise English equivalent which can be consistently employed.
+- [54] Of the City of God, x
+- 6.
+- [55] II. x
+- 31.
+- [56] VIII. viii
+- 1.
+- [57] 2
+- 2
+- Qu
+- II., Art
+- 2.
+- [58] Enchiridion, iii.
+- [59] xliii
+- 33.
+- [60] xx
+- 1-17.
+- [61] Ethics, II. vi.
+- [62] lviii
+- 7.
+- [63] Ps. xv
+- 2.
+- [64] 1 Cor. ix
+- 16.
+- [65] See p
+- 30.
+- [66] i
+- 20.
+- [67] Ps. xlix
+- 13.
+- [68] Of the City of God, x
+- 5.
+- [69] Ibid., vi
+- 10.
+- [70] Ps. xciv
+- 3.
+- [71] i
+- 74-75.
+- [72] Thus Origen, Hom
+- XI, i. in Leviticum, where, however, he is not really giving an etymology.
+- [73] X., sub litt
+- S.
+- [74] xii
+- 14.
+- [75] Rom. viii
+- 38-39.
+- [76] De Affectibus.
+- [77] Of the Divine Names, xii.
+- [78] Of Virginity, viii.

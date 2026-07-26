@@ -1,0 +1,43 @@
+# IV Ought We To Pray To God Alone?
+
+- IV
+- Ought We To Pray To God Alone?
+- In Job v
+- 1 we read: Call, now, if there be any that will answer thee, and turn to some of the Saints.
+- Prayer is addressed to a person in two ways: in one way as a petition to be granted by him; in another way as a petition to be forwarded by him
+  - But in the latter way we set forth our prayers both to the holy Angels and to men; and this, not that through their intervention God may know our petitions, but rather that by their prayers and merits our petitions may gain their end [contrast]
+  - Hence it is said in the Apocalypse: And the smoke of the incense of the prayers of the Saints ascended up before God from the hand of the Angel.[123] [consequence]
+    - And this is clearly shown, too, from the style adopted by the Church in her prayers: for of the Holy Trinity we pray that mercy may be shown us; but of all the Saints, whomsoever they may be, we pray that they may intercede for us. [restatement]
+- In the former way we only pray to God, for all our prayers ought to be directed to the attaining of grace and glory, and these God alone gives: The Lord will give grace and glory.[122]
+- Some, however, maintain that we ought to pray to God alone, thus:
+- 1. Prayer is an act of the virtue of religion
+  - But only God is to be worshipped by the virtue of religion [contrast]
+  - Consequently it is to Him alone that we should pray. [consequence]
+- But in our prayers we only show religious worship to Him from Whom we hope to obtain what we ask, for by so doing we confess Him to be the Author of all our goods; but we do not show religious worship to those whom we seek to have as intercessors with us before God.
+- 2. Again, prayer to those who cannot know what we pray for is idle
+  - But God alone can know our prayers, and this because prayer is frequently a purely interior act of which God alone is cognizant, as the Apostle says: I will pray with the spirit [contrast]
+    - I will pray also with the understanding;[124] and also because, as S. Augustine says[125]: The dead know not, not even the Saints, what the living—not even excepting their own children—are doing. [restatement]
+- It is true that the dead, if we consider only their natural condition, do not know what is done on earth, and especially do they not know the interior movements of the heart
+  - But to the Blessed, as S. Gregory says,[126] manifestation is made in the Divine Word of those things which it is fitting that they should know as taking place in our regard, even the interior movements of the heart [contrast]
+    - And, indeed, it is most befitting their state of excellence that they should be cognizant of petitions addressed to them, whether vocally or mentally [restatement]
+  - Hence through God's revelation they are cognizant of the petitions which we address them. [consequence]
+- 3. Lastly, some say: if we do address prayers to any of the Saints, the sole reason for doing so lies in the fact that they are closely united to God
+  - But we do not address prayers to people who, while still living in this world, are closely knit to God, nor to those who are in Purgatory and are united to Him [contrast]
+    - There seems, then, to be no reason why we should address prayers to the Saints in Paradise. [restatement]
+- But they who are still in the world or in Purgatory do not as yet enjoy the vision of the Divine Word so as to be able to know what we think or say, hence we do not implore their help when we pray; though when talking with living people we do ask them to help us.
+- S. Augustine: It is no great thing to live long, nor even to live for ever; but it is indeed a great thing to live well
+  - And we realize how earnestly we ought to strive for that eternal life when we note how men who love this present temporal life so work for it—though it is to pass away—that, when the fear of death comes, they strive all they can, not, indeed, to do away with death, but to put death off [restatement]
+    - How men labour when death approaches [restatement]
+      - They flee from it; they hide from it; they give all they have; they try to buy themselves off; they work and strive; they put up with tortures and inconveniences; they call in physicians; they do everything that lies within their power [restatement]
+  - Yet even if they spend all their toil and their substance, they can only secure that they may live a little longer, not that they may live for ever [contrast]
+  - If, then, men spend such toil, such endeavour, so much money, so much anxiety, watchfulness, and care, in order to live only a little longer, what ought we not to do that we may live for ever [qualification]
+    - And if we call them prudent who take every possible precaution to stave off death, to live but a few days more, to save just a few days, then how foolish are they who so pass their days as to lose the Day of Eternity [restatement]
+- Oh, let us love eternal life
+- (Sermon, cxxvii
+- 2).
+- "May God have mercy on us, and bless us: may He cause the light of His countenance to shine upon us, and may He have mercy on us
+  - That we may know Thy way upon earth: Thy salvation in all nations [restatement]
+  - Let the nations be glad and rejoice: for Thou judgest the people with justice, and directest the nations upon earth [restatement]
+    - Let the people, O God, confess to Thee: let all the people give praise to Thee: the earth hath yielded her fruit [restatement]
+      - May God, our God bless us, may God bless us: and all the ends of the earth fear Him."[127] [restatement]
+- Let people confess to Thee, O God: let all people give praise to Thee

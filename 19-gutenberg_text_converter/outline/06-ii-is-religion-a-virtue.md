@@ -1,0 +1,27 @@
+# II Is Religion a Virtue?
+
+- II
+- Is Religion a Virtue?
+- A virtue is that which both renders its possessor, as also his work, good
+  - Hence we must say that every good act comes under virtue [consequence]
+    - And it is clear that to render to another what is his due has the character of a good act; for by the fact that a man renders to another his due there is established a certain fitting proportion and order between them [restatement]
+  - But order comes under the ratio of good, just as do measure and species, as S. Augustine establishes.[47] [contrast]
+  - Since, then, it belongs to religion to render to some one, namely, God, the honour which is His due, it is clear that religion is a virtue. [evidence]
+- Some, however, deny this, thus:
+- 1. It belongs to religion to show reverence to God
+  - But reverence is an act of fear, and fear is a gift.[48] [contrast]
+    - Religion, then, is a gift, not a virtue. [restatement]
+- To reverence God is indeed an act of the gift of fear
+  - But to religion it belongs to do certain things by reason of our reverence for God [contrast]
+  - Hence it does not follow that religion is the same thing as the gift of fear, but it is related to it as to a higher principle [consequence]
+  - For the gifts are superior to the moral virtues. [evidence]
+- 2. All virtue consists in the free-will, and hence virtue is called an elective or voluntary habit
+  - But latria belongs to religion, and latria implies a certain servitude [contrast]
+  - Hence religion is not a virtue. [consequence]
+- But even a servant can freely give to his master the service that is his due and thus "make a virtue of necessity"[49] by voluntarily paying his debt
+  - And similarly the payment of due service to God can be an act of virtue according as a man does it voluntarily. [restatement]
+- 3. Lastly, as is said in Aristotle's Ethics,[50] the aptitude for the virtues is implanted in us by nature; hence those things which come under the virtues arise from the dictates of natural reason; but it belongs to religion to offer external reverence to the Divine Nature
+  - Ceremonial, however, or external reverence, is not due to the dictates of natural reason [restatement]
+  - Hence religion is not a virtue. [consequence]
+- But it is due to the dictates of natural reason that a man does certain things in order to show reverence to God
+  - That he should do precisely this or that, however, does not come from the dictates of natural reason, but from Divine or human positive law. [restatement]

@@ -35,8 +35,9 @@
   <ul class="units">
     {% for u in units %}
     <li>
-      <a href="{{ url_for('unit', slug=u.slug) }}">{{ u.title }}</a>
+      <a href="{{ url_for('outline_view', slug=u.slug) }}">{{ u.title }}</a>
       <span class="words">{{ u.words }}w</span>
+      <a class="raw" href="{{ url_for('unit', slug=u.slug) }}">read</a>
       <a class="raw" href="{{ url_for('txt', slug=u.slug) }}">txt</a>
     </li>
     {% endfor %}

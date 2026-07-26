@@ -1,0 +1,109 @@
+# Footnotes
+
+- FOOTNOTES:
+- [438] S. Luke x
+- 42.
+- [439] Ethics, x
+- 7 and 8.
+- [440] Moralia in Job, vi
+- 18.
+- [441] Of the Words of the Lord, Sermon ciii., alias xxvi
+- 2.
+- [442] S. Luke x
+- 41.
+- [443] Of the Words of the Lord, Sermon civ., alias xxvii
+- 2.
+- [444] S. Luke x
+- 42.
+- [445] Sermon ciii., alias xxvi
+- 4.
+- [446] Topica, III., ii
+- 21.
+- [447] Ibid., III., i
+- 12.
+- [448] Of the City of God, xix
+- 19.
+- [449] ii
+- 1.
+- [450] Exod. xix
+- 21.
+- [451] Hom
+- III., On Ezechiel.
+- [452] Of Consolation, v
+- 2.
+- [453] Hom
+- III., On Ezechiel.
+- [454] 1 Cor. xii
+- 31.
+- [455] Of the City of God, xix
+- 19.
+- [456] Ps. xlvii
+- 9, 10, 15.
+- [457] 2 Cor. v
+- 15.
+- [458] Ps. xxvi
+- 5.
+- [459] Moralia in Job, vi
+- 18.
+- [460] Of the City of God, xix
+- 19.
+- [461] S. Luke x
+- 40.
+- [462] Hom
+- III., On Ezechiel.
+- [463] Rom. ix
+- 3.
+- [464] Of Compunction, i
+- 7.
+- [465] 1 Cor. iii
+- 8.
+- [466] Hom
+- XIV., On Ezechiel.
+- [467] Tractat., 124, On St
+- John, xxi
+- 22.
+- [468] Hom
+- XIV., On Ezechiel.
+- [469] Hom
+- XII., On Ezechiel.
+- [470] xxx
+- 24.
+- [471] Apoc. xxii
+- 17.
+- [472] Wisd. xv
+- 1-3.
+- [473] Moralia in Job, vi
+- 17.
+- [474] Ibid.
+- [475] Ps. xlv
+- 11.
+- [476] S. Luke x
+- 41.
+- [477] Hom
+- XIV., On Ezechiel.
+- [478] S. Matt. xxv
+- 3, 4.
+- [479] Heb. x
+- 20.
+- [480] S. Luke x
+- 41, 42.
+- [481] Ps. cii
+- 1-15.
+- [482] Hom
+- III., On Ezechiel.
+- [483] On the Trinity, xii
+- 12.
+- [484] Hom
+- III., On Ezechiel.
+- [485] Hom
+- XIV., On Ezechiel.
+- [486] ii
+- 1, 2.
+- [487] Moralia in Job, vi
+- 17.
+- [488] Moralia, vi
+- 17.
+- [489] Ibid., vi
+- 37.
+- [490] Ps. xvi
+- 6-9.

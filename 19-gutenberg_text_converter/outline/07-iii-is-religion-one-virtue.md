@@ -1,0 +1,30 @@
+# III Is Religion One Virtue?
+
+- III
+- Is Religion One Virtue?
+- S. Paul says to the Ephesians[51]: One God, one faith
+  - But true religion maintains faith in one God [contrast]
+  - Consequently religion is one virtue. [consequence]
+- Habits are distinguished according to the divers objects with which they are concerned
+  - But it belongs to religion to show reverence for the One God for one particular reason, inasmuch, namely, as He is the First Principle, the Creator and Governor of all things; hence we read in Malachi[52]: If I am a Father, where is my honour? for it is the father that produces and governs [contrast]
+  - Hence it is clear that religion is but one virtue. [consequence]
+- But some maintain that religion is not one virtue, thus:
+- 1. By religion we are ordained[53] to God
+  - But in God there are Three Persons, and, moreover, divers attributes which are at least distinguishable from one another by reason [contrast]
+  - But the diverse character of the objects on which they fall suffices to differentiate the virtues [contrast]
+  - Hence religion is not one virtue. [consequence]
+- But the Three Divine Persons are but One Principle as concerns the creation and the government of things
+  - And consequently They are to be served by one religion [restatement]
+    - And the divers attributes all concur in the First Principle, for God produces all and governs all by His Wisdom, His Will, and the power of His Goodness [restatement]
+  - Hence religion is but one virtue. [consequence]
+- 2. One virtue can have but one act; for habits are differentiated according to their acts
+  - But religion has many acts, e.g., to worship, to serve, to make vows, to pray, to make sacrifices, and many other similar things [contrast]
+  - Consequently religion is not one virtue. [consequence]
+- But by one and the same act does man serve God and worship Him; for worship is referred to God's excellence, to which is due reverence: service regards man's subjection, for by reason of his condition he is bound to show reverence to God
+  - And under these two heads are comprised all the acts which are attributed to religion; for by them all man makes protestation of the Divine excellence and of his subjection of himself to God, either by offering Him something, or, again, by taking upon himself something Divine. [restatement]
+- 3. Further, adoration belongs to religion
+  - But adoration is paid to images for one reason and to God for another [contrast]
+  - But since diversity of "reason" serves to differentiate the virtues, it seems that religion is not one virtue. [contrast]
+- But religious worship is not paid to images considered in themselves as entities, but precisely as images bringing God Incarnate to our mind
+  - Further, regarding an image precisely as an image of some one, we do not stop at it; it carries us on to that which it represents [restatement]
+  - Hence the fact that religious veneration is paid to images of Christ in no sense means that there are various kinds of latria, nor different virtues of religion. [consequence]

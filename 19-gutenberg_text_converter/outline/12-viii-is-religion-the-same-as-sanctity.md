@@ -1,0 +1,45 @@
+# VIII Is Religion the Same as Sanctity?
+
+- VIII
+- Is Religion the Same as Sanctity?
+- In S. Luke's Gospel[71] we read: Let us serve Him in holiness and justice
+  - But to serve God comes under religion [contrast]
+  - Hence religion is the same as sanctity. [consequence]
+- The word "sanctity" seems to imply two things
+  - First, it seems to imply cleanness; and this is in accordance with the Greek word for it, for in Greek it is hagios,[72] as though meaning "without earth [restatement]
+  - Secondly, it implies stability, and thus among the ancients those things were termed sancta which were so hedged about with laws that they were safe from violation; similarly a thing is said to be sancitum because established by law [restatement]
+    - And even according to the Latins the word sanctus may mean "cleanness," as derived from sanguine tinctus, for of old those who were to be purified were sprinkled with the blood of a victim, as says S. Isidore in his Etymologies.[73] [restatement]
+- And both meanings allow us to attribute sanctity to things which are used in the Divine worship; so that not men only, but also temples and vessels and other similar things are said to be sanctified by reason of their use in Divine worship
+  - For the mind of man is stained by being immersed in inferior things, as indeed all things are cheapened by admixture with things inferior to them—silver, for instance, when mixed with lead [evidence]
+    - And for our minds to be knit to the Supreme Being they must needs be withdrawn from inferior things [restatement]
+  - Hence in the Epistle to the Hebrews[74] it is said: Follow peace with all men, and holiness, without which no man shall see God. [consequence]
+- Cleanness indeed is necessary if a man's mind is to be applied to God
+- Without cleanness, then, the mind cannot be applied to God
+- Stability is also required if the mind is to be applied to God
+  - For the mind is applied to Him as to the Ultimate End and First Principle, and consequently must be immovable [evidence]
+  - Hence the Apostle says: For I am sure that neither death nor life shall separate me from the love of God.[75] [consequence]
+- Sanctity, then, is said to be that whereby man's mind and its acts are applied to God
+  - Hence sanctity does not differ from religion essentially, but in idea only [consequence]
+  - For by religion we mean that a man offers God due service in those things which specially pertain to the Divine worship—sacrifices, for example, and oblations, etc.; but by sanctity we mean that a man not only offers these things, but also refers to God the works of the other virtues, and also that a man disposes himself by good works for the Divine worship. [evidence]
+- Some, however, deny the identity of religion and sanctity, thus:
+- 1. Religion is a certain special virtue
+  - But sanctity is called a general virtue, for according to Andronicus,[76] sanctity is that which "makes men faithful observers of what is justly due to God [contrast]
+  - Hence sanctity is not the same as religion. [consequence]
+- But sanctity is in its essence a special virtue, and as such is, in a sort, the same as religion
+  - It has, however, a certain general aspect in that, by its commands, it directs all the acts of the virtues to the Divine Good [restatement]
+  - In the same way legal justice is termed a general virtue in that it directs the acts of all the virtues to the common good. [analogy]
+- 2. Sanctity seems to imply cleanness, for S. Denis says[77]: "Sanctity is freedom from all impurity; it is perfect and stainless cleanness
+  - Cleanness, however, seems to come under temperance, for this it is which precludes bodily defilement [restatement]
+  - Since, then, religion comes under justice, sanctity cannot be identified with religion. [evidence]
+- Temperance indeed worketh cleanness, but this has not the ratio of sanctity except it be referred to God
+  - Hence S. Augustine says of virginity itself that "not because it is virginity is it held in honour, but because it is consecrated to God."[78] [consequence]
+- 3. Lastly, things that are contradistinguished are not identical
+  - But in all enumerations of the parts of justice sanctity is set against religion. [contrast]
+- But sanctity is set against religion because of the difference aforesaid; they differ indeed in idea, not in substance.
+- Cajetan: Religion is directly concerned with those things which specially pertain to the Divine worship—ceremonies, for example, sacrifices, oblations, etc
+  - Whereas sanctity directly regards the mind, and through the mind the other virtuous works, including those of religion ... for it makes use of them so as thereby to apply the mind—and by consequence all acts that proceed from the human mind—to God [contrast]
+  - Thus we see that many religious people are not saints, whereas all saints are religious [consequence]
+  - For people who devote themselves to ceremonies, sacrifices, etc., can be termed religious; but they can only be called saints in so far as by means of these things they give themselves interiorly to God (on 2 [evidence]
+- 2
+- 81
+- 8).

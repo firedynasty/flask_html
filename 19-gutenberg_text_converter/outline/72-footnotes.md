@@ -1,0 +1,17 @@
+# Footnotes
+
+- FOOTNOTES:
+- [491] S. Luke x
+- 42.
+- [492] Conf., ii
+- 2.
+- [493] Hom
+- V., On Ezechiel.
+- [494] Of the Divine Names, vii.
+- [495] Extrav
+- Of Regulars and of those who pass to the Religious Orders, cap
+- Licet.
+- [496] xii
+- 4.
+- [497] lviii
+- 5.

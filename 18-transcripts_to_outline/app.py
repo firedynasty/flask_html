@@ -735,6 +735,55 @@ def split_chapters(paras):
 
 
 # ---------------------------------------------------------------------------
+# reddit mode — comment-thread parser
+# ---------------------------------------------------------------------------
+# Paste format: optional post text, optional "---COMMENTS---" line, then
+# comments as "u/name: text" with replies indented under their parent.
+# Lines without a u/ prefix continue the current comment. Usernames are
+# dropped; indentation becomes tree depth.
+
+_REDDIT_COMMENT_RE = re.compile(r"^(\s*)u/[\w-]+:\s*(.*)$")
+_REDDIT_SEP_RE = re.compile(r"^---COMMENTS---\s*$", re.M)
+
+
+def build_reddit_tree(text):
+    post, comments = "", text
+    m = _REDDIT_SEP_RE.search(text)
+    if m:
+        post, comments = text[:m.start()].strip(), text[m.end():]
+    roots, stack = [], []
+    post_node = None
+    if post:
+        post_text = " ".join(l.strip() for l in post.splitlines() if l.strip())
+        if post_text:
+            post_node = Node(post_text)
+            roots.append(post_node)
+    for raw in comments.splitlines():
+        if not raw.strip():
+            continue
+        cm = _REDDIT_COMMENT_RE.match(raw)
+        if cm:
+            indent = len(cm.group(1))
+            node = Node(cm.group(2).strip())
+            while stack and stack[-1][0] >= indent:
+                stack.pop()
+            parent = stack[-1][1] if stack else post_node
+            if parent is not None:
+                parent.children.append(node)
+            else:
+                roots.append(node)
+            stack.append((indent, node))
+        else:
+            cont = raw.strip()
+            target = stack[-1][1] if stack else post_node
+            if target is not None:
+                target.text = (target.text + " " + cont).strip()
+            else:
+                roots.append(Node(cont))
+    return roots
+
+
+# ---------------------------------------------------------------------------
 # routes — single paste → outline flow; nothing stored
 # ---------------------------------------------------------------------------
 
@@ -749,12 +798,13 @@ def outline():
     if not text:
         return render_template("index.html", error="Paste some text first.")
     mode = request.form.get("mode", "theology")
-    if mode not in ("theology", "general", "economy", "seeking-alpha"):
+    if mode not in ("theology", "general", "economy", "seeking-alpha", "reddit"):
         mode = "theology"
     cleanup = bool(request.form.get("cleanup"))
     decaps = bool(request.form.get("decaps"))
     orig_text = text
-    if decaps and is_mostly_caps(text):
+    # de-caps joins all lines, which would destroy reddit indentation — skip it there
+    if decaps and mode != "reddit" and is_mostly_caps(text):
         text = normalize_transcript(text)
     paras = paragraphs_from_text(text, cleanup)
     if not paras:
@@ -763,6 +813,17 @@ def outline():
     if not title:
         head = re.findall(r"\S+", paras[0])[:8]
         title = " ".join(head) + ("…" if len(head) == 8 else "")
+    if mode == "reddit":
+        roots = build_reddit_tree(text)
+        md = render_markdown(title, roots)
+        n_nodes, maxd, tags, n_unplaced = chapter_stats(roots)
+        return render_template("outline.html", title=title, mode=mode,
+                               sections=[{"title": None, "roots": roots}],
+                               panel=None, md=md, coverage=None,
+                               n_inserted=None, n_nodes=n_nodes, maxd=maxd,
+                               tags=tags, n_unplaced=n_unplaced,
+                               orig_text=orig_text, cleanup=cleanup,
+                               form_title=request.form.get("title", ""))
     tag_fn = tag_sentence if mode in ("theology", "general") else econ_tag_sentence
     chunks = split_chapters(paras) if mode == "general" else [(None, paras)]
     sections, md_all = [], []

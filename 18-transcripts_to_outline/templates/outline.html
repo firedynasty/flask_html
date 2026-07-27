@@ -109,8 +109,8 @@
   <textarea name="text">{{ orig_text }}</textarea>
 </form>
 <div class="stats">
-  <span>coverage <b>{{ coverage }}%</b></span>
-  <span>insertions <b>{{ n_inserted }}</b></span>
+  <span>coverage <b>{% if coverage is not none %}{{ coverage }}%{% else %}—{% endif %}</b></span>
+  <span>insertions <b>{% if n_inserted is not none %}{{ n_inserted }}{% else %}—{% endif %}</b></span>
   <span>nodes <b>{{ n_nodes }}</b></span>
   <span>max depth <b>{{ maxd }}</b></span>
   <span>unplaced <b>{{ n_unplaced }}</b></span>

@@ -619,6 +619,36 @@ def strip_gutenberg(text):
     return text.strip()
 
 
+# ---------------------------------------------------------------------------
+# ALL-CAPS transcript normalization (YouTube/podcast paste)
+# ---------------------------------------------------------------------------
+
+def is_mostly_caps(text):
+    letters = re.findall(r"[a-zA-Z]", text)
+    if len(letters) < 50:
+        return False
+    upper = sum(1 for c in letters if c.isupper())
+    return upper / len(letters) >= 0.8
+
+
+def normalize_transcript(text):
+    """De-capitalize an ALL-CAPS transcript: strip [7:07] timestamps, turn
+    >> speaker markers into paragraph breaks, join hard line breaks, then
+    re-capitalize sentence starts and standalone 'I'. Proper nouns can't be
+    recovered — they stay lowercase."""
+    t = re.sub(r"\[(?:\d{1,2}:)?\d{1,2}:\d{2}\]", " ", text)  # [7:07] [1:23:45]
+    t = t.replace(">>", "\x02")                                # speaker-turn sentinel
+    t = re.sub(r"\s*\n\s*", " ", t)                            # join hard line breaks
+    t = t.replace("\x02", "\n\n")                              # speaker turns → paragraphs
+    t = re.sub(r" {2,}", " ", t).strip().lower()
+    t = re.sub(r"\bi\b", "I", t)
+    t = re.sub(r"(^|[.?!][\"'“”’)\]]*\s+)([a-z\"“'‘(])",
+               lambda m: m.group(1) + m.group(2).upper(), t)
+    t = re.sub(r"(\n\n\s*)([a-z\"“'‘(])",
+               lambda m: m.group(1) + m.group(2).upper(), t)
+    return t
+
+
 def paragraphs_from_text(text, cleanup):
     text = strip_gutenberg(text.replace("\r\n", "\n").replace("\r", "\n"))
     if cleanup:
@@ -722,6 +752,10 @@ def outline():
     if mode not in ("theology", "general", "economy", "seeking-alpha"):
         mode = "theology"
     cleanup = bool(request.form.get("cleanup"))
+    decaps = bool(request.form.get("decaps"))
+    orig_text = text
+    if decaps and is_mostly_caps(text):
+        text = normalize_transcript(text)
     paras = paragraphs_from_text(text, cleanup)
     if not paras:
         return render_template("index.html", error="No paragraphs found.")
@@ -754,7 +788,9 @@ def outline():
                            sections=sections, panel=panel, md=md,
                            coverage=round(coverage * 100, 2),
                            n_inserted=sum(inserted.values()), n_nodes=n_nodes,
-                           maxd=maxd, tags=dict(tags), n_unplaced=n_unplaced)
+                           maxd=maxd, tags=dict(tags), n_unplaced=n_unplaced,
+                           orig_text=orig_text, cleanup=cleanup,
+                           form_title=request.form.get("title", ""))
 
 
 if __name__ == "__main__":

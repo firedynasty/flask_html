@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>{{ title }} — outline</title>
 <style>
-  :root { --ink:#2b2b2b; --dim:#777; --line:#e3e0d8; --accent:#7a5c2e; }
+  :root { --ink:#2b2b2b; --dim:#777; --line:#e3e0d8; --accent:#7a5c2e; --fz:1; }
   * { box-sizing:border-box; }
   body { font-family: Georgia, 'Times New Roman', serif; color:var(--ink);
          margin:0; background:#faf8f3; }
@@ -13,6 +13,9 @@
         background:#faf8f3; }
   nav a { color:var(--accent); text-decoration:none; }
   nav a:hover { text-decoration:underline; }
+  nav button.linkbtn { color:var(--accent); font:inherit; background:none;
+                       border:none; padding:0; cursor:pointer; }
+  nav button.linkbtn:hover { text-decoration:underline; }
   nav .mid { margin:0 auto; text-align:center; }
   nav .mid h1 { font-size:17px; margin:0; }
   nav .mid .sub { color:var(--dim); font-size:12px; }
@@ -32,7 +35,7 @@
   main { max-width:900px; margin:0 auto; padding:18px 128px 80px; }
   ul.tree, ul.tree ul { list-style:none; margin:0; padding-left:26px; }
   ul.tree { padding-left:0; }
-  ul.tree li { position:relative; margin:4px 0; line-height:1.5; }
+  ul.tree li { position:relative; margin:4px 0; line-height:1.5; font-size:calc(16px * var(--fz)); }
   ul.tree li::before { content:""; position:absolute; left:-16px; top:.72em;
                        width:5px; height:5px; border-radius:50%;
                        background:#b9b2a2; }
@@ -80,8 +83,8 @@
   .psec:last-child { border-bottom:none; }
   .psec h3 { font-size:13px; color:var(--accent); margin:0 0 4px; }
   .psec ul { margin:0; padding-left:20px; }
-  .psec li { font-size:13.5px; line-height:1.5; margin:3px 0; }
-  .psec p { font-size:13.5px; margin:2px 0; }
+  .psec li { font-size:calc(13.5px * var(--fz)); line-height:1.5; margin:3px 0; }
+  .psec p { font-size:calc(13.5px * var(--fz)); margin:2px 0; }
   .dim { color:var(--dim); }
   .mini { font-family:monospace; font-size:11px; color:var(--dim); }
   .chain { font-family:monospace; font-size:12px; }
@@ -90,11 +93,21 @@
 <body>
 <nav>
   <a href="{{ url_for('index') }}">← new paste</a>
+  <button type="submit" form="rerun-form" class="linkbtn">↺ re-outline w/ de-caps</button>
+  <button type="button" id="fz-dec" class="linkbtn">A−</button>
+  <button type="button" id="fz-inc" class="linkbtn">A+</button>
   <div class="mid">
     <h1>{{ title }}</h1>
     <div class="sub">{{ mode }} mode · verbatim · nothing stored</div>
   </div>
 </nav>
+<form method="post" action="{{ url_for('outline') }}" id="rerun-form" hidden>
+  <input type="hidden" name="mode" value="{{ mode }}">
+  <input type="hidden" name="title" value="{{ form_title }}">
+  {% if cleanup %}<input type="hidden" name="cleanup" value="1">{% endif %}
+  <input type="hidden" name="decaps" value="1">
+  <textarea name="text">{{ orig_text }}</textarea>
+</form>
 <div class="stats">
   <span>coverage <b>{{ coverage }}%</b></span>
   <span>insertions <b>{{ n_inserted }}</b></span>
@@ -188,6 +201,7 @@
 </main>
 <footer>
   <a href="{{ url_for('index') }}">← new paste</a>
+  <button type="submit" form="rerun-form">↺ re-outline w/ de-caps</button>
   <button id="to-top" type="button">home</button>
   <div class="mid">{{ title }}</div>
 </footer>
@@ -195,6 +209,19 @@
   document.getElementById('to-top').addEventListener('click', function () {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   });
+  // font size controls (persisted)
+  var fz = parseFloat(localStorage.getItem('pto-fz')) || 1;
+  function applyFz() {
+    document.documentElement.style.setProperty('--fz', fz);
+    localStorage.setItem('pto-fz', fz);
+  }
+  document.getElementById('fz-dec').addEventListener('click', function () {
+    fz = Math.max(0.7, +(fz - 0.1).toFixed(2)); applyFz();
+  });
+  document.getElementById('fz-inc').addEventListener('click', function () {
+    fz = Math.min(2.0, +(fz + 0.1).toFixed(2)); applyFz();
+  });
+  applyFz();
   document.querySelectorAll('.caret').forEach(function (c) {
     c.addEventListener('click', function () {
       c.parentElement.classList.toggle('collapsed');

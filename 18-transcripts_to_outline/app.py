@@ -606,6 +606,28 @@ def stitch_paragraphs(lines, words):
 GUT_START_RE = re.compile(r"\*\*\*\s*START OF (?:THE|THIS) PROJECT GUTENBERG[^\n]*", re.I)
 GUT_END_RE = re.compile(r"\*\*\*\s*END OF (?:THE|THIS) PROJECT GUTENBERG[^\n]*", re.I)
 
+# Match a line that contains only a timestamp — used by strip_transcript_timestamps
+_TS_LINE_RE = re.compile(r"^[ \t]*\[(?:\d{1,2}:)?\d{1,2}:\d{2}\][ \t]*$", re.M)
+# Match any remaining inline timestamp (after line-only ones are gone)
+_TS_INLINE_RE = re.compile(r"\[(?:\d{1,2}:)?\d{1,2}:\d{2}\]")
+
+
+def strip_transcript_timestamps(text):
+    """Strip [MM:SS] / [HH:MM:SS] YouTube-style timestamps.
+
+    Removes the *content* of timestamp-only lines while keeping their
+    surrounding newlines, so existing blank-line paragraph boundaries are
+    preserved and the Kindle/Medium line-per-paragraph mode is not
+    incorrectly triggered.  Inline timestamps are also stripped.
+    The resulting triple-newlines (blank + now-empty timestamp line) are
+    collapsed back to a double-newline.
+    """
+    text = _TS_LINE_RE.sub("", text)           # blank out timestamp lines
+    text = _TS_INLINE_RE.sub("", text)         # remove any inline timestamps
+    text = re.sub(r"[ \t]{2,}", " ", text)     # tidy double spaces
+    text = re.sub(r"\n{3,}", "\n\n", text)     # collapse triple+ newlines
+    return text
+
 
 def strip_gutenberg(text):
     """Drop everything outside the *** START/END OF PROJECT GUTENBERG ***
@@ -803,6 +825,9 @@ def outline():
     cleanup = bool(request.form.get("cleanup"))
     decaps = bool(request.form.get("decaps"))
     orig_text = text
+    # timestamp/tidy subs would destroy reddit indentation — skip them there
+    if mode != "reddit":
+        text = strip_transcript_timestamps(text)
     # de-caps joins all lines, which would destroy reddit indentation — skip it there
     if decaps and mode != "reddit" and is_mostly_caps(text):
         text = normalize_transcript(text)

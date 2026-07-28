@@ -39,12 +39,6 @@
   ul.tree li::before { content:""; position:absolute; left:-16px; top:.72em;
                        width:5px; height:5px; border-radius:50%;
                        background:#b9b2a2; }
-  ul.tree li.has-kids > .caret { cursor:pointer; position:absolute;
-                                 left:-27px; top:.35em; font-size:10px;
-                                 color:#a39b88; user-select:none;
-                                 transition:transform .12s; }
-  ul.tree li.collapsed > .caret { transform:rotate(-90deg); }
-  ul.tree li.collapsed > ul { display:none; }
   .tag { font-family:monospace; font-size:11px; padding:1px 6px;
          border-radius:9px; margin-left:6px; white-space:nowrap; }
   .t-evidence      { background:#e2efe0; color:#3c7a3c; }
@@ -66,7 +60,6 @@
   .t-inference       { background:#fbe9d5; color:#b3641a; }
   .t-speculation     { background:#f7e2ee; color:#9a4a7a; }
   .claim { font-weight:normal; }
-  .keys { color:var(--dim); font-size:11px; margin-left:auto; }
   h2.sec { font-size:15px; color:var(--accent); margin:26px 0 6px;
            border-bottom:1px solid var(--line); padding-bottom:4px; }
   .rawmd { margin-top:36px; font-size:13px; }
@@ -115,7 +108,6 @@
   <span>max depth <b>{{ maxd }}</b></span>
   <span>unplaced <b>{{ n_unplaced }}</b></span>
   {% for tag, cnt in tags|dictsort %}<span>{{ tag }} <b>{{ cnt }}</b></span>{% endfor %}
-  <span class="keys">x collapse all</span>
 </div>
 
 {% if panel and mode == "economy" %}
@@ -178,8 +170,7 @@
 
 <main>
 {% macro render_node(node, depth) %}
-<li class="{{ 'has-kids' if node.children }}">
-  {% if node.children %}<span class="caret">▼</span>{% endif %}
+<li>
   {% if node.tag %}{{ node.text }}<span class="tag t-{{ node.tag }}">[{{ node.tag }}]</span>{% else %}<span class="claim">{{ node.text }}</span>{% endif %}
   {% if node.children %}
   <ul>
@@ -222,19 +213,6 @@
     fz = Math.min(2.0, +(fz + 0.1).toFixed(2)); applyFz();
   });
   applyFz();
-  document.querySelectorAll('.caret').forEach(function (c) {
-    c.addEventListener('click', function () {
-      c.parentElement.classList.toggle('collapsed');
-    });
-  });
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'x') {
-      var anyOpen = document.querySelectorAll('li.has-kids:not(.collapsed)').length > 0;
-      document.querySelectorAll('li.has-kids').forEach(function (li) {
-        li.classList.toggle('collapsed', anyOpen);
-      });
-    }
-  });
 </script>
 </body>
 </html>
